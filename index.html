@@ -2,16 +2,16 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ProКолготки — Магазин стиля</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ProКолготки — Стиль начинается снизу</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<header>
+<header class="header">
   <div class="container">
-    <h1>ProКолготки</h1>
-    <nav>
+    <div class="logo">ProКолготки</div>
+    <nav class="nav">
       <a href="#">Главная</a>
       <a href="#">Каталог</a>
       <a href="#" id="cart-btn">Корзина (<span id="cart-count">0</span>)</a>
@@ -19,37 +19,44 @@
   </div>
 </header>
 
+<section class="hero">
+  <div class="container">
+    <h1>Совершенство в каждой детали</h1>
+    <p>Твои идеальные колготки уже ждут тебя.</p>
+  </div>
+</section>
+
 <main class="container">
   <section class="products-grid">
-    <!-- Товары -->
-    <div class="product-card">
+    <!-- Карточки товаров -->
+    <div class="product-card animate">
       <img src="img/20den.jpg" alt="Колготки 20 DEN">
       <h2>Колготки 20 DEN</h2>
       <p class="price">299 ₽</p>
-      <button class="btn" onclick="addToCart('Колготки 20 DEN')">В корзину</button>
+      <button class="btn" onclick="addToCart('Колготки 20 DEN')">Купить</button>
     </div>
-    <div class="product-card">
+    <div class="product-card animate">
       <img src="img/40den.jpg" alt="Колготки 40 DEN">
       <h2>Колготки 40 DEN</h2>
       <p class="price">399 ₽</p>
-      <button class="btn" onclick="addToCart('Колготки 40 DEN')">В корзину</button>
+      <button class="btn" onclick="addToCart('Колготки 40 DEN')">Купить</button>
     </div>
-    <div class="product-card">
+    <div class="product-card animate">
       <img src="img/winter.jpg" alt="Тёплые зимние колготки">
       <h2>Тёплые зимние колготки</h2>
       <p class="price">599 ₽</p>
-      <button class="btn" onclick="addToCart('Тёплые зимние колготки')">В корзину</button>
+      <button class="btn" onclick="addToCart('Тёплые зимние колготки')">Купить</button>
     </div>
   </section>
 </main>
 
-<footer>
+<footer class="footer">
   <div class="container">
-    <p>© 2025 ProКолготки. Все права защищены.</p>
+    <p>© 2025 ProКолготки. Сделано с любовью и стилем.</p>
   </div>
 </footer>
 
-<!-- Модальное окно корзины -->
+<!-- Корзина -->
 <div id="cart-modal" class="modal">
   <div class="modal-content">
     <span class="close-btn" onclick="closeCart()">&times;</span>
