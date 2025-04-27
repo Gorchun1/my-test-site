@@ -3,41 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ProКОЛГОТКИ 2.0</title>
+    <title>ProКолготки - Лучший магазин колготок</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
     <header class="header">
         <div class="container">
-            <h1 class="logo">ProКОЛГОТКИ 2.0</h1>
-            <nav class="nav">
-                <a href="#">Главная</a>
-                <a href="#">Каталог</a>
-                <a href="#">Контакты</a>
+            <h1>ProКолготки</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Главная</a></li>
+                    <li><a href="#">Каталог</a></li>
+                    <li><a href="#">Корзина (<span id="cart-count">0</span>)</a></li>
+                </ul>
             </nav>
         </div>
     </header>
 
-    <section class="hero">
-        <div class="container">
-            <h1>Открой мир идеальных колготок</h1>
-            <p>Новое поколение товаров — стильно, удобно, современно!</p>
-        </div>
-    </section>
-
-    <section class="products-section">
-        <div class="container">
-            <h2>Каталог товаров</h2>
-            <div id="product-list" class="product-grid"></div>
-        </div>
-    </section>
+    <main class="container">
+        <section id="products" class="products">
+            <!-- Здесь будут товары -->
+        </section>
+    </main>
 
     <footer class="footer">
         <div class="container">
-            &copy; 2025 ProКОЛГОТКИ. Все права защищены.
+            <p>© 2025 ProКолготки. Все права защищены.</p>
         </div>
     </footer>
 
-    <script src="app.js"></script>
+    <script src="script.js"></script>
+
 </body>
 </html>
