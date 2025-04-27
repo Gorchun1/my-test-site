@@ -20,3 +20,16 @@ document.getElementById('cart-btn').addEventListener('click', function() {
 function closeCart() {
   document.getElementById('cart-modal').style.display = 'none';
 }
+
+// Анимация при прокрутке
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, {
+  threshold: 0.1
+});
+
+document.querySelectorAll('.animate').forEach(el => observer.observe(el));
