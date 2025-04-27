@@ -1,40 +1,109 @@
-/* Общие стили */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background: #fff;
+    color: #333;
 }
 
-/* Шапка */
-header {
-    background-color: #333;
-    color: white;
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.header {
+    background: #f8f8f8;
+    padding: 20px 0;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #555;
+    font-weight: 500;
+}
+
+.hero {
     text-align: center;
-    padding: 20px;
+    padding: 100px 20px;
+    background: #fafafa;
 }
 
-header h1 {
-    margin: 0;
-}
-
-/* Главное содержимое */
-main {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-section {
+.hero h1 {
+    font-size: 48px;
     margin-bottom: 20px;
 }
 
-/* Подвал */
-footer {
-    background-color: #333;
-    color: white;
+.hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    background: #000;
+    color: #fff;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.btn-primary:hover {
+    background: #444;
+}
+
+.products-section {
+    padding: 50px 0;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+}
+
+.product-card {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    overflow: hidden;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
+    transition: box-shadow 0.3s;
+}
+
+.product-card:hover {
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+}
+
+.product-name {
+    font-size: 20px;
+    margin: 15px 0 10px;
+}
+
+.product-price {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: #999;
+    background: #f0f0f0;
 }
