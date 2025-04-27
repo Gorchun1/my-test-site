@@ -3,30 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Тестовый сайт</title>
+    <title>ProКОЛГОТКИ 2.0</title>
     <link rel="stylesheet" href="styles.css">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-54VRN0Q1ST"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-54VRN0Q1ST');
-</script></head>
+</head>
 <body>
-    <header>
-        <h1>Привет, мир!</h1>
-        <p>Это тестовый сайт.</p>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">ProКОЛГОТКИ 2.0</h1>
+            <nav class="nav">
+                <a href="#">Главная</a>
+                <a href="#">Каталог</a>
+                <a href="#">Контакты</a>
+            </nav>
+        </div>
     </header>
-    <main>
-        <section>
-            <h2>О сайте</h2>
-            <p>Здесь можно размещать информацию о товарах или услугах.</p>
-        </section>
-    </main>
-    <footer>
-        <p>© 2023 Тестовый сайт</p>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Открой мир идеальных колготок</h1>
+            <p>Новое поколение товаров — стильно, удобно, современно!</p>
+        </div>
+    </section>
+
+    <section class="products-section">
+        <div class="container">
+            <h2>Каталог товаров</h2>
+            <div id="product-list" class="product-grid"></div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            &copy; 2025 ProКОЛГОТКИ. Все права защищены.
+        </div>
     </footer>
+
+    <script src="app.js"></script>
 </body>
 </html>
