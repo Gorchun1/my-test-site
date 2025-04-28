@@ -1,0 +1,14 @@
+{
+  "name": "my-test-site",
+  "version": "1.0.0",
+  "description": "Автоматическое обновление товаров",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "fast-xml-parser": "^4.2.4"
+  }
+}
