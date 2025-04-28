@@ -1,5 +1,49 @@
 // script.js
 
+// Слайдер
+const slides = document.querySelectorAll('.slide');
+const dots = document.querySelectorAll('.dot');
+let currentIndex = 0;
+
+function showSlide(index) {
+  slides.forEach(slide => slide.classList.remove('active'));
+  dots.forEach(dot => dot.classList.remove('active'));
+  slides[index].classList.add('active');
+  dots[index].classList.add('active');
+}
+
+function nextSlide() {
+  currentIndex = (currentIndex + 1) % slides.length;
+  showSlide(currentIndex);
+}
+
+dots.forEach((dot, index) => {
+  dot.addEventListener('click', () => {
+    currentIndex = index;
+    showSlide(currentIndex);
+  });
+});
+
+setInterval(nextSlide, 4000);
+
+// Корзина
+let cart = [];
+
+function addToCart(product) {
+  cart.push(product);
+  updateCartCount();
+  alert(`Добавлено в корзину: ${product}`);
+}
+
+function updateCartCount() {
+  document.getElementById('cart-count').innerText = cart.length;
+}
+
+function closeCart() {
+  document.getElementById('cart-modal').style.display = 'none';
+}
+
+// Загрузка товаров из products.json
 async function loadProducts() {
   try {
     const response = await fetch('products.json');
@@ -11,7 +55,7 @@ async function loadProducts() {
     const products = await response.json();
     const productList = document.getElementById('product-list');
 
-    productList.innerHTML = ''; // Очищаем список перед загрузкой новых товаров
+    productList.innerHTML = '';
 
     products.forEach(product => {
       const name = product.name || 'Без названия';
@@ -19,13 +63,13 @@ async function loadProducts() {
       const picture = Array.isArray(product.picture) ? product.picture[0] : product.picture || 'https://via.placeholder.com/300x400?text=Нет+фото';
 
       const productCard = document.createElement('div');
-      productCard.className = 'product-card';
+      productCard.className = 'product-card animate';
 
       productCard.innerHTML = `
         <img src="${picture}" alt="${name}" class="product-image">
-        <h3 class="product-name">${name}</h3>
-        <p class="product-price">${price} ₽</p>
-        <button class="btn-primary">В корзину</button>
+        <h2>${name}</h2>
+        <p class="price">${price} ₽</p>
+        <button class="btn" onclick="addToCart('${name}')">Купить</button>
       `;
 
       productList.appendChild(productCard);
@@ -38,9 +82,4 @@ async function loadProducts() {
   }
 }
 
-function closeCart() {
-  document.getElementById('cart-modal').style.display = 'none';
-}
-
-// Запускаем загрузку товаров при старте страницы
 document.addEventListener('DOMContentLoaded', loadProducts);
