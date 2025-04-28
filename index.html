@@ -6,34 +6,7 @@
   <title>ProКолготки — Стиль начинается снизу</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-<body><section class="hero-slider">
-  <div class="slides">
-    <div class="slide active" style="background-image: url('images/banner1.jpg');">
-      <div class="slide-content">
-        <h1>Новые коллекции</h1>
-        <p>Лёгкость, стиль и комфорт.</p>
-      </div>
-    </div>
-    <div class="slide" style="background-image: url('images/banner2.jpg');">
-      <div class="slide-content">
-        <h1>Зима 2025</h1>
-        <p>Тепло и элегантность в каждой детали.</p>
-      </div>
-    </div>
-    <div class="slide" style="background-image: url('images/banner3.jpg');">
-      <div class="slide-content">
-        <h1>ProКолготки</h1>
-        <p>Ваш стиль начинается здесь.</p>
-      </div>
-    </div>
-  </div>
-  <div class="indicators">
-    <span class="dot active"></span>
-    <span class="dot"></span>
-    <span class="dot"></span>
-  </div>
-</section>
-
+<body>
 
 <header class="header">
   <div class="container">
@@ -46,16 +19,36 @@
   </div>
 </header>
 
-<section class="hero">
-  <div class="container">
-    <h1>Совершенство в каждой детали</h1>
-    <p>Твои идеальные колготки уже ждут тебя.</p>
+<section class="hero-slider">
+  <div class="slides">
+    <div class="slide active" style="background-image: url('images/banner1.jpg');">
+      <div class="slide-content">
+        <h1>Новая коллекция</h1>
+        <p>Лёгкость и стиль.</p>
+      </div>
+    </div>
+    <div class="slide" style="background-image: url('images/banner2.jpg');">
+      <div class="slide-content">
+        <h1>Зима 2025</h1>
+        <p>Тепло и комфорт в каждой детали.</p>
+      </div>
+    </div>
+    <div class="slide" style="background-image: url('images/banner3.jpg');">
+      <div class="slide-content">
+        <h1>ProКолготки</h1>
+        <p>Твои лучшие моменты начинаются здесь.</p>
+      </div>
+    </div>
+  </div>
+  <div class="indicators">
+    <span class="dot active"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
   </div>
 </section>
 
 <main class="container">
   <section class="products-grid">
-    <!-- Карточки товаров -->
     <div class="product-card animate">
       <img src="img/20den.jpg" alt="Колготки 20 DEN">
       <h2>Колготки 20 DEN</h2>
@@ -93,31 +86,6 @@
 </div>
 
 <script src="script.js"></script>
-<script>
-  const slides = document.querySelectorAll('.slide');
-  const dots = document.querySelectorAll('.dot');
-  let currentIndex = 0;
 
-  function showSlide(index) {
-    slides.forEach(slide => slide.classList.remove('active'));
-    dots.forEach(dot => dot.classList.remove('active'));
-    slides[index].classList.add('active');
-    dots[index].classList.add('active');
-  }
-
-  function nextSlide() {
-    currentIndex = (currentIndex + 1) % slides.length;
-    showSlide(currentIndex);
-  }
-
-  dots.forEach((dot, index) => {
-    dot.addEventListener('click', () => {
-      currentIndex = index;
-      showSlide(currentIndex);
-    });
-  });
-
-  setInterval(nextSlide, 4000);
-</script>
 </body>
 </html>
