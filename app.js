@@ -4,37 +4,40 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 const { XMLParser } = require('fast-xml-parser');
 
-async function loadAndSaveProducts() {
-    try {
-        const response = await fetch('https://prokolgotki.ru/available.xml');
-        const xmlText = await response.text();
+async function updateProducts() {
+  try {
+    console.log('🔄 Загрузка XML...');
+    const response = await fetch('https://prokolgotki.ru/available.xml');
 
-        const parser = new XMLParser({
-            ignoreAttributes: false,
-            attributeNamePrefix: '',
-        });
-        const jsonObj = parser.parse(xmlText);
-
-        const offers = jsonObj?.yml_catalog?.shop?.offers?.offer;
-
-        if (!offers || offers.length === 0) {
-            console.error('Нет товаров в XML');
-            return;
-        }
-
-        const products = offers.map(offer => ({
-            id: offer.id || '',
-            name: offer.name || 'Без названия',
-            price: offer.price || '0',
-            picture: Array.isArray(offer.picture) ? offer.picture[0] : (offer.picture || 'https://via.placeholder.com/300x400?text=Нет+фото')
-        }));
-
-        fs.writeFileSync('products.json', JSON.stringify(products, null, 2), 'utf-8');
-
-        console.log('Файл products.json успешно создан с', products.length, 'товарами.');
-    } catch (error) {
-        console.error('Ошибка загрузки или обработки товаров:', error);
+    if (!response.ok) {
+      throw new Error(`Ошибка загрузки XML: ${response.status} ${response.statusText}`);
     }
+
+    const xmlData = await response.text();
+    console.log('✅ XML получен. Парсинг...');
+
+    const parser = new XMLParser({
+      ignoreAttributes: false,
+      attributeNamePrefix: '',
+    });
+    const jsonData = parser.parse(xmlData);
+
+    if (!jsonData.yml_catalog || !jsonData.yml_catalog.shop || !jsonData.yml_catalog.shop.offers || !jsonData.yml_catalog.shop.offers.offer) {
+      throw new Error('❌ Структура XML неожиданная. Нет offers.offer');
+    }
+
+    const offers = jsonData.yml_catalog.shop.offers.offer;
+
+    console.log(`✅ Найдено товаров: ${offers.length}. Сохраняю...`);
+
+    fs.writeFileSync('products.json', JSON.stringify(offers, null, 2), 'utf8');
+
+    console.log('🎯 Товары успешно обновлены и сохранены в products.json');
+    process.exit(0);
+  } catch (error) {
+    console.error('❌ Ошибка обновления товаров:', error.message);
+    process.exit(1);
+  }
 }
 
-loadAndSaveProducts();
+updateProducts();
