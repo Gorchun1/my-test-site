@@ -1,43 +1,36 @@
-// app.js
-
+// Подключаем fetch для Node.js
 const fetch = require('node-fetch');
 const fs = require('fs');
 const { XMLParser } = require('fast-xml-parser');
 
+console.log('Загрузка XML...');
+
 async function updateProducts() {
-  try {
-    console.log('🔄 Загрузка XML...');
-    const response = await fetch('https://prokolgotki.ru/available.xml');
+    try {
+        const response = await fetch('https://prokolgotki.ru/available.xml');
+        const xmlData = await response.text();
 
-    if (!response.ok) {
-      throw new Error(`Ошибка загрузки XML: ${response.status} ${response.statusText}`);
+        const parser = new XMLParser();
+        const jsonObj = parser.parse(xmlData);
+
+        const offers = jsonObj.yml_catalog.shop.offers.offer;
+
+        const products = offers.map(offer => ({
+            name: offer.name || 'Без названия',
+            price: offer.price || '0',
+            picture: offer.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'
+        }));
+
+        const output = `const products = ${JSON.stringify(products, null, 2)};\nexport default products;`;
+
+        fs.writeFileSync('products.js', output);
+
+        console.log('Товары успешно обновлены.');
+    } catch (error) {
+        console.error('Ошибка обновления товаров:', error);
+        process.exit(1);
     }
-
-    const xmlData = await response.text();
-    console.log('✅ XML получен. Парсинг...');
-
-    const parser = new XMLParser({
-      ignoreAttributes: false,
-      attributeNamePrefix: '',
-    });
-    const jsonData = parser.parse(xmlData);
-
-    if (!jsonData.yml_catalog || !jsonData.yml_catalog.shop || !jsonData.yml_catalog.shop.offers || !jsonData.yml_catalog.shop.offers.offer) {
-      throw new Error('❌ Структура XML неожиданная. Нет offers.offer');
-    }
-
-    const offers = jsonData.yml_catalog.shop.offers.offer;
-
-    console.log(`✅ Найдено товаров: ${offers.length}. Сохраняю...`);
-
-    fs.writeFileSync('products.json', JSON.stringify(offers, null, 2), 'utf8');
-
-    console.log('🎯 Товары успешно обновлены и сохранены в products.json');
-    process.exit(0);
-  } catch (error) {
-    console.error('❌ Ошибка обновления товаров:', error.message);
-    process.exit(1);
-  }
 }
 
 updateProducts();
+
