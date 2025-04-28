@@ -10,7 +10,16 @@ async function updateProducts() {
     const parser = new XMLParser();
     const json = parser.parse(xmlText);
 
-    const offers = json.yml_catalog.shop.offers.offer;
+    // ВРЕМЕННО выводим, чтобы понять структуру
+    console.log(JSON.stringify(json, null, 2));
+
+    // Тут нужно будет подставить правильный путь после просмотра структуры
+    const offers = json.yml_catalog?.shop?.offers?.offer;
+
+    if (!offers) {
+      throw new Error('Не найдены офферы в XML!');
+    }
+
     const products = offers.map(offer => ({
       name: offer.name || 'Без названия',
       price: offer.price || '0',
