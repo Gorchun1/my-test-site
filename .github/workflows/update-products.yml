@@ -22,7 +22,8 @@ jobs:
         run: npm install
 
       - name: Run update script
-        run: node app.js
+        run: node update-products.js
+
 
       - name: Check if there are changes
         id: git-check
