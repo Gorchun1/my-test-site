@@ -1,6 +1,7 @@
 import fetch from 'node-fetch';
 import { XMLParser } from 'fast-xml-parser';
 import fs from 'fs';
+import crypto from 'crypto';
 
 async function updateProducts() {
   try {
@@ -22,10 +23,25 @@ async function updateProducts() {
       picture: item.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'
     }));
 
-    const output = `export const products = ${JSON.stringify(products, null, 2)};`;
+    const output = `export const products = ${JSON.stringify(products, null, 2)};\n`;
 
-    fs.writeFileSync('products.js', output);
-    console.log('Товары успешно обновлены!');
+    const filePath = 'products.js';
+
+    // Проверяем, изменилось ли содержимое
+    let isChanged = true;
+    if (fs.existsSync(filePath)) {
+      const currentContent = fs.readFileSync(filePath, 'utf8');
+      const currentHash = crypto.createHash('sha256').update(currentContent).digest('hex');
+      const newHash = crypto.createHash('sha256').update(output).digest('hex');
+      isChanged = currentHash !== newHash;
+    }
+
+    if (isChanged) {
+      fs.writeFileSync(filePath, output);
+      console.log('Товары обновлены и файл перезаписан.');
+    } else {
+      console.log('Изменений нет, файл оставлен без изменений.');
+    }
   } catch (error) {
     console.error('Ошибка обновления товаров:', error);
     process.exit(1);
