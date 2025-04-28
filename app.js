@@ -1,30 +1,40 @@
 // app.js
+
 const fetch = require('node-fetch');
 const fs = require('fs');
 const { XMLParser } = require('fast-xml-parser');
 
-async function loadProducts() {
+async function loadAndSaveProducts() {
     try {
         const response = await fetch('https://prokolgotki.ru/available.xml');
         const xmlText = await response.text();
-        const parser = new XMLParser();
+
+        const parser = new XMLParser({
+            ignoreAttributes: false,
+            attributeNamePrefix: '',
+        });
         const jsonObj = parser.parse(xmlText);
 
-        // Берем только нужные данные
-        const offers = jsonObj.yml_catalog.shop.offers.offer.map(offer => ({
-            id: offer['@_id'] || '',
-            name: offer.name || '',
-            price: offer.price || '',
-            picture: offer.picture || '',
+        const offers = jsonObj?.yml_catalog?.shop?.offers?.offer;
+
+        if (!offers || offers.length === 0) {
+            console.error('Нет товаров в XML');
+            return;
+        }
+
+        const products = offers.map(offer => ({
+            id: offer.id || '',
+            name: offer.name || 'Без названия',
+            price: offer.price || '0',
+            picture: Array.isArray(offer.picture) ? offer.picture[0] : (offer.picture || 'https://via.placeholder.com/300x400?text=Нет+фото')
         }));
 
-        // Сохраняем в products.json
-        fs.writeFileSync('products.json', JSON.stringify(offers, null, 2));
-        console.log('✅ Товары успешно обновлены');
+        fs.writeFileSync('products.json', JSON.stringify(products, null, 2), 'utf-8');
+
+        console.log('Файл products.json успешно создан с', products.length, 'товарами.');
     } catch (error) {
-        console.error('❌ Ошибка загрузки товаров:', error);
-        process.exit(1);
+        console.error('Ошибка загрузки или обработки товаров:', error);
     }
 }
 
-loadProducts();
+loadAndSaveProducts();
