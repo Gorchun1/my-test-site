@@ -18,10 +18,13 @@ jobs:
       - name: Обновление товаров
         run: node app.js
 
-      - name: Коммит обновленных данных
+      - name: Конфигурация git
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Коммит и пуш обновленного файла
+        run: |
           git add products.json
-          git commit -m "Обновление товаров $(date '+%Y-%m-%d %H:%M:%S')" || echo "Нет изменений"
+          git commit -m "Автоматическое обновление товаров"
           git push
