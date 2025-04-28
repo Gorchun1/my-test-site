@@ -23,11 +23,10 @@ async function updateProducts() {
       picture: item.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'
     }));
 
-    const output = `export const products = ${JSON.stringify(products, null, 2)};\n`;
+    const output = `export const products = ${JSON.stringify(products, null, 2)};`;
 
     const filePath = 'products.js';
 
-    // Проверяем, изменилось ли содержимое
     let isChanged = true;
     if (fs.existsSync(filePath)) {
       const currentContent = fs.readFileSync(filePath, 'utf8');
