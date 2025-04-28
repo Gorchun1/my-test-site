@@ -1,0 +1,27 @@
+name: Update Products
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Каждый день в 2:00 ночи по UTC
+  workflow_dispatch: # Возможность запустить вручную
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Установка зависимостей
+        run: |
+          npm install node-fetch fast-xml-parser
+
+      - name: Обновление товаров
+        run: node app.js
+
+      - name: Коммит обновленных данных
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add products.json
+          git commit -m "Обновление товаров $(date '+%Y-%m-%d %H:%M:%S')" || echo "Нет изменений"
+          git push
