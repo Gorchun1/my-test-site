@@ -3,7 +3,7 @@ name: Update Products
 on:
   schedule:
     - cron: '0 */6 * * *'  # каждые 6 часов
-  workflow_dispatch:      # чтобы можно было запустить руками
+  workflow_dispatch:      # вручную
 
 jobs:
   update-products:
@@ -22,19 +22,27 @@ jobs:
         run: npm install
 
       - name: Run update script
-        run: node update-products.mjs
+        run: node app.js
+
+      - name: Check if there are changes
+        id: git-check
+        run: |
+          git diff --quiet || echo "changes=true" >> $GITHUB_ENV
 
       - name: Configure Git
+        if: env.changes == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Commit changes
+        if: env.changes == 'true'
         run: |
-          git add .
-          git commit -m "Update products [auto]" || echo "No changes to commit"
+          git add products.js
+          git commit -m "Update products [auto]"
 
       - name: Push changes
+        if: env.changes == 'true'
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
