@@ -10,20 +10,16 @@ async function updateProducts() {
     const parser = new XMLParser();
     const json = parser.parse(xmlText);
 
-    // ВРЕМЕННО выводим, чтобы понять структуру
-    console.log(JSON.stringify(json, null, 2));
+    const items = json.rss?.channel?.item;
 
-    // Тут нужно будет подставить правильный путь после просмотра структуры
-    const offers = json.yml_catalog?.shop?.offers?.offer;
-
-    if (!offers) {
-      throw new Error('Не найдены офферы в XML!');
+    if (!items) {
+      throw new Error('Не найдены товары в XML!');
     }
 
-    const products = offers.map(offer => ({
-      name: offer.name || 'Без названия',
-      price: offer.price || '0',
-      picture: offer.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'
+    const products = items.map(item => ({
+      name: item.name || 'Без названия',
+      price: item.price || '0',
+      picture: item.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'
     }));
 
     const output = `export const products = ${JSON.stringify(products, null, 2)};`;
