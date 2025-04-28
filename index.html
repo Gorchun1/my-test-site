@@ -49,7 +49,7 @@
 
 <main class="container">
   <section id="product-list" class="products-grid">
-    <!-- Товары будут загружены сюда из XML -->
+    <!-- Товары будут загружены сюда из products.json -->
   </section>
 </main>
 
@@ -67,6 +67,37 @@
     <ul id="cart-items"></ul>
   </div>
 </div>
+
+<script>
+async function loadProducts() {
+    try {
+        const response = await fetch('products.json');
+        const products = await response.json();
+
+        const productList = document.getElementById('product-list');
+        productList.innerHTML = '';
+
+        products.forEach(product => {
+            const productCard = document.createElement('div');
+            productCard.className = 'product-card';
+
+            productCard.innerHTML = `
+                <img src="${product.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'}" alt="${product.name}" class="product-image">
+                <h3 class="product-name">${product.name}</h3>
+                <p class="product-price">${product.price} ₽</p>
+                <button class="btn-primary">В корзину</button>
+            `;
+
+            productList.appendChild(productCard);
+        });
+    } catch (error) {
+        console.error('Ошибка загрузки товаров:', error);
+        document.getElementById('product-list').innerHTML = `<p>Не удалось загрузить товары. Попробуйте позже.</p>`;
+    }
+}
+
+document.addEventListener('DOMContentLoaded', loadProducts);
+</script>
 
 <script src="script.js"></script>
 
