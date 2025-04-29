@@ -106,48 +106,34 @@ function createProductCard(product, matrix) {
   const sizeSelect = document.createElement('select');
   const colorSelect = document.createElement('select');
 
-  function renderSizeOptions(selectedColor = null) {
-    sizeSelect.innerHTML = '';
-    Object.keys(matrix).forEach(size => {
-      if (selectedColor === null || matrix[size].has(selectedColor)) {
-        const opt = document.createElement('option');
-        opt.value = size;
-        opt.textContent = size;
-        sizeSelect.appendChild(opt);
-      }
-    });
-  }
-
-  function renderColorOptions(selectedSize = null) {
-    colorSelect.innerHTML = '';
-    if (!selectedSize || !matrix[selectedSize]) return;
-    [...matrix[selectedSize]].forEach(color => {
-      const opt = document.createElement('option');
-      opt.value = color;
-      opt.textContent = color;
-      colorSelect.appendChild(opt);
-    });
-  }
-
-  renderSizeOptions();
-  renderColorOptions(Object.keys(matrix)[0]);
-
-  sizeSelect.addEventListener('change', () => {
+  function updateSelects() {
     const selectedSize = sizeSelect.value;
-    renderColorOptions(selectedSize);
-    updateButtonState();
-  });
-
-  colorSelect.addEventListener('change', () => {
     const selectedColor = colorSelect.value;
-    renderSizeOptions(selectedColor);
-    updateButtonState();
-  });
 
-  const button = document.createElement('button');
-  button.className = 'btn';
-  button.textContent = 'В корзину';
-  button.disabled = true;
+    // Очистка <select>
+    sizeSelect.innerHTML = '';
+    colorSelect.innerHTML = '';
+
+    // Заполнение size-select
+    Object.keys(matrix).forEach(size => {
+      const option = document.createElement('option');
+      option.value = size;
+      option.textContent = size;
+      option.disabled = selectedColor && !matrix[size].has(selectedColor);
+      sizeSelect.appendChild(option);
+    });
+
+    // Заполнение color-select
+    if (selectedSize && matrix[selectedSize]) {
+      [...matrix[selectedSize]].forEach(color => {
+        const option = document.createElement('option');
+        option.value = color;
+        option.textContent = color;
+        option.disabled = selectedSize && !matrix[selectedSize].has(color);
+        colorSelect.appendChild(option);
+      });
+    }
+  }
 
   function updateButtonState() {
     const selectedSize = sizeSelect.value;
@@ -157,6 +143,25 @@ function createProductCard(product, matrix) {
     );
     button.disabled = !isValidCombination;
   }
+
+  const button = document.createElement('button');
+  button.className = 'btn';
+  button.textContent = 'В корзину';
+  button.disabled = true;
+
+  sizeSelect.addEventListener('change', () => {
+    updateSelects();
+    updateButtonState();
+  });
+
+  colorSelect.addEventListener('change', () => {
+    updateSelects();
+    updateButtonState();
+  });
+
+  // Инициализация
+  updateSelects();
+  updateButtonState();
 
   button.addEventListener('click', () => {
     const size = sizeSelect.value;
