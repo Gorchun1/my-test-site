@@ -25,12 +25,12 @@ dots.forEach((dot, index) => {
 setInterval(nextSlide, 4000);
 
 // Корзина
-function addToCart(name, size, color, price) {
+function addToCart(product) {
   const cart = JSON.parse(localStorage.getItem('cart') || '[]');
-  cart.push({ name, size, color, price });
+  cart.push(product);
   localStorage.setItem('cart', JSON.stringify(cart));
   updateCartCount();
-  alert(`Добавлено: ${name} — ${size} / ${color}`);
+  alert(`Добавлено: ${product.name} — ${product.size} / ${product.color}`);
 }
 
 function updateCartCount() {
@@ -79,41 +79,48 @@ async function loadProducts() {
     });
 
     const container = document.getElementById('product-list');
-    container.innerHTML = ''; // Очистка контейнера перед рендером новых товаров
+    container.innerHTML = '';
 
     Object.values(grouped).forEach(product => {
       const card = document.createElement('div');
-      card.className = 'product-card'; // Используем класс для стилизации карточки
+      card.className = 'product-card';
 
       // Матрица допустимых комбинаций
-      const matrix = {};
+      const sizeColorMap = {};
+      const colorSizeMap = {};
+      
       product.options.forEach(o => {
-        if (!matrix[o.size]) matrix[o.size] = new Set();
-        matrix[o.size].add(o.color);
+        if (!sizeColorMap[o.size]) sizeColorMap[o.size] = new Set();
+        if (!colorSizeMap[o.color]) colorSizeMap[o.color] = new Set();
+        
+        sizeColorMap[o.size].add(o.color);
+        colorSizeMap[o.color].add(o.size);
       });
 
-      let currentSize = Object.keys(matrix)[0]; // Выбираем первый доступный размер
-      let currentColor = [...matrix[currentSize]][0]; // Выбираем первый доступный цвет
+      const sizeSelect = document.createElement('select');
+      const colorSelect = document.createElement('select');
 
-      const sizeSelect = document.createElement('select'); // Элемент для выбора размера
-      const colorSelect = document.createElement('select'); // Элемент для выбора цвета
-
-      function renderSizeOptions(selectedColor = null) {
-        sizeSelect.innerHTML = '';
-        Object.keys(matrix).forEach(size => {
-          if (selectedColor === null || matrix[size].has(selectedColor)) {
-            const opt = document.createElement('option');
-            opt.value = size;
-            opt.textContent = size;
-            sizeSelect.appendChild(opt);
-          }
+      function updateSizeOptions(selectedColor = null) {
+        sizeSelect.innerHTML = '<option value="">Выберите размер</option>';
+        const sizes = selectedColor 
+          ? [...colorSizeMap[selectedColor]] 
+          : Object.keys(sizeColorMap);
+        
+        sizes.forEach(size => {
+          const opt = document.createElement('option');
+          opt.value = size;
+          opt.textContent = size;
+          sizeSelect.appendChild(opt);
         });
       }
 
-      function renderColorOptions(selectedSize = null) {
-        colorSelect.innerHTML = '';
-        if (!selectedSize || !matrix[selectedSize]) return;
-        [...matrix[selectedSize]].forEach(color => {
+      function updateColorOptions(selectedSize = null) {
+        colorSelect.innerHTML = '<option value="">Выберите цвет</option>';
+        const colors = selectedSize 
+          ? [...sizeColorMap[selectedSize]] 
+          : Object.keys(colorSizeMap);
+        
+        colors.forEach(color => {
           const opt = document.createElement('option');
           opt.value = color;
           opt.textContent = color;
@@ -121,22 +128,19 @@ async function loadProducts() {
         });
       }
 
-      // Первоначальная инициализация
-      renderSizeOptions();
-      renderColorOptions(currentSize);
+      // Инициализация
+      updateSizeOptions();
+      updateColorOptions();
 
-      // Обработчики изменений
       sizeSelect.addEventListener('change', () => {
-        const selectedSize = sizeSelect.value;
-        renderColorOptions(selectedSize); // Обновляем список цветов
+        updateColorOptions(sizeSelect.value);
       });
 
       colorSelect.addEventListener('change', () => {
-        const selectedColor = colorSelect.value;
-        renderSizeOptions(selectedColor); // Обновляем список размеров
+        updateSizeOptions(colorSelect.value);
       });
 
-      // HTML-код карточки товара
+      // HTML карточки
       card.innerHTML = `
         <img src="${product.picture}" alt="${product.name}">
         <h2>${product.brand} — ${product.name}</h2>
@@ -144,37 +148,52 @@ async function loadProducts() {
         <p class="price">${product.price} ₽</p>
         <label>Размер:</label>
       `;
-      card.appendChild(sizeSelect); // Добавляем элемент выбора размера
+      card.appendChild(sizeSelect);
       card.innerHTML += `<label>Цвет:</label>`;
-      card.appendChild(colorSelect); // Добавляем элемент выбора цвета
+      card.appendChild(colorSelect);
 
       const button = document.createElement('button');
-      button.className = 'btn'; // Применяем класс для стилизации кнопки
+      button.className = 'btn';
       button.textContent = 'В корзину';
       button.addEventListener('click', () => {
         const size = sizeSelect.value;
         const color = colorSelect.value;
+        
+        if (!size || !color) {
+          alert('❌ Выберите размер и цвет!');
+          return;
+        }
+
         const match = product.options.find(o => o.size === size && o.color === color);
         if (match) {
-          addToCart(product.name, size, color, match.price);
+          addToCart({
+            brand: product.brand,
+            name: product.name,
+            menu: product.menu,
+            density: product.density,
+            size: size,
+            color: color,
+            price: match.price,
+            picture: product.picture
+          });
         } else {
-          alert('❌ Такая комбинация отсутствует.');
+          alert('❌ Такой комбинации нет в наличии!');
         }
       });
 
-      card.appendChild(button); // Добавляем кнопку "В корзину"
-      container.appendChild(card); // Добавляем карточку в контейнер
+      card.appendChild(button);
+      container.appendChild(card);
     });
 
     console.log(`✅ Загружено: ${Object.keys(grouped).length} карточек`);
   } catch (err) {
     console.error('❌ Ошибка загрузки:', err.message);
-    document.getElementById('product-list').innerHTML = `<p style="color: red;">Не удалось загрузить товары.</p>`;
+    document.getElementById('product-list').innerHTML = `<p style="color:red;">Не удалось загрузить товары.</p>`;
   }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  loadProducts(); // Запускаем загрузку товаров при полной готовности документа
-  updateCartCount(); // Обновляем количество товаров в корзине
-  document.getElementById('cart-btn').addEventListener('click', showCart); // Открываем корзину по кнопке
+  loadProducts();
+  updateCartCount();
+  document.getElementById('cart-btn').addEventListener('click', showCart);
 });
