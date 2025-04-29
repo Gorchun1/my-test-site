@@ -24,7 +24,6 @@ jobs:
       - name: Run update script
         run: node update-products.js
 
-
       - name: Check if there are changes
         id: git-check
         run: |
@@ -39,7 +38,7 @@ jobs:
       - name: Commit changes
         if: env.changes == 'true'
         run: |
-          git add products.js
+          git add products.json
           git commit -m "Update products [auto]"
 
       - name: Push changes
