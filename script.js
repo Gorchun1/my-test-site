@@ -85,76 +85,55 @@ async function loadProducts() {
       const card = document.createElement('div');
       card.className = 'product-card';
 
-      // Собираем уникальные значения
-      const sizes = [...new Set(product.options.map(o => o.size))];
-      const colors = [...new Set(product.options.map(o => o.color))];
-
-      // Матрица доступных комбинаций
+      // Матрица допустимых комбинаций
       const matrix = {};
       product.options.forEach(o => {
         if (!matrix[o.size]) matrix[o.size] = new Set();
         matrix[o.size].add(o.color);
       });
 
-      function getValidColorsForSize(size) {
-        return matrix[size] ? [...matrix[size]] : [];
-      }
-
-      function getValidSizesForColor(color) {
-        return Object.keys(matrix).filter(size => matrix[size].has(color));
-      }
-
-      // Генерация селектов
-      let selectedSize = sizes[0];
-      let validColors = getValidColorsForSize(selectedSize);
+      let currentSize = Object.keys(matrix)[0];
+      let currentColor = [...matrix[currentSize]][0];
 
       const sizeSelect = document.createElement('select');
-      sizeSelect.className = 'size-select';
-      sizes.forEach(size => {
-        const opt = document.createElement('option');
-        opt.value = size;
-        opt.textContent = size;
-        sizeSelect.appendChild(opt);
-      });
-
       const colorSelect = document.createElement('select');
-      colorSelect.className = 'color-select';
-      validColors.forEach(color => {
-        const opt = document.createElement('option');
-        opt.value = color;
-        opt.textContent = color;
-        colorSelect.appendChild(opt);
-      });
 
-      // Обновление color при смене size
-      sizeSelect.addEventListener('change', () => {
-        const size = sizeSelect.value;
-        const valid = getValidColorsForSize(size);
-        updateSelectOptions(colorSelect, valid);
-      });
-
-      // Обновление size при смене color
-      colorSelect.addEventListener('change', () => {
-        const color = colorSelect.value;
-        const valid = getValidSizesForColor(color);
-        updateSelectOptions(sizeSelect, valid);
-      });
-
-      function updateSelectOptions(select, values) {
-        const current = select.value;
-        select.innerHTML = '';
-        values.forEach(v => {
-          const opt = document.createElement('option');
-          opt.value = v;
-          opt.textContent = v;
-          select.appendChild(opt);
+      function renderSizeOptions(selectedColor = null) {
+        sizeSelect.innerHTML = '';
+        Object.keys(matrix).forEach(size => {
+          if (selectedColor === null || matrix[size].has(selectedColor)) {
+            const opt = document.createElement('option');
+            opt.value = size;
+            opt.textContent = size;
+            sizeSelect.appendChild(opt);
+          }
         });
-        if (!values.includes(current)) {
-          select.value = values[0]; // fallback
-        } else {
-          select.value = current;
-        }
       }
+
+      function renderColorOptions(selectedSize = null) {
+        colorSelect.innerHTML = '';
+        if (!selectedSize || !matrix[selectedSize]) return;
+        [...matrix[selectedSize]].forEach(color => {
+          const opt = document.createElement('option');
+          opt.value = color;
+          opt.textContent = color;
+          colorSelect.appendChild(opt);
+        });
+      }
+
+      // Начальные значения
+      renderSizeOptions();
+      renderColorOptions(currentSize);
+
+      sizeSelect.addEventListener('change', () => {
+        const selectedSize = sizeSelect.value;
+        renderColorOptions(selectedSize);
+      });
+
+      colorSelect.addEventListener('change', () => {
+        const selectedColor = colorSelect.value;
+        renderSizeOptions(selectedColor);
+      });
 
       // HTML карточки
       card.innerHTML = `
@@ -175,14 +154,18 @@ async function loadProducts() {
         const size = sizeSelect.value;
         const color = colorSelect.value;
         const match = product.options.find(o => o.size === size && o.color === color);
-        if (match) addToCart(product.name, size, color, match.price);
+        if (match) {
+          addToCart(product.name, size, color, match.price);
+        } else {
+          alert('❌ Такой комбинации нет в наличии!');
+        }
       });
 
       card.appendChild(button);
       container.appendChild(card);
     });
 
-    console.log(`✅ Товаров: ${Object.keys(grouped).length}`);
+    console.log(`✅ Загружено: ${Object.keys(grouped).length} карточек`);
   } catch (err) {
     console.error('❌ Ошибка загрузки:', err.message);
     document.getElementById('product-list').innerHTML = `<p style="color:red;">Не удалось загрузить товары.</p>`;
