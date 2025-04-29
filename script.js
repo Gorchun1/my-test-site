@@ -54,14 +54,13 @@ function showCart() {
   document.getElementById('cart-modal').style.display = 'flex';
 }
 
-// Загрузка товаров и группировка
+// Загрузка и отображение товаров
 async function loadProducts() {
   try {
     const response = await fetch('products.json');
     if (!response.ok) throw new Error(`Ошибка: ${response.status}`);
     const products = await response.json();
 
-    // Группировка по brand+name+menu+density
     const grouped = {};
 
     products.forEach(product => {
@@ -69,13 +68,9 @@ async function loadProducts() {
       if (!grouped[key]) {
         grouped[key] = {
           ...product,
-          sizes: [],
-          colors: [],
           options: []
         };
       }
-      if (!grouped[key].sizes.includes(product.size)) grouped[key].sizes.push(product.size);
-      if (!grouped[key].colors.includes(product.color)) grouped[key].colors.push(product.color);
       grouped[key].options.push({
         size: product.size,
         color: product.color,
@@ -90,37 +85,106 @@ async function loadProducts() {
       const card = document.createElement('div');
       card.className = 'product-card';
 
-      const sizeOptions = product.sizes.map(size => `<option value="${size}">${size}</option>`).join('');
-      const colorOptions = product.colors.map(color => `<option value="${color}">${color}</option>`).join('');
+      // Собираем уникальные значения
+      const sizes = [...new Set(product.options.map(o => o.size))];
+      const colors = [...new Set(product.options.map(o => o.color))];
 
+      // Матрица доступных комбинаций
+      const matrix = {};
+      product.options.forEach(o => {
+        if (!matrix[o.size]) matrix[o.size] = new Set();
+        matrix[o.size].add(o.color);
+      });
+
+      function getValidColorsForSize(size) {
+        return matrix[size] ? [...matrix[size]] : [];
+      }
+
+      function getValidSizesForColor(color) {
+        return Object.keys(matrix).filter(size => matrix[size].has(color));
+      }
+
+      // Генерация селектов
+      let selectedSize = sizes[0];
+      let validColors = getValidColorsForSize(selectedSize);
+
+      const sizeSelect = document.createElement('select');
+      sizeSelect.className = 'size-select';
+      sizes.forEach(size => {
+        const opt = document.createElement('option');
+        opt.value = size;
+        opt.textContent = size;
+        sizeSelect.appendChild(opt);
+      });
+
+      const colorSelect = document.createElement('select');
+      colorSelect.className = 'color-select';
+      validColors.forEach(color => {
+        const opt = document.createElement('option');
+        opt.value = color;
+        opt.textContent = color;
+        colorSelect.appendChild(opt);
+      });
+
+      // Обновление color при смене size
+      sizeSelect.addEventListener('change', () => {
+        const size = sizeSelect.value;
+        const valid = getValidColorsForSize(size);
+        updateSelectOptions(colorSelect, valid);
+      });
+
+      // Обновление size при смене color
+      colorSelect.addEventListener('change', () => {
+        const color = colorSelect.value;
+        const valid = getValidSizesForColor(color);
+        updateSelectOptions(sizeSelect, valid);
+      });
+
+      function updateSelectOptions(select, values) {
+        const current = select.value;
+        select.innerHTML = '';
+        values.forEach(v => {
+          const opt = document.createElement('option');
+          opt.value = v;
+          opt.textContent = v;
+          select.appendChild(opt);
+        });
+        if (!values.includes(current)) {
+          select.value = values[0]; // fallback
+        } else {
+          select.value = current;
+        }
+      }
+
+      // HTML карточки
       card.innerHTML = `
         <img src="${product.picture}" alt="${product.name}">
         <h2>${product.brand} — ${product.name}</h2>
         <p class="meta">${product.menu}, ${product.density}</p>
         <p class="price">${product.price} ₽</p>
-        <label>Размер:
-          <select class="size-select">${sizeOptions}</select>
-        </label>
-        <label>Цвет:
-          <select class="color-select">${colorOptions}</select>
-        </label>
-        <button class="btn">В корзину</button>
+        <label>Размер:</label>
       `;
+      card.appendChild(sizeSelect);
+      card.innerHTML += `<label>Цвет:</label>`;
+      card.appendChild(colorSelect);
 
-      card.querySelector('button').addEventListener('click', () => {
-        const size = card.querySelector('.size-select').value;
-        const color = card.querySelector('.color-select').value;
+      const button = document.createElement('button');
+      button.className = 'btn';
+      button.textContent = 'В корзину';
+      button.addEventListener('click', () => {
+        const size = sizeSelect.value;
+        const color = colorSelect.value;
         const match = product.options.find(o => o.size === size && o.color === color);
-        const price = match ? match.price : product.price;
-        addToCart(product.name, size, color, price);
+        if (match) addToCart(product.name, size, color, match.price);
       });
 
+      card.appendChild(button);
       container.appendChild(card);
     });
 
-    console.log(`✅ Загружено карточек: ${Object.keys(grouped).length}`);
-  } catch (error) {
-    console.error('❌ Ошибка загрузки:', error.message);
+    console.log(`✅ Товаров: ${Object.keys(grouped).length}`);
+  } catch (err) {
+    console.error('❌ Ошибка загрузки:', err.message);
     document.getElementById('product-list').innerHTML = `<p style="color:red;">Не удалось загрузить товары.</p>`;
   }
 }
