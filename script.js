@@ -1,120 +1,179 @@
-fetch('products.json')
-  .then(response => response.json())
-  .then(products => {
-    const groupedProducts = {};
+// Слайдер
+const slides = document.querySelectorAll('.slide');
+const dots = document.querySelectorAll('.dot');
+let currentIndex = 0;
 
-    // Группируем товары по имени (или id, если нужно точнее)
+function showSlide(index) {
+  slides.forEach(slide => slide.classList.remove('active'));
+  dots.forEach(dot => dot.classList.remove('active'));
+  slides[index].classList.add('active');
+  dots[index].classList.add('active');
+}
+
+function nextSlide() {
+  currentIndex = (currentIndex + 1) % slides.length;
+  showSlide(currentIndex);
+}
+
+dots.forEach((dot, index) => {
+  dot.addEventListener('click', () => {
+    currentIndex = index;
+    showSlide(currentIndex);
+  });
+});
+
+setInterval(nextSlide, 4000);
+
+// Корзина
+function addToCart(name, size, color, price) {
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+  cart.push({ name, size, color, price });
+  localStorage.setItem('cart', JSON.stringify(cart));
+  updateCartCount();
+  alert(`Добавлено: ${name} — ${size} / ${color}`);
+}
+
+function updateCartCount() {
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+  document.getElementById('cart-count').innerText = cart.length;
+}
+
+function closeCart() {
+  document.getElementById('cart-modal').style.display = 'none';
+}
+
+function showCart() {
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+  const list = document.getElementById('cart-items');
+  list.innerHTML = '';
+  cart.forEach(item => {
+    const li = document.createElement('li');
+    li.textContent = `${item.name} — ${item.size} / ${item.color} — ${item.price} ₽`;
+    list.appendChild(li);
+  });
+  document.getElementById('cart-modal').style.display = 'flex';
+}
+
+// Загрузка и отображение товаров
+async function loadProducts() {
+  try {
+    const response = await fetch('products.json');
+    if (!response.ok) throw new Error(`Ошибка: ${response.status}`);
+    const products = await response.json();
+
+    const grouped = {};
+
     products.forEach(product => {
-      const key = product.name;
-      if (!groupedProducts[key]) {
-        groupedProducts[key] = [];
+      const key = `${product.brand}|||${product.name}|||${product.menu}|||${product.density}`;
+      if (!grouped[key]) {
+        grouped[key] = {
+          ...product,
+          options: []
+        };
       }
-      groupedProducts[key].push(product);
+      grouped[key].options.push({
+        size: product.size,
+        color: product.color,
+        price: product.price
+      });
     });
 
-    const container = document.getElementById('products-container');
+    const container = document.getElementById('product-list');
+    container.innerHTML = '';
 
-    Object.keys(groupedProducts).forEach(productName => {
-      const productGroup = groupedProducts[productName];
-      const product = productGroup[0]; // используем первый для общих данных
-
+    Object.values(grouped).forEach(product => {
       const card = document.createElement('div');
       card.className = 'product-card';
 
-      const title = document.createElement('h3');
-      title.textContent = `${product.brand} ${product.name}`;
+      // Матрица допустимых комбинаций
+      const matrix = {};
+      product.options.forEach(o => {
+        if (!matrix[o.size]) matrix[o.size] = new Set();
+        matrix[o.size].add(o.color);
+      });
 
-      const density = document.createElement('p');
-      density.textContent = product.density;
-
-      const price = document.createElement('p');
-      price.textContent = `${product.price} ₽`;
-
-      const image = document.createElement('img');
-      image.src = product.picture;
-      image.alt = `${product.brand} ${product.name}`;
+      let currentSize = Object.keys(matrix)[0];
+      let currentColor = [...matrix[currentSize]][0];
 
       const sizeSelect = document.createElement('select');
       const colorSelect = document.createElement('select');
 
-      // Получаем уникальные значения
-      const sizes = [...new Set(productGroup.map(p => p.size))];
-      const colors = [...new Set(productGroup.map(p => p.color))];
-
-      function getValidColorsForSize(size) {
-        return productGroup
-          .filter(p => p.size === size)
-          .map(p => p.color);
-      }
-
-      function getValidSizesForColor(color) {
-        return productGroup
-          .filter(p => p.color === color)
-          .map(p => p.size);
-      }
-
-      function populateSelect(select, options) {
-        select.innerHTML = '';
-        options.forEach(value => {
-          const opt = document.createElement('option');
-          opt.value = value;
-          opt.textContent = value;
-          select.appendChild(opt);
+      function renderSizeOptions(selectedColor = null) {
+        sizeSelect.innerHTML = '';
+        Object.keys(matrix).forEach(size => {
+          if (selectedColor === null || matrix[size].has(selectedColor)) {
+            const opt = document.createElement('option');
+            opt.value = size;
+            opt.textContent = size;
+            sizeSelect.appendChild(opt);
+          }
         });
       }
 
-      // Инициализация селектов
-      populateSelect(sizeSelect, sizes);
-      populateSelect(colorSelect, getValidColorsForSize(sizeSelect.value));
+      function renderColorOptions(selectedSize = null) {
+        colorSelect.innerHTML = '';
+        if (!selectedSize || !matrix[selectedSize]) return;
+        [...matrix[selectedSize]].forEach(color => {
+          const opt = document.createElement('option');
+          opt.value = color;
+          opt.textContent = color;
+          colorSelect.appendChild(opt);
+        });
+      }
+
+      // Начальные значения
+      renderSizeOptions();
+      renderColorOptions(currentSize);
 
       sizeSelect.addEventListener('change', () => {
-        const validColors = getValidColorsForSize(sizeSelect.value);
-        populateSelect(colorSelect, validColors);
+        const selectedSize = sizeSelect.value;
+        renderColorOptions(selectedSize);
       });
 
       colorSelect.addEventListener('change', () => {
-        const validSizes = getValidSizesForColor(colorSelect.value);
-        populateSelect(sizeSelect, validSizes);
-
-        // Повторно валидируем цвета
-        const validColors = getValidColorsForSize(sizeSelect.value);
-        if (!validColors.includes(colorSelect.value)) {
-          populateSelect(colorSelect, validColors);
-        }
-      });
-
-      const addToCartBtn = document.createElement('button');
-      addToCartBtn.textContent = 'В корзину';
-      addToCartBtn.addEventListener('click', () => {
-        const selectedSize = sizeSelect.value;
         const selectedColor = colorSelect.value;
+        renderSizeOptions(selectedColor);
+      });
 
-        const match = productGroup.find(
-          p => p.size === selectedSize && p.color === selectedColor
-        );
+      // HTML карточки
+      card.innerHTML = `
+        <img src="${product.picture}" alt="${product.name}">
+        <h2>${product.brand} — ${product.name}</h2>
+        <p class="meta">${product.menu}, ${product.density}</p>
+        <p class="price">${product.price} ₽</p>
+        <label>Размер:</label>
+      `;
+      card.appendChild(sizeSelect);
+      card.innerHTML += `<label>Цвет:</label>`;
+      card.appendChild(colorSelect);
 
+      const button = document.createElement('button');
+      button.className = 'btn';
+      button.textContent = 'В корзину';
+      button.addEventListener('click', () => {
+        const size = sizeSelect.value;
+        const color = colorSelect.value;
+        const match = product.options.find(o => o.size === size && o.color === color);
         if (match) {
-          addToCart(product.name, selectedSize, selectedColor, match.price);
+          addToCart(product.name, size, color, match.price);
         } else {
-          alert('❌ Такой комбинации не существует!');
+          alert('❌ Такой комбинации нет в наличии!');
         }
       });
 
-      card.appendChild(image);
-      card.appendChild(title);
-      card.appendChild(density);
-      card.appendChild(price);
-      card.appendChild(sizeSelect);
-      card.appendChild(colorSelect);
-      card.appendChild(addToCartBtn);
-
+      card.appendChild(button);
       container.appendChild(card);
     });
-  })
-  .catch(error => {
-    console.error('Ошибка загрузки товаров:', error);
-  });
 
-function addToCart(name, size, color, price) {
-  console.log(`Добавлено в корзину: ${name}, Размер: ${size}, Цвет: ${color}, Цена: ${price}₽`);
+    console.log(`✅ Загружено: ${Object.keys(grouped).length} карточек`);
+  } catch (err) {
+    console.error('❌ Ошибка загрузки:', err.message);
+    document.getElementById('product-list').innerHTML = `<p style="color:red;">Не удалось загрузить товары.</p>`;
+  }
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  loadProducts();
+  updateCartCount();
+  document.getElementById('cart-btn').addEventListener('click', showCart);
+});
