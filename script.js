@@ -1,30 +1,4 @@
-// Слайдер
-const slides = document.querySelectorAll('.slide');
-const dots = document.querySelectorAll('.dot');
-let currentIndex = 0;
-
-function showSlide(index) {
-  slides.forEach(slide => slide.classList.remove('active'));
-  dots.forEach(dot => dot.classList.remove('active'));
-  slides[index].classList.add('active');
-  dots[index].classList.add('active');
-}
-
-function nextSlide() {
-  currentIndex = (currentIndex + 1) % slides.length;
-  showSlide(currentIndex);
-}
-
-dots.forEach((dot, index) => {
-  dot.addEventListener('click', () => {
-    currentIndex = index;
-    showSlide(currentIndex);
-  });
-});
-
-setInterval(nextSlide, 4000);
-
-// Корзина
+// Корзина (осталась прежней)
 function addToCart(name, size, color, price) {
   const cart = JSON.parse(localStorage.getItem('cart') || '[]');
   cart.push({ name, size, color, price });
@@ -36,10 +10,6 @@ function addToCart(name, size, color, price) {
 function updateCartCount() {
   const cart = JSON.parse(localStorage.getItem('cart') || '[]');
   document.getElementById('cart-count').innerText = cart.length;
-}
-
-function closeCart() {
-  document.getElementById('cart-modal').style.display = 'none';
 }
 
 function showCart() {
@@ -54,7 +24,7 @@ function showCart() {
   document.getElementById('cart-modal').style.display = 'flex';
 }
 
-// Загрузка и отображение товаров
+// Загрузка товаров и логика селектов
 async function loadProducts() {
   try {
     const response = await fetch('products.json');
@@ -85,23 +55,34 @@ async function loadProducts() {
       const card = document.createElement('div');
       card.className = 'product-card';
 
-      // Матрица допустимых комбинаций
       const matrix = {};
       product.options.forEach(o => {
         if (!matrix[o.size]) matrix[o.size] = new Set();
         matrix[o.size].add(o.color);
       });
 
-      let currentSize = Object.keys(matrix)[0];
-      let currentColor = [...matrix[currentSize]][0];
+      const sizes = Object.keys(matrix);
+      const defaultSize = sizes[0];
+      const defaultColor = [...matrix[defaultSize]][0];
 
       const sizeSelect = document.createElement('select');
       const colorSelect = document.createElement('select');
 
-      function renderSizeOptions(selectedColor = null) {
+      function updateColorOptions(selectedSize) {
+        colorSelect.innerHTML = '';
+        const colors = [...matrix[selectedSize]];
+        colors.forEach(color => {
+          const opt = document.createElement('option');
+          opt.value = color;
+          opt.textContent = color;
+          colorSelect.appendChild(opt);
+        });
+      }
+
+      function updateSizeOptions(selectedColor) {
         sizeSelect.innerHTML = '';
-        Object.keys(matrix).forEach(size => {
-          if (selectedColor === null || matrix[size].has(selectedColor)) {
+        sizes.forEach(size => {
+          if (matrix[size].has(selectedColor)) {
             const opt = document.createElement('option');
             opt.value = size;
             opt.textContent = size;
@@ -110,29 +91,51 @@ async function loadProducts() {
         });
       }
 
-      function renderColorOptions(selectedSize = null) {
-        colorSelect.innerHTML = '';
-        if (!selectedSize || !matrix[selectedSize]) return;
-        [...matrix[selectedSize]].forEach(color => {
-          const opt = document.createElement('option');
-          opt.value = color;
-          opt.textContent = color;
-          colorSelect.appendChild(opt);
-        });
+      function syncSelects(from = 'size') {
+        const selectedSize = sizeSelect.value;
+        const selectedColor = colorSelect.value;
+
+        if (from === 'size') {
+          const colors = [...matrix[selectedSize]];
+          colorSelect.innerHTML = '';
+          colors.forEach(color => {
+            const opt = document.createElement('option');
+            opt.value = color;
+            opt.textContent = color;
+            colorSelect.appendChild(opt);
+          });
+
+          if (!colors.includes(selectedColor)) {
+            colorSelect.value = colors[0];
+          }
+        }
+
+        if (from === 'color') {
+          sizeSelect.innerHTML = '';
+          sizes.forEach(size => {
+            if (matrix[size].has(selectedColor)) {
+              const opt = document.createElement('option');
+              opt.value = size;
+              opt.textContent = size;
+              sizeSelect.appendChild(opt);
+            }
+          });
+
+          if (!matrix[sizeSelect.value]?.has(selectedColor)) {
+            sizeSelect.value = sizeSelect.options[0].value;
+          }
+        }
       }
 
-      // Начальные значения
-      renderSizeOptions();
-      renderColorOptions(currentSize);
+      updateSizeOptions(defaultColor);
+      updateColorOptions(defaultSize);
 
       sizeSelect.addEventListener('change', () => {
-        const selectedSize = sizeSelect.value;
-        renderColorOptions(selectedSize);
+        syncSelects('size');
       });
 
       colorSelect.addEventListener('change', () => {
-        const selectedColor = colorSelect.value;
-        renderSizeOptions(selectedColor);
+        syncSelects('color');
       });
 
       // HTML карточки
@@ -157,7 +160,7 @@ async function loadProducts() {
         if (match) {
           addToCart(product.name, size, color, match.price);
         } else {
-          alert('❌ Такой комбинации нет в наличии!');
+          alert('❌ Такой комбинации нет!');
         }
       });
 
