@@ -1,4 +1,4 @@
-// Слайдер (без изменений)
+// Слайдер
 const slides = document.querySelectorAll('.slide');
 const dots = document.querySelectorAll('.dot');
 let currentIndex = 0;
@@ -54,13 +54,14 @@ function showCart() {
   document.getElementById('cart-modal').style.display = 'flex';
 }
 
-// Загрузка товаров с группировкой
+// Загрузка товаров и группировка
 async function loadProducts() {
   try {
     const response = await fetch('products.json');
-    if (!response.ok) throw new Error(`Ошибка: ${response.status} ${response.statusText}`);
+    if (!response.ok) throw new Error(`Ошибка: ${response.status}`);
     const products = await response.json();
 
+    // Группировка по brand+name+menu+density
     const grouped = {};
 
     products.forEach(product => {
@@ -68,12 +69,18 @@ async function loadProducts() {
       if (!grouped[key]) {
         grouped[key] = {
           ...product,
-          sizes: new Set(),
-          colors: new Set()
+          sizes: [],
+          colors: [],
+          options: []
         };
       }
-      grouped[key].sizes.add(product.size);
-      grouped[key].colors.add(product.color);
+      if (!grouped[key].sizes.includes(product.size)) grouped[key].sizes.push(product.size);
+      if (!grouped[key].colors.includes(product.color)) grouped[key].colors.push(product.color);
+      grouped[key].options.push({
+        size: product.size,
+        color: product.color,
+        price: product.price
+      });
     });
 
     const container = document.getElementById('product-list');
@@ -83,8 +90,8 @@ async function loadProducts() {
       const card = document.createElement('div');
       card.className = 'product-card';
 
-      const sizes = Array.from(product.sizes).map(size => `<option value="${size}">${size}</option>`).join('');
-      const colors = Array.from(product.colors).map(color => `<option value="${color}">${color}</option>`).join('');
+      const sizeOptions = product.sizes.map(size => `<option value="${size}">${size}</option>`).join('');
+      const colorOptions = product.colors.map(color => `<option value="${color}">${color}</option>`).join('');
 
       card.innerHTML = `
         <img src="${product.picture}" alt="${product.name}">
@@ -92,10 +99,10 @@ async function loadProducts() {
         <p class="meta">${product.menu}, ${product.density}</p>
         <p class="price">${product.price} ₽</p>
         <label>Размер:
-          <select class="size-select">${sizes}</select>
+          <select class="size-select">${sizeOptions}</select>
         </label>
         <label>Цвет:
-          <select class="color-select">${colors}</select>
+          <select class="color-select">${colorOptions}</select>
         </label>
         <button class="btn">В корзину</button>
       `;
@@ -103,16 +110,18 @@ async function loadProducts() {
       card.querySelector('button').addEventListener('click', () => {
         const size = card.querySelector('.size-select').value;
         const color = card.querySelector('.color-select').value;
-        addToCart(product.name, size, color, product.price);
+        const match = product.options.find(o => o.size === size && o.color === color);
+        const price = match ? match.price : product.price;
+        addToCart(product.name, size, color, price);
       });
 
       container.appendChild(card);
     });
 
-    console.log(`✅ Загружено групп: ${Object.keys(grouped).length}`);
-  } catch (err) {
-    console.error('❌ Ошибка при загрузке товаров:', err.message);
-    document.getElementById('product-list').innerHTML = `<p style="color:red;text-align:center;">Не удалось загрузить товары</p>`;
+    console.log(`✅ Загружено карточек: ${Object.keys(grouped).length}`);
+  } catch (error) {
+    console.error('❌ Ошибка загрузки:', error.message);
+    document.getElementById('product-list').innerHTML = `<p style="color:red;">Не удалось загрузить товары.</p>`;
   }
 }
 
