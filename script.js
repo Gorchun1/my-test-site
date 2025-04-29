@@ -1,5 +1,3 @@
-// script.js
-
 // Слайдер
 const slides = document.querySelectorAll('.slide');
 const dots = document.querySelectorAll('.dot');
@@ -27,15 +25,16 @@ dots.forEach((dot, index) => {
 setInterval(nextSlide, 4000);
 
 // Корзина
-let cart = [];
-
-function addToCart(product) {
-  cart.push(product);
+function addToCart(name) {
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+  cart.push({ name });
+  localStorage.setItem('cart', JSON.stringify(cart));
   updateCartCount();
-  alert(`Добавлено в корзину: ${product}`);
+  alert(`Добавлено в корзину: ${name}`);
 }
 
 function updateCartCount() {
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
   document.getElementById('cart-count').innerText = cart.length;
 }
 
@@ -43,7 +42,19 @@ function closeCart() {
   document.getElementById('cart-modal').style.display = 'none';
 }
 
-// Загрузка товаров из products.json
+function showCart() {
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+  const list = document.getElementById('cart-items');
+  list.innerHTML = '';
+  cart.forEach(item => {
+    const li = document.createElement('li');
+    li.textContent = `${item.name}`;
+    list.appendChild(li);
+  });
+  document.getElementById('cart-modal').style.display = 'flex';
+}
+
+// Загрузка товаров
 async function loadProducts() {
   try {
     const response = await fetch('products.json');
@@ -54,7 +65,6 @@ async function loadProducts() {
 
     const products = await response.json();
     const productList = document.getElementById('product-list');
-
     productList.innerHTML = '';
 
     products.forEach(product => {
@@ -78,8 +88,12 @@ async function loadProducts() {
     console.log(`✅ Товары успешно загружены: ${products.length} шт.`);
   } catch (error) {
     console.error('❌ Ошибка при загрузке товаров:', error.message);
-    document.getElementById('product-list').innerHTML = `<p>Не удалось загрузить товары. Попробуйте позже.</p>`;
+    document.getElementById('product-list').innerHTML = `<p style="color:red;text-align:center;">Не удалось загрузить товары. Попробуйте позже.</p>`;
   }
 }
 
-document.addEventListener('DOMContentLoaded', loadProducts);
+document.addEventListener('DOMContentLoaded', () => {
+  loadProducts();
+  updateCartCount();
+  document.getElementById('cart-btn').addEventListener('click', showCart);
+});
