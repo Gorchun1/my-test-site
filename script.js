@@ -1,4 +1,4 @@
-// Корзина (осталась прежней)
+// Корзина
 function addToCart(name, size, color, price) {
   const cart = JSON.parse(localStorage.getItem('cart') || '[]');
   cart.push({ name, size, color, price });
@@ -62,8 +62,8 @@ async function loadProducts() {
       });
 
       const sizes = Object.keys(matrix);
-      const defaultSize = sizes[0];
-      const defaultColor = [...matrix[defaultSize]][0];
+      let currentSize = sizes[0];
+      let currentColor = [...matrix[currentSize]][0];
 
       const sizeSelect = document.createElement('select');
       const colorSelect = document.createElement('select');
@@ -77,6 +77,7 @@ async function loadProducts() {
           opt.textContent = color;
           colorSelect.appendChild(opt);
         });
+        currentColor = colorSelect.value;
       }
 
       function updateSizeOptions(selectedColor) {
@@ -89,54 +90,21 @@ async function loadProducts() {
             sizeSelect.appendChild(opt);
           }
         });
+        currentSize = sizeSelect.value;
       }
-
-      function syncSelects(from = 'size') {
-        const selectedSize = sizeSelect.value;
-        const selectedColor = colorSelect.value;
-
-        if (from === 'size') {
-          const colors = [...matrix[selectedSize]];
-          colorSelect.innerHTML = '';
-          colors.forEach(color => {
-            const opt = document.createElement('option');
-            opt.value = color;
-            opt.textContent = color;
-            colorSelect.appendChild(opt);
-          });
-
-          if (!colors.includes(selectedColor)) {
-            colorSelect.value = colors[0];
-          }
-        }
-
-        if (from === 'color') {
-          sizeSelect.innerHTML = '';
-          sizes.forEach(size => {
-            if (matrix[size].has(selectedColor)) {
-              const opt = document.createElement('option');
-              opt.value = size;
-              opt.textContent = size;
-              sizeSelect.appendChild(opt);
-            }
-          });
-
-          if (!matrix[sizeSelect.value]?.has(selectedColor)) {
-            sizeSelect.value = sizeSelect.options[0].value;
-          }
-        }
-      }
-
-      updateSizeOptions(defaultColor);
-      updateColorOptions(defaultSize);
 
       sizeSelect.addEventListener('change', () => {
-        syncSelects('size');
+        currentSize = sizeSelect.value;
+        updateColorOptions(currentSize);
       });
 
       colorSelect.addEventListener('change', () => {
-        syncSelects('color');
+        currentColor = colorSelect.value;
+        updateSizeOptions(currentColor);
       });
+
+      updateSizeOptions(currentColor);
+      updateColorOptions(currentSize);
 
       // HTML карточки
       card.innerHTML = `
