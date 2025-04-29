@@ -1,4 +1,4 @@
-// Слайдер
+// Слайдер (без изменений)
 const slides = document.querySelectorAll('.slide');
 const dots = document.querySelectorAll('.dot');
 let currentIndex = 0;
@@ -25,12 +25,12 @@ dots.forEach((dot, index) => {
 setInterval(nextSlide, 4000);
 
 // Корзина
-function addToCart(name) {
+function addToCart(name, size, color, price) {
   const cart = JSON.parse(localStorage.getItem('cart') || '[]');
-  cart.push({ name });
+  cart.push({ name, size, color, price });
   localStorage.setItem('cart', JSON.stringify(cart));
   updateCartCount();
-  alert(`Добавлено в корзину: ${name}`);
+  alert(`Добавлено: ${name} — ${size} / ${color}`);
 }
 
 function updateCartCount() {
@@ -48,47 +48,71 @@ function showCart() {
   list.innerHTML = '';
   cart.forEach(item => {
     const li = document.createElement('li');
-    li.textContent = `${item.name}`;
+    li.textContent = `${item.name} — ${item.size} / ${item.color} — ${item.price} ₽`;
     list.appendChild(li);
   });
   document.getElementById('cart-modal').style.display = 'flex';
 }
 
-// Загрузка товаров
+// Загрузка товаров с группировкой
 async function loadProducts() {
   try {
     const response = await fetch('products.json');
-
-    if (!response.ok) {
-      throw new Error(`Ошибка загрузки товаров: ${response.status} ${response.statusText}`);
-    }
-
+    if (!response.ok) throw new Error(`Ошибка: ${response.status} ${response.statusText}`);
     const products = await response.json();
-    const productList = document.getElementById('product-list');
-    productList.innerHTML = '';
+
+    const grouped = {};
 
     products.forEach(product => {
-      const name = product.name || 'Без названия';
-      const price = product.price || '0';
-      const picture = Array.isArray(product.picture) ? product.picture[0] : product.picture || 'https://via.placeholder.com/300x400?text=Нет+фото';
-
-      const productCard = document.createElement('div');
-      productCard.className = 'product-card animate';
-
-      productCard.innerHTML = `
-        <img src="${picture}" alt="${name}" class="product-image">
-        <h2>${name}</h2>
-        <p class="price">${price} ₽</p>
-        <button class="btn" onclick="addToCart('${name}')">Купить</button>
-      `;
-
-      productList.appendChild(productCard);
+      const key = `${product.brand}|||${product.name}|||${product.menu}|||${product.density}`;
+      if (!grouped[key]) {
+        grouped[key] = {
+          ...product,
+          sizes: new Set(),
+          colors: new Set()
+        };
+      }
+      grouped[key].sizes.add(product.size);
+      grouped[key].colors.add(product.color);
     });
 
-    console.log(`✅ Товары успешно загружены: ${products.length} шт.`);
-  } catch (error) {
-    console.error('❌ Ошибка при загрузке товаров:', error.message);
-    document.getElementById('product-list').innerHTML = `<p style="color:red;text-align:center;">Не удалось загрузить товары. Попробуйте позже.</p>`;
+    const container = document.getElementById('product-list');
+    container.innerHTML = '';
+
+    Object.values(grouped).forEach(product => {
+      const card = document.createElement('div');
+      card.className = 'product-card';
+
+      const sizes = Array.from(product.sizes).map(size => `<option value="${size}">${size}</option>`).join('');
+      const colors = Array.from(product.colors).map(color => `<option value="${color}">${color}</option>`).join('');
+
+      card.innerHTML = `
+        <img src="${product.picture}" alt="${product.name}">
+        <h2>${product.brand} — ${product.name}</h2>
+        <p class="meta">${product.menu}, ${product.density}</p>
+        <p class="price">${product.price} ₽</p>
+        <label>Размер:
+          <select class="size-select">${sizes}</select>
+        </label>
+        <label>Цвет:
+          <select class="color-select">${colors}</select>
+        </label>
+        <button class="btn">В корзину</button>
+      `;
+
+      card.querySelector('button').addEventListener('click', () => {
+        const size = card.querySelector('.size-select').value;
+        const color = card.querySelector('.color-select').value;
+        addToCart(product.name, size, color, product.price);
+      });
+
+      container.appendChild(card);
+    });
+
+    console.log(`✅ Загружено групп: ${Object.keys(grouped).length}`);
+  } catch (err) {
+    console.error('❌ Ошибка при загрузке товаров:', err.message);
+    document.getElementById('product-list').innerHTML = `<p style="color:red;text-align:center;">Не удалось загрузить товары</p>`;
   }
 }
 
