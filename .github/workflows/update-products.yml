@@ -3,7 +3,7 @@ name: Update Products
 on:
   schedule:
     - cron: '0 */6 * * *'  # каждые 6 часов
-  workflow_dispatch:        # вручную
+  workflow_dispatch:
 
 jobs:
   update-products:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # <--- ОБЯЗАТЕЛЬНО для коммитов
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -24,44 +26,30 @@ jobs:
       - name: Run update script
         run: node update-products.js
 
-      - name: List all files after script
+      - name: Проверка наличия products.json
         run: |
-          echo "🧾 Содержимое репозитория после update-products.js:"
-          find . -type f
-          echo "---"
+          echo "--- Содержимое workspace ---"
+          ls -la
+          echo "--- Файл products.json ---"
           cat products.json || echo "❌ products.json не найден"
 
-      - name: Check if there are changes
-        id: git-check
-        run: |
-          git diff --quiet || echo "changes=true" >> $GITHUB_ENV
-
       - name: Configure Git
-        if: env.changes == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Debug Git Status
-        if: env.changes == 'true'
+      - name: Add and commit changes
         run: |
-          echo "---- Git status ----"
-          git status
-          echo "---- Tracked files ----"
-          git ls-files
-          echo "---- Untracked files ----"
-          git ls-files --others --exclude-standard
-          echo "---- Workspace ----"
-          ls -la
-
-      - name: Commit changes
-        if: env.changes == 'true'
-        run: |
-          git add -A
-          git commit -m "Update products [auto]"
+          git add -f products.json
+          if git diff --cached --quiet; then
+            echo "❌ Нет изменений — коммит не требуется."
+          else
+            git commit -m "Update products [auto]"
+          fi
 
       - name: Push changes
-        if: env.changes == 'true'
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}
           git push origin HEAD:${{ github.ref_name }}
