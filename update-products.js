@@ -8,18 +8,20 @@ async function updateProducts() {
     console.log('🔄 Загрузка XML...');
     const response = await fetch('https://prokolgotki.ru/available.xml');
     const xmlText = await response.text();
-    const parser = new XMLParser();
+    const parser = new XMLParser({ ignoreAttributes: false });
     const json = parser.parse(xmlText);
 
-    const items = json.rss?.channel?.item;
-
-    if (!items || !Array.isArray(items)) {
-      throw new Error('❌ Не найдены товары в XML!');
-    }
+    const items = json?.rss?.channel?.item;
+    if (!items || !Array.isArray(items)) throw new Error('❌ Не найдены товары в XML!');
 
     const products = items.map(item => ({
+      brand: item.brand || '',
       name: item.name || 'Без названия',
-      price: item.price || '0',
+      menu: item.menu || '',
+      density: item.density || '',
+      size: item.size || '',
+      color: item.color || '',
+      price: Number(item.price) || 0,
       picture: item.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'
     }));
 
@@ -47,4 +49,3 @@ async function updateProducts() {
 }
 
 updateProducts();
-
