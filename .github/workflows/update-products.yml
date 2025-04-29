@@ -24,6 +24,13 @@ jobs:
       - name: Run update script
         run: node update-products.js
 
+      - name: List all files after script
+        run: |
+          echo "🧾 Содержимое репозитория после update-products.js:"
+          find . -type f
+          echo "---"
+          cat products.json || echo "❌ products.json не найден"
+
       - name: Check if there are changes
         id: git-check
         run: |
@@ -40,7 +47,11 @@ jobs:
         run: |
           echo "---- Git status ----"
           git status
-          echo "---- Files in workspace ----"
+          echo "---- Tracked files ----"
+          git ls-files
+          echo "---- Untracked files ----"
+          git ls-files --others --exclude-standard
+          echo "---- Workspace ----"
           ls -la
 
       - name: Commit changes
