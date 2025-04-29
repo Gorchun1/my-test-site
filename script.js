@@ -1,4 +1,3 @@
-```javascript
 // Слайдер
 const slides = document.querySelectorAll('.slide');
 const dots = document.querySelectorAll('.dot');
@@ -80,11 +79,11 @@ async function loadProducts() {
     });
 
     const container = document.getElementById('product-list');
-    container.innerHTML = '';
+    container.innerHTML = ''; // Очистка контейнера перед рендером новых товаров
 
     Object.values(grouped).forEach(product => {
       const card = document.createElement('div');
-      card.className = 'product-card';
+      card.className = 'product-card'; // Используем класс для стилизации карточки
 
       // Матрица допустимых комбинаций
       const matrix = {};
@@ -93,11 +92,11 @@ async function loadProducts() {
         matrix[o.size].add(o.color);
       });
 
-      let currentSize = Object.keys(matrix)[0];
-      let currentColor = [...matrix[currentSize]][0];
+      let currentSize = Object.keys(matrix)[0]; // Выбираем первый доступный размер
+      let currentColor = [...matrix[currentSize]][0]; // Выбираем первый доступный цвет
 
-      const sizeSelect = document.createElement('select');
-      const colorSelect = document.createElement('select');
+      const sizeSelect = document.createElement('select'); // Элемент для выбора размера
+      const colorSelect = document.createElement('select'); // Элемент для выбора цвета
 
       function renderSizeOptions(selectedColor = null) {
         sizeSelect.innerHTML = '';
@@ -122,21 +121,22 @@ async function loadProducts() {
         });
       }
 
-      // Начальные значения
+      // Первоначальная инициализация
       renderSizeOptions();
       renderColorOptions(currentSize);
 
+      // Обработчики изменений
       sizeSelect.addEventListener('change', () => {
         const selectedSize = sizeSelect.value;
-        renderColorOptions(selectedSize);
+        renderColorOptions(selectedSize); // Обновляем список цветов
       });
 
       colorSelect.addEventListener('change', () => {
         const selectedColor = colorSelect.value;
-        renderSizeOptions(selectedColor);
+        renderSizeOptions(selectedColor); // Обновляем список размеров
       });
 
-      // HTML карточки
+      // HTML-код карточки товара
       card.innerHTML = `
         <img src="${product.picture}" alt="${product.name}">
         <h2>${product.brand} — ${product.name}</h2>
@@ -144,12 +144,12 @@ async function loadProducts() {
         <p class="price">${product.price} ₽</p>
         <label>Размер:</label>
       `;
-      card.appendChild(sizeSelect);
+      card.appendChild(sizeSelect); // Добавляем элемент выбора размера
       card.innerHTML += `<label>Цвет:</label>`;
-      card.appendChild(colorSelect);
+      card.appendChild(colorSelect); // Добавляем элемент выбора цвета
 
       const button = document.createElement('button');
-      button.className = 'btn';
+      button.className = 'btn'; // Применяем класс для стилизации кнопки
       button.textContent = 'В корзину';
       button.addEventListener('click', () => {
         const size = sizeSelect.value;
@@ -158,24 +158,23 @@ async function loadProducts() {
         if (match) {
           addToCart(product.name, size, color, match.price);
         } else {
-          alert('❌ Такой комбинации нет в наличии!');
+          alert('❌ Такая комбинация отсутствует.');
         }
       });
 
-      card.appendChild(button);
-      container.appendChild(card);
+      card.appendChild(button); // Добавляем кнопку "В корзину"
+      container.appendChild(card); // Добавляем карточку в контейнер
     });
 
     console.log(`✅ Загружено: ${Object.keys(grouped).length} карточек`);
   } catch (err) {
     console.error('❌ Ошибка загрузки:', err.message);
-    document.getElementById('product-list').innerHTML = `<p style="color:red;">Не удалось загрузить товары.</p>`;
+    document.getElementById('product-list').innerHTML = `<p style="color: red;">Не удалось загрузить товары.</p>`;
   }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-  loadProducts();
-  updateCartCount();
-  document.getElementById('cart-btn').addEventListener('click', showCart);
+  loadProducts(); // Запускаем загрузку товаров при полной готовности документа
+  updateCartCount(); // Обновляем количество товаров в корзине
+  document.getElementById('cart-btn').addEventListener('click', showCart); // Открываем корзину по кнопке
 });
-```
