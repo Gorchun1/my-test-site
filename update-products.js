@@ -5,7 +5,7 @@ import crypto from 'crypto';
 
 async function updateProducts() {
   try {
-    console.log('Загрузка XML...');
+    console.log('🔄 Загрузка XML...');
     const response = await fetch('https://prokolgotki.ru/available.xml');
     const xmlText = await response.text();
     const parser = new XMLParser();
@@ -13,8 +13,8 @@ async function updateProducts() {
 
     const items = json.rss?.channel?.item;
 
-    if (!items) {
-      throw new Error('Не найдены товары в XML!');
+    if (!items || !Array.isArray(items)) {
+      throw new Error('❌ Не найдены товары в XML!');
     }
 
     const products = items.map(item => ({
@@ -23,11 +23,9 @@ async function updateProducts() {
       picture: item.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'
     }));
 
-    const output = `export const products = ${JSON.stringify(products, null, 2)};\n`;
+    const output = JSON.stringify(products, null, 2);
+    const filePath = 'products.json';
 
-    const filePath = 'products.js';
-
-    // Проверяем, изменилось ли содержимое
     let isChanged = true;
     if (fs.existsSync(filePath)) {
       const currentContent = fs.readFileSync(filePath, 'utf8');
@@ -38,14 +36,15 @@ async function updateProducts() {
 
     if (isChanged) {
       fs.writeFileSync(filePath, output);
-      console.log('Товары обновлены и файл перезаписан.');
+      console.log('✅ Файл products.json обновлён.');
     } else {
-      console.log('Изменений нет, файл оставлен без изменений.');
+      console.log('ℹ️ Изменений нет, файл не обновлялся.');
     }
   } catch (error) {
-    console.error('Ошибка обновления товаров:', error);
+    console.error('❌ Ошибка обновления товаров:', error.message);
     process.exit(1);
   }
 }
 
 updateProducts();
+
