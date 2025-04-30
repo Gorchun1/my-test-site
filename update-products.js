@@ -2,8 +2,9 @@ import fetch from 'node-fetch';
 import { XMLParser } from 'fast-xml-parser';
 import fs from 'fs';
 import crypto from 'crypto';
-import cheerio from 'cheerio';
+import cheerioImport from 'cheerio';
 
+const cheerio = cheerioImport; // исправление импорта для ESM
 const xmlUrl = 'https://prokolgotki.ru/available.xml';
 const searchUrl = 'https://www.collant.ru/search/?q=';
 
@@ -18,9 +19,18 @@ async function fetchImageUrl(name) {
         'User-Agent': 'Mozilla/5.0 (compatible; ProKolgotkiBot/1.0)'
       }
     });
+
     const html = await res.text();
     const $ = cheerio.load(html);
-    const img = $('img').first().attr('src');
+
+    // Находим первую валидную картинку, избегаем иконок и спрайтов
+    const img = $('img')
+      .filter((_, el) => {
+        const src = $(el).attr('src') || '';
+        return src.includes('/upload/') || src.includes('/images/');
+      })
+      .first()
+      .attr('src');
 
     if (img && img.startsWith('http')) return img;
     if (img) return `https://www.collant.ru${img}`;
@@ -46,10 +56,9 @@ async function updateProducts() {
 
     for (const item of items) {
       const name = item.name || 'Без названия';
-
       console.log(`🔍 Ищу фото для "${name}"...`);
       const picture = await fetchImageUrl(name);
-      await delay(1000); // пауза между запросами
+      await delay(1000); // пауза между запросами (антибот)
 
       products.push({
         brand: item.brand || '',
@@ -62,6 +71,9 @@ async function updateProducts() {
         picture
       });
     }
+
+    // Сортировка для предсказуемых git-диффов
+    products.sort((a, b) => a.name.localeCompare(b.name));
 
     const output = JSON.stringify(products, null, 2);
     const filePath = 'products.json';
