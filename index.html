@@ -53,23 +53,56 @@
   </section>
 </main>
 
-<footer class="footer">
-  <div class="container">
-    <p>© 2025 ProКолготки. Сделано с любовью и стилем.</p>
-  </div>
-</footer>
-
 <!-- Корзина -->
 <div id="cart-modal" class="modal">
   <div class="modal-content">
     <span class="close-btn" onclick="closeCart()">&times;</span>
     <h2>Ваша корзина</h2>
     <ul id="cart-items"></ul>
+    <div class="cart-total">
+      <strong>Итого:</strong> <span id="cart-total">0 ₽</span>
+    </div>
+    <button class="btn" onclick="checkout()">Оформить заказ</button>
   </div>
 </div>
+
+<footer class="footer">
+  <div class="container">
+    <p>© 2025 ProКолготки. Сделано с любовью и стилем.</p>
+  </div>
+</footer>
+
+<script type="module">
+  import { products } from './products.js';
+
+  async function loadProducts() {
+    try {
+      const productList = document.getElementById('product-list');
+      productList.innerHTML = '';
+
+      products.forEach(product => {
+        const productCard = document.createElement('div');
+        productCard.className = 'product-card';
+
+        productCard.innerHTML = `
+          <img src="${product.picture || 'https://via.placeholder.com/300x400?text=Нет+фото'}" alt="${product.name}" class="product-image">
+          <h3 class="product-name">${product.name}</h3>
+          <p class="product-price">${product.price} ₽</p>
+          <button class="btn" onclick="addToCart('${product.name}', ${product.price})">В корзину</button>
+        `;
+
+        productList.appendChild(productCard);
+      });
+    } catch (error) {
+      console.error('Ошибка загрузки товаров:', error);
+      document.getElementById('product-list').innerHTML = '<p>Не удалось загрузить товары. Попробуйте позже.</p>';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', loadProducts);
+</script>
 
 <script src="script.js" defer></script>
 
 </body>
 </html>
-
