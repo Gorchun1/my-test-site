@@ -1,4 +1,4 @@
-// Слайдер (без изменений)
+// Слайдер
 const slides = document.querySelectorAll('.slide');
 const dots = document.querySelectorAll('.dot');
 let currentIndex = 0;
@@ -24,29 +24,22 @@ dots.forEach((dot, index) => {
 
 setInterval(nextSlide, 4000);
 
-// Корзина (оптимизированная версия)
-function addToCart(product) {
-  const cart = JSON.parse(localStorage.getItem('cart') || [];
-  const exists = cart.some(item => 
-    item.brand === product.brand &&
-    item.name === product.name &&
-    item.size === product.size &&
-    item.color === product.color
-  );
-  
-  if (!exists) {
-    cart.push(product);
-    localStorage.setItem('cart', JSON.stringify(cart));
-    updateCartCount();
-    alert(`Добавлено: ${product.name} (${product.size}/${product.color})`);
-  } else {
-    alert('Товар уже в корзине!');
+// Корзина
+function addToCart(name, size, color, price) {
+  if (!name || !size || !color || !price) {
+    alert('❌ Ошибка добавления в корзину: неверные данные');
+    return;
   }
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+  cart.push({ name, size, color, price });
+  localStorage.setItem('cart', JSON.stringify(cart));
+  updateCartCount();
+  alert(`Добавлено: ${name} — ${size} / ${color}`);
 }
 
 function updateCartCount() {
-  const cart = JSON.parse(localStorage.getItem('cart')) || [];
-  document.getElementById('cart-count').textContent = cart.length;
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+  document.getElementById('cart-count').innerText = cart.length;
 }
 
 function closeCart() {
@@ -54,155 +47,147 @@ function closeCart() {
 }
 
 function showCart() {
-  const cart = JSON.parse(localStorage.getItem('cart')) || [];
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
   const list = document.getElementById('cart-items');
-  list.innerHTML = cart.map(item => `
-    <li>
-      ${item.brand} ${item.name} - 
-      ${item.size}/${item.color} - 
-      ${item.price} ₽
-    </li>
-  `).join('');
+  list.innerHTML = '';
+  cart.forEach(item => {
+    const li = document.createElement('li');
+    li.textContent = `${item.name} — ${item.size} / ${item.color} — ${item.price} ₽`;
+    list.appendChild(li);
+  });
   document.getElementById('cart-modal').style.display = 'flex';
 }
 
-// Улучшенная логика товаров
+// Загрузка и отображение товаров
 async function loadProducts() {
   try {
     const response = await fetch('products.json');
-    if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
+    if (!response.ok) throw new Error(`Ошибка: ${response.status}`);
     const products = await response.json();
 
-    const productMap = products.reduce((acc, product) => {
-      const key = [product.brand, product.name, product.menu, product.density].join('||');
-      if (!acc[key]) {
-        acc[key] = {
+    const grouped = {};
+
+    products.forEach(product => {
+      const key = `${product.brand}|||${product.name}|||${product.menu}|||${product.density}`;
+      if (!grouped[key]) {
+        grouped[key] = {
           ...product,
-          variants: new Map()
+          options: []
         };
       }
-      acc[key].variants.set(`${product.size}|${product.color}`, {
+      grouped[key].options.push({
         size: product.size,
         color: product.color,
         price: product.price
       });
-      return acc;
-    }, {});
+    });
 
     const container = document.getElementById('product-list');
     container.innerHTML = '';
 
-    Object.values(productMap).forEach(group => {
+    Object.values(grouped).forEach(product => {
       const card = document.createElement('div');
       card.className = 'product-card';
-      
-      // Генератор опций
-      const createOptions = (values, selected) => {
-        const fragment = document.createDocumentFragment();
-        fragment.appendChild(new Option('Выберите...', ''));
-        values.forEach(value => {
-          const option = new Option(value, value);
-          option.selected = value === selected;
-          fragment.appendChild(option);
-        });
-        return fragment;
-      };
 
-      // Элементы управления
+      const matrix = {};
+      product.options.forEach(o => {
+        if (!matrix[o.size]) matrix[o.size] = new Set();
+        matrix[o.size].add(o.color);
+      });
+
       const sizeSelect = document.createElement('select');
       const colorSelect = document.createElement('select');
-      const button = document.createElement('button');
-      button.className = 'btn';
-      button.textContent = 'В корзину';
-      button.disabled = true;
 
-      // Состояния выбора
-      let currentSize = '';
-      let currentColor = '';
+      function renderSizeOptions(selectedColor = null) {
+        const previous = sizeSelect.value;
+        sizeSelect.innerHTML = '';
+        let firstValid = null;
 
-      // Обновление селектов
-      const updateSelects = () => {
-        const sizes = [...new Set(
-          currentColor 
-            ? [...group.variants.values()]
-                .filter(v => v.color === currentColor)
-                .map(v => v.size)
-            : [...group.variants.values()].map(v => v.size)
-        )].sort();
+        Object.keys(matrix).forEach(size => {
+          if (selectedColor === null || matrix[size].has(selectedColor)) {
+            const opt = document.createElement('option');
+            opt.value = size;
+            opt.textContent = size;
+            sizeSelect.appendChild(opt);
+            if (!firstValid) firstValid = size;
+          }
+        });
 
-        const colors = [...new Set(
-          currentSize 
-            ? [...group.variants.values()]
-                .filter(v => v.size === currentSize)
-                .map(v => v.color)
-            : [...group.variants.values()].map(v => v.color)
-        )].sort();
+        sizeSelect.value = sizeSelect.querySelector(`option[value="${previous}"]`) ? previous : firstValid;
+      }
 
-        sizeSelect.replaceChildren(createOptions(sizes, currentSize));
-        colorSelect.replaceChildren(createOptions(colors, currentColor));
+      function renderColorOptions(selectedSize = null) {
+        const previous = colorSelect.value;
+        colorSelect.innerHTML = '';
+        let firstValid = null;
 
-        button.disabled = !group.variants.has(`${currentSize}|${currentColor}`);
-      };
+        if (!selectedSize || !matrix[selectedSize]) return;
 
-      // Обработчики событий
+        [...matrix[selectedSize]].forEach(color => {
+          const opt = document.createElement('option');
+          opt.value = color;
+          opt.textContent = color;
+          colorSelect.appendChild(opt);
+          if (!firstValid) firstValid = color;
+        });
+
+        colorSelect.value = colorSelect.querySelector(`option[value="${previous}"]`) ? previous : firstValid;
+      }
+
+      // Начальные значения
+      const initialSize = Object.keys(matrix)[0];
+      const initialColor = [...matrix[initialSize]][0];
+
+      renderSizeOptions(initialColor);
+      renderColorOptions(initialSize);
+
       sizeSelect.addEventListener('change', () => {
-        currentSize = sizeSelect.value;
-        currentColor = '';
-        updateSelects();
+        renderColorOptions(sizeSelect.value);
       });
 
       colorSelect.addEventListener('change', () => {
-        currentColor = colorSelect.value;
-        if (currentColor) {
-          const validSizes = [...group.variants.values()]
-            .filter(v => v.color === currentColor)
-            .map(v => v.size);
-          if (!validSizes.includes(currentSize)) {
-            currentSize = '';
-          }
-        }
-        updateSelects();
+        renderSizeOptions(colorSelect.value);
       });
 
-      button.addEventListener('click', () => {
-        const variant = group.variants.get(`${currentSize}|${currentColor}`);
-        addToCart({ 
-          ...group,
-          size: variant.size,
-          color: variant.color,
-          price: variant.price
-        });
-      });
-
-      // Инициализация
-      updateSelects();
-      
-      // Сборка карточки
+      // HTML карточки
       card.innerHTML = `
-        <img src="${group.picture}" alt="${group.name}">
-        <h2>${group.brand} ${group.name}</h2>
-        <p>${group.menu}, ${group.density}</p>
-        <p class="price">${group.price} ₽</p>
+        <img src="${product.picture}" alt="${product.name}">
+        <h2>${product.brand} — ${product.name}</h2>
+        <p class="meta">${product.menu}, ${product.density}</p>
+        <p class="price">${product.price} ₽</p>
         <label>Размер:</label>
       `;
-      card.append(sizeSelect);
+      card.appendChild(sizeSelect);
       card.innerHTML += `<label>Цвет:</label>`;
-      card.append(colorSelect, button);
-      container.append(card);
+      card.appendChild(colorSelect);
+
+      const button = document.createElement('button');
+      button.className = 'btn';
+      button.textContent = 'В корзину';
+      button.addEventListener('click', () => {
+        const size = sizeSelect.value;
+        const color = colorSelect.value;
+        const match = product.options.find(o => o.size === size && o.color === color);
+        if (match) {
+          addToCart(product.name, size, color, match.price);
+        } else {
+          alert('❌ Такой комбинации нет в наличии!');
+        }
+      });
+
+      card.appendChild(button);
+      container.appendChild(card);
     });
 
-  } catch (error) {
-    console.error('Ошибка:', error);
-    document.getElementById('product-list').innerHTML = `
-      <p class="error">Ошибка загрузки товаров: ${error.message}</p>
-    `;
+    console.log(`✅ Загружено: ${Object.keys(grouped).length} карточек`);
+  } catch (err) {
+    console.error('❌ Ошибка загрузки:', err.message);
+    document.getElementById('product-list').innerHTML = `<p style="color:red;">Не удалось загрузить товары.</p>`;
   }
 }
 
-// Инициализация
 document.addEventListener('DOMContentLoaded', () => {
   loadProducts();
   updateCartCount();
   document.getElementById('cart-btn').addEventListener('click', showCart);
-  document.querySelector('.close-btn').addEventListener('click', closeCart);
 });
