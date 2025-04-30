@@ -42,6 +42,12 @@ function updateCartCount() {
   document.getElementById('cart-count').innerText = cart.length;
 }
 
+function updateCartTotal() {
+  const cart = JSON.parse(localStorage.getItem('cart') || '[]');
+  const total = cart.reduce((sum, item) => sum + Number(item.price), 0);
+  document.getElementById('cart-total').innerText = `${total} ₽`;
+}
+
 function closeCart() {
   document.getElementById('cart-modal').style.display = 'none';
 }
@@ -55,7 +61,12 @@ function showCart() {
     li.textContent = `${item.name} — ${item.size} / ${item.color} — ${item.price} ₽`;
     list.appendChild(li);
   });
+  updateCartTotal();
   document.getElementById('cart-modal').style.display = 'flex';
+}
+
+function checkout() {
+  alert('🛍 Функция оформления заказа в разработке.');
 }
 
 // Загрузка и отображение товаров
@@ -134,7 +145,6 @@ async function loadProducts() {
         colorSelect.value = colorSelect.querySelector(`option[value="${previous}"]`) ? previous : firstValid;
       }
 
-      // Начальные значения
       const initialSize = Object.keys(matrix)[0];
       const initialColor = [...matrix[initialSize]][0];
 
@@ -149,7 +159,6 @@ async function loadProducts() {
         renderSizeOptions(colorSelect.value);
       });
 
-      // HTML карточки
       card.innerHTML = `
         <img src="${product.picture}" alt="${product.name}">
         <h2>${product.brand} — ${product.name}</h2>
