@@ -140,18 +140,21 @@ body {
   margin-bottom: 20px;
 }
 
-.product-card h2 {
+.product-card h2,
+.product-card h3 {
   font-size: 24px;
   margin-bottom: 10px;
 }
 
+.product-price,
 .price {
   font-size: 20px;
   color: #555;
   margin-bottom: 20px;
 }
 
-.btn {
+.btn,
+.btn-primary {
   background: #0071e3;
   color: white;
   padding: 15px 30px;
@@ -159,22 +162,16 @@ body {
   border-radius: 10px;
   font-size: 16px;
   cursor: pointer;
-  transition: background 0.3s;
+  transition: background 0.3s, transform 0.2s;
 }
 
-.btn:hover {
+.btn:hover,
+.btn-primary:hover {
   background: #005bb5;
+  transform: translateY(-2px);
 }
 
-/* Footer */
-.footer {
-  text-align: center;
-  padding: 40px 0;
-  color: #888;
-  font-size: 14px;
-}
-
-/* Modal */
+/* Корзина */
 .modal {
   display: none;
   position: fixed;
@@ -199,3 +196,37 @@ body {
   font-size: 24px;
   cursor: pointer;
 }
+
+.cart-total {
+  margin-top: 20px;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 40px 0;
+  color: #888;
+  font-size: 14px;
+}
+
+/* Адаптация под мобилки */
+@media (max-width: 768px) {
+  .slide-content h1 {
+    font-size: 2rem;
+  }
+  .slide-content p {
+    font-size: 1rem;
+  }
+  .product-card img {
+    height: 200px;
+  }
+  .btn {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+}
+
