@@ -3,24 +3,27 @@ name: Update Image Cache
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 3 1 * *'
+    - cron: '30 3 1 * *'  # Ежемесячное обновление кэша
 
 jobs:
   update_cache:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
+      contents: write  # Разрешение на запись в репозиторий
 
     steps:
+      # Шаг 1: Клонировать репозиторий
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Шаг 2: Установить Node.js
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
+      # Шаг 3: Проверка наличия кэшированного файла
       - name: Restore image_cache.json from cache
         uses: actions/cache/restore@v4
         id: image-cache-restore
@@ -30,6 +33,7 @@ jobs:
           restore-keys: |
             image-cache-
 
+      # Шаг 4: Логирование результата восстановления кэша
       - name: Log cache restore result
         run: |
           if [ -f image_cache.json ]; then
@@ -38,23 +42,28 @@ jobs:
             echo "No cache restored: image_cache.json not found."
           fi
 
+      # Шаг 5: Установка зависимостей
       - name: Install dependencies
         run: npm install
 
+      # Шаг 6: Запуск скрипта обновления кэша
       - name: Run script to update image cache
         run: node update-image-cache.js
 
+      # Шаг 7: Сохранение обновленного файла в кэш
       - name: Save image_cache.json to cache
         uses: actions/cache/save@v4
         with:
           path: image_cache.json
           key: image-cache-v1
 
+      # Шаг 8: Конфигурирование Git
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+      # Шаг 9: Коммит и пуш, если есть изменения
       - name: Commit and push if changes
         shell: bash
         run: |
