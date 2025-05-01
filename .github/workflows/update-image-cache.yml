@@ -1,0 +1,70 @@
+name: Update Image Cache # Название workflow, отображаемое в GitHub Actions
+
+on:
+  workflow_dispatch: # Позволяет запускать вручную через интерфейс GitHub Actions
+  schedule:
+    # Запускает workflow примерно каждые 30 дней.
+    # Этот cron-синтаксис запускает в 03:30 UTC 1-го числа каждого месяца.
+    # GitHub может немного задерживать запланированные запуски.
+    # Точно "каждые 30 дней" сложно задать стандартным cron,
+    # поэтому запуск раз в месяц - распространенная практика.
+    - cron: '30 3 1 * *'
+
+jobs:
+  update_cache:
+    runs-on: ubuntu-latest # Используем последнюю версию Ubuntu
+
+    permissions:
+      contents: write # Даем разрешение на запись в репозиторий (для коммита кэша)
+
+    steps:
+      - name: Checkout repository # 1. Клонируем код репозитория
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js # 2. Устанавливаем нужную версию Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Укажите вашу версию Node.js (например, 18, 20)
+          cache: 'npm' # Включаем кэширование npm-пакетов для ускорения
+
+      # 3. Восстанавливаем кэш image_cache.json из кэша GitHub Actions (не из git)
+      # Это полезно, чтобы скрипт всегда начинал с последней версии кэша,
+      # даже если предыдущий коммит по какой-то причине не прошел.
+      - name: Restore image_cache.json from cache
+        uses: actions/cache/restore@v4
+        id: image-cache-restore # даем id шагу
+        with:
+          path: image_cache.json # Путь к файлу кэша
+          key: image-cache-v1 # Ключ кэша
+
+      - name: Install dependencies # 4. Устанавливаем зависимости проекта
+        run: npm install # или yarn install, если используете yarn
+
+      - name: Run script to update image cache # 5. Запускаем ваш скрипт
+        run: node update-image-cache.js
+
+      # 6. Сохраняем image_cache.json в кэш GitHub Actions
+      # Это бэкап на случай проблем с коммитом
+      - name: Save image_cache.json to cache
+        uses: actions/cache/save@v4
+        with:
+          path: image_cache.json
+          key: image-cache-v1 # Тот же ключ, что и при восстановлении
+
+      - name: Configure Git # 7. Настраиваем Git для коммита
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push if changes # 8. Коммитим и пушим изменения в image_cache.json, если они есть
+        run: |
+          git add image_cache.json
+          # Проверяем, есть ли изменения для коммита
+          if git diff --staged --quiet; then
+            echo "No changes to commit in image_cache.json"
+          else
+            git commit -m "Update image cache [skip ci]" -m "Обновлен файл image_cache.json через GitHub Actions."
+            # [skip ci] в коммите часто используется, чтобы предотвратить запуск других CI/CD процессов
+            git push
+            echo "image_cache.json committed and pushed."
+          fi
