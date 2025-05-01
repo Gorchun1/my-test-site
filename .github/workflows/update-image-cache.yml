@@ -1,80 +1,74 @@
-name: Update Image Cache
+import fs from 'fs';
+import fetch from 'node-fetch';
+import cheerio from 'cheerio';
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '30 3 1 * *'  # Ежемесячное обновление кэша
+const searchUrl = 'https://www.collant.ru/search/?q=';
+const cacheFile = 'image-cache.json';
+const inputNames = new Set();
 
-jobs:
-  update_cache:
-    runs-on: ubuntu-latest
+// === Настроенные имена товаров ===
+inputNames.add('BELLA 8');
+inputNames.add('MICROFIBRA 100');
 
-    permissions:
-      contents: write  # Разрешение на запись в репозиторий
+let imageCache = {};
+if (fs.existsSync(cacheFile)) {
+  try {
+    imageCache = JSON.parse(fs.readFileSync(cacheFile, 'utf8'));
+  } catch {
+    console.warn('⚠️ Не удалось прочитать image-cache.json. Начинаем с пустого кэша.');
+  }
+}
 
-    steps:
-      # Шаг 1: Клонировать репозиторий
-      - name: Checkout repository
-        uses: actions/checkout@v4
+async function fetchImageUrl(name) {
+  try {
+    const res = await fetch(`${searchUrl}${encodeURIComponent(name)}`, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (ProKolgotkiBot/1.0)'
+      }
+    });
 
-      # Шаг 2: Установить Node.js
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+    if (!res.ok) {
+      console.warn(`⚠️ Ошибка при запросе "${name}" — ${res.status}`);
+      return null;
+    }
 
-      # Шаг 3: Проверка наличия кэшированного файла
-      - name: Restore image_cache.json from cache
-        uses: actions/cache/restore@v4
-        id: image-cache-restore
-        with:
-          path: image_cache.json
-          key: image-cache-v1
-          restore-keys: |
-            image-cache-
+    const html = await res.text();
+    const $ = cheerio.load(html);
+    const imgEl = $('.prod-cat-item img, .product-item-detail-slider-image img').first();
+    let img = imgEl.attr('src') || imgEl.attr('data-src');
 
-      # Шаг 4: Логирование результата восстановления кэша
-      - name: Log cache restore result
-        run: |
-          if [ -f image_cache.json ]; then
-            echo "Cache restored: image_cache.json exists."
-          else
-            echo "No cache restored: image_cache.json not found."
-          fi
+    if (img && (img.includes('no_photo') || img.includes('placeholder') || !img.match(/\.(jpg|jpeg|png|gif|webp)/i))) {
+      return null;
+    }
 
-      # Шаг 5: Установка зависимостей
-      - name: Install dependencies
-        run: npm install
+    if (img?.startsWith('//')) img = 'https:' + img;
+    else if (img?.startsWith('/')) img = 'https://www.collant.ru' + img;
+    else if (!img?.startsWith('http')) return null;
 
-      # Шаг 6: Запуск скрипта обновления кэша
-      - name: Run script to update image cache
-        run: node update-image-cache.js
+    return img;
+  } catch (err) {
+    console.error(`❌ Ошибка загрузки изображения для "${name}": ${err.message}`);
+    return null;
+  }
+}
 
-      # Шаг 7: Сохранение обновленного файла в кэш
-      - name: Save image_cache.json to cache
-        uses: actions/cache/save@v4
-        with:
-          path: image_cache.json
-          key: image-cache-v1
+const names = Array.from(inputNames);
+let updated = 0;
 
-      # Шаг 8: Конфигурирование Git
-      - name: Configure Git
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+for (let i = 0; i < names.length; i++) {
+  const name = names[i];
+  if (imageCache[name]) {
+    console.log(`[${i + 1}/${names.length}] ✅ ${name} — уже в кэше`);
+    continue;
+  }
 
-      # Шаг 9: Коммит и пуш, если есть изменения
-      - name: Commit and push if changes
-        shell: bash
-        run: |
-          if [ -f image_cache.json ]; then
-            git add image_cache.json
-            if git diff --staged --quiet; then
-              echo "No changes to commit in image_cache.json"
-            else
-              git commit -m "Update image cache [skip ci]" -m "Обновлен файл image_cache.json через GitHub Actions."
-              git push || echo "Push failed (possibly due to race condition)."
-              echo "image_cache.json committed and pushed."
-            fi
-          else
-            echo "image_cache.json does not exist; skipping commit."
+  console.log(`[${i + 1}/${names.length}] 🔍 Ищу фото для "${name}"...`);
+  const img = await fetchImageUrl(name);
+  imageCache[name] = img || 'https://via.placeholder.com/300x400?text=Нет+фото';
+  updated++;
+
+  fs.writeFileSync(cacheFile, JSON.stringify(imageCache, null, 2));
+  await new Promise(r => setTimeout(r, 1000));
+}
+
+console.log(`\n🗂 Кэш обновлён. Добавлено новых записей: ${updated}`);
