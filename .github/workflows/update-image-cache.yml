@@ -1,74 +1,38 @@
-import fs from 'fs';
-import fetch from 'node-fetch';
-import cheerio from 'cheerio';
+name: Update Image Cache
 
-const searchUrl = 'https://www.collant.ru/search/?q=';
-const cacheFile = 'image-cache.json';
-const inputNames = new Set();
+on:
+  workflow_dispatch:
 
-// === Настроенные имена товаров ===
-inputNames.add('BELLA 8');
-inputNames.add('MICROFIBRA 100');
+jobs:
+  update-cache:
+    runs-on: ubuntu-latest
 
-let imageCache = {};
-if (fs.existsSync(cacheFile)) {
-  try {
-    imageCache = JSON.parse(fs.readFileSync(cacheFile, 'utf8'));
-  } catch {
-    console.warn('⚠️ Не удалось прочитать image-cache.json. Начинаем с пустого кэша.');
-  }
-}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-async function fetchImageUrl(name) {
-  try {
-    const res = await fetch(`${searchUrl}${encodeURIComponent(name)}`, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (ProKolgotkiBot/1.0)'
-      }
-    });
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
 
-    if (!res.ok) {
-      console.warn(`⚠️ Ошибка при запросе "${name}" — ${res.status}`);
-      return null;
-    }
+      - name: Install dependencies
+        run: npm ci
 
-    const html = await res.text();
-    const $ = cheerio.load(html);
-    const imgEl = $('.prod-cat-item img, .product-item-detail-slider-image img').first();
-    let img = imgEl.attr('src') || imgEl.attr('data-src');
+      - name: Run image cache updater
+        run: node update-image-cache.js
 
-    if (img && (img.includes('no_photo') || img.includes('placeholder') || !img.match(/\.(jpg|jpeg|png|gif|webp)/i))) {
-      return null;
-    }
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-    if (img?.startsWith('//')) img = 'https:' + img;
-    else if (img?.startsWith('/')) img = 'https://www.collant.ru' + img;
-    else if (!img?.startsWith('http')) return null;
+      - name: Commit changes
+        run: |
+          git add products.json image-cache.json
+          git commit -m "Update image cache [auto]" || echo "No changes to commit"
 
-    return img;
-  } catch (err) {
-    console.error(`❌ Ошибка загрузки изображения для "${name}": ${err.message}`);
-    return null;
-  }
-}
-
-const names = Array.from(inputNames);
-let updated = 0;
-
-for (let i = 0; i < names.length; i++) {
-  const name = names[i];
-  if (imageCache[name]) {
-    console.log(`[${i + 1}/${names.length}] ✅ ${name} — уже в кэше`);
-    continue;
-  }
-
-  console.log(`[${i + 1}/${names.length}] 🔍 Ищу фото для "${name}"...`);
-  const img = await fetchImageUrl(name);
-  imageCache[name] = img || 'https://via.placeholder.com/300x400?text=Нет+фото';
-  updated++;
-
-  fs.writeFileSync(cacheFile, JSON.stringify(imageCache, null, 2));
-  await new Promise(r => setTimeout(r, 1000));
-}
-
-console.log(`\n🗂 Кэш обновлён. Добавлено новых записей: ${updated}`);
+      - name: Push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git
