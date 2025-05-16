@@ -9301,16 +9301,6 @@
   },
   {
     "brand": "INCANTO",
-    "name": "CITY 20 calzino, 2 pairs",
-    "menu": "Носочки",
-    "density": "20 DEN",
-    "size": "UNICA",
-    "color": "Nero",
-    "price": 141,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
     "name": "CITY 40 calzino, 2 pairs",
     "menu": "Носочки",
     "density": "40 DEN",
@@ -17094,6 +17084,16 @@
     "name": "BIKINI 40",
     "menu": "Колготки",
     "density": "40 DEN",
+    "size": "5-XL",
+    "color": "Daino",
+    "price": 220,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "GIULIA",
+    "name": "BIKINI 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
     "size": "2-S",
     "color": "Playa",
     "price": 220,
@@ -17166,16 +17166,6 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramel",
-    "price": 220,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "INFINITY 8",
-    "menu": "Колготки",
-    "density": "8 DEN",
-    "size": "2-S",
-    "color": "Playa",
     "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -18454,7 +18444,7 @@
     "name": "EMOTION RETE autoreggente",
     "menu": "Чулки",
     "density": "-",
-    "size": "1/2",
+    "size": "3/4",
     "color": "Daino",
     "price": 280,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -27046,16 +27036,6 @@
     "density": "150 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 442,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "TRENDY 150 colors XL",
-    "menu": "Колготки",
-    "density": "150 DEN",
-    "size": "5-XL",
-    "color": "Rosso",
     "price": 442,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -37706,16 +37686,6 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 153,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
-    "name": "VELY 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "2-S",
-    "color": "Melon",
     "price": 153,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -53784,6 +53754,16 @@
     "name": "DELIA 15",
     "menu": "Колготки",
     "density": "15 DEN",
+    "size": "4-L",
+    "color": "Cappuccio",
+    "price": 328,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "FILODORO",
+    "name": "DELIA 15",
+    "menu": "Колготки",
+    "density": "15 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 328,
@@ -54135,6 +54115,16 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "3-M",
+    "color": "Playa",
+    "price": 218,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "FILODORO",
+    "name": "NINFA 20 vita bassa",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "2-S",
     "color": "Playa",
     "price": 218,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -77571,6 +77561,16 @@
   },
   {
     "brand": "OROBLU",
+    "name": "TRICOT knee-highs",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": "ONE SIZE",
+    "color": "Sable",
+    "price": 715,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
     "name": "GEO 8 socks",
     "menu": "Носочки",
     "density": "8 DEN",
@@ -84677,16 +84677,6 @@
     "size": "35-38",
     "color": "Blu",
     "price": 133,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MINI BELL 5202 cotone",
-    "menu": "Носки",
-    "density": "летние",
-    "size": "39-41",
-    "color": "Bianco",
-    "price": 113,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -100586,6 +100576,16 @@
     "density": "",
     "size": "3(M)",
     "color": "Bianco",
+    "price": 558,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ALLA BUONE",
+    "name": "7192 TOP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2(S)",
+    "color": "Rosso",
     "price": 558,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -122376,6 +122376,16 @@
     "density": "",
     "size": "4-M",
     "color": "Mora",
+    "price": 432,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "OmA 3834 BOXER",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "3-S",
+    "color": "Blu Notte",
     "price": 432,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
