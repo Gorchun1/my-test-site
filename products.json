@@ -13874,6 +13874,16 @@
     "name": "TULLE MAGICO 20",
     "menu": "Колготки",
     "density": "20 DEN",
+    "size": "2-S",
+    "color": "Caramello",
+    "price": 289,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "TULLE MAGICO 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
     "size": "5-XL",
     "color": "Nero",
     "price": 289,
@@ -42705,6 +42715,16 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "2-S",
+    "color": "Lola",
+    "price": 273,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "FANTASTICO 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "2-S",
     "color": "Nero",
     "price": 273,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -45177,16 +45197,6 @@
     "size": "2-S",
     "color": "Nero",
     "price": 600,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "DIVA 20 calze",
-    "menu": "Чулки",
-    "density": "20 DEN",
-    "size": "M/L",
-    "color": "Bianco",
-    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -110764,16 +110774,6 @@
     "name": "MA270 panty",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "M/L",
-    "color": "Blu Notte",
-    "price": 436.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MA270 panty",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L/XL",
     "color": "Military",
     "price": 436.8,
@@ -119514,16 +119514,6 @@
     "name": "OmS 181 canotta spalla larga",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L/XL",
-    "color": "Bianco",
-    "price": 603.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmS 181 canotta spalla larga",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M/L",
     "color": "Naturale",
     "price": 603.6,
@@ -119936,16 +119926,6 @@
     "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 376.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmS 270 shorts",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
-    "color": "Bianco",
     "price": 376.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -121965,16 +121945,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
-    "color": "Bianco",
-    "price": 436.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OmB 1224 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
     "color": "Bianco",
     "price": 436.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -127225,16 +127195,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
-    "color": "Avorio",
-    "price": 490.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5210 pantaloni",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Avorio",
     "price": 490.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -182646,16 +182606,6 @@
     "density": "",
     "size": "7-XXL",
     "color": "Jeans",
-    "price": 472.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "EB1722 uomo boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Blu",
     "price": 472.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
