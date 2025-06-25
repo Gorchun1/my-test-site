@@ -12444,16 +12444,6 @@
     "name": "MULTIFIBRA 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "2-S",
-    "color": "Moka",
-    "price": 426,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MULTIFIBRA 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 426,
@@ -41741,16 +41731,6 @@
   },
   {
     "brand": "OMSA",
-    "name": "ATTIVA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "5-XL",
-    "color": "Natural",
-    "price": 313,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
     "name": "ATTIVA 20 XXL",
     "menu": "Колготки",
     "density": "20 DEN",
@@ -53871,16 +53851,6 @@
   },
   {
     "brand": "FILODORO",
-    "name": "ABSOLUTE SUMMER 8 XL",
-    "menu": "Колготки",
-    "density": "8 DEN",
-    "size": "5-XL",
-    "color": "Glace",
-    "price": 466,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
     "name": "DELIA 15",
     "menu": "Колготки",
     "density": "15 DEN",
@@ -55736,6 +55706,16 @@
     "density": "15 DEN",
     "size": "2-S",
     "color": "Nero",
+    "price": 366,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PHILIPPE MATIGNON",
+    "name": "MIRO 15",
+    "menu": "Колготки",
+    "density": "15 DEN",
+    "size": "5-XL",
+    "color": "Cappuccio",
     "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -81944,6 +81924,16 @@
     "name": "art. 880P COLLANT 140 PLUS",
     "menu": "Колготки",
     "density": "140 DEN",
+    "size": 2,
+    "color": "21 Beige",
+    "price": 1831,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 880P COLLANT 140 PLUS",
+    "menu": "Колготки",
+    "density": "140 DEN",
     "size": 4,
     "color": "21 Beige",
     "price": 1831,
@@ -82264,6 +82254,16 @@
     "name": "art. M2180 MEDICALE SOFT collant",
     "menu": "Колготки",
     "density": "-",
+    "size": 2,
+    "color": "40 Beige",
+    "price": 2483,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2180 MEDICALE SOFT collant",
+    "menu": "Колготки",
+    "density": "-",
     "size": 3,
     "color": "40 Beige",
     "price": 2483,
@@ -82326,6 +82326,46 @@
     "density": "-",
     "size": 5,
     "color": "Black",
+    "price": 2268,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2180A MEDICALE SOFT collant no toe",
+    "menu": "Колготки",
+    "density": "-",
+    "size": 2,
+    "color": "40 Beige",
+    "price": 2268,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2180A MEDICALE SOFT collant no toe",
+    "menu": "Колготки",
+    "density": "-",
+    "size": 3,
+    "color": "40 Beige",
+    "price": 2268,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2180A MEDICALE SOFT collant no toe",
+    "menu": "Колготки",
+    "density": "-",
+    "size": 4,
+    "color": "40 Beige",
+    "price": 2268,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2180A MEDICALE SOFT collant no toe",
+    "menu": "Колготки",
+    "density": "-",
+    "size": 5,
+    "color": "40 Beige",
     "price": 2268,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -82715,6 +82755,36 @@
     "menu": "Чулки",
     "density": "280 DEN",
     "size": 3,
+    "color": "36 Beige",
+    "price": 2138,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M1470S STAY-UP 280 OPEN TOE",
+    "menu": "Чулки",
+    "density": "280 DEN",
+    "size": 4,
+    "color": "36 Beige",
+    "price": 2138,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M1470S STAY-UP 280 OPEN TOE",
+    "menu": "Чулки",
+    "density": "280 DEN",
+    "size": 2,
+    "color": "36 Beige",
+    "price": 2138,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M1470S STAY-UP 280 OPEN TOE",
+    "menu": "Чулки",
+    "density": "280 DEN",
+    "size": 3,
     "color": "Black",
     "price": 2138,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -82741,6 +82811,16 @@
   },
   {
     "brand": "RELAXSAN",
+    "name": "art. M1470S STAY-UP 280 OPEN TOE",
+    "menu": "Чулки",
+    "density": "280 DEN",
+    "size": 5,
+    "color": "36 Beige",
+    "price": 2138,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
     "name": "art. M1170 MEDICALE SOFT stay up",
     "menu": "Чулки",
     "density": "-",
@@ -82854,6 +82934,16 @@
     "name": "art. M1170A MEDICALE SOFT stay up no toe",
     "menu": "Чулки",
     "density": "-",
+    "size": 2,
+    "color": "40 Beige",
+    "price": 2040,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M1170A MEDICALE SOFT stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
     "size": 3,
     "color": "40 Beige",
     "price": 2040,
@@ -82925,6 +83015,36 @@
     "menu": "Чулки",
     "density": "-",
     "size": 2,
+    "color": "40 Beige",
+    "price": 2182,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2170 MEDICALE SOFT stay up",
+    "menu": "Чулки",
+    "density": "-",
+    "size": 3,
+    "color": "40 Beige",
+    "price": 2182,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2170 MEDICALE SOFT stay up",
+    "menu": "Чулки",
+    "density": "-",
+    "size": 4,
+    "color": "40 Beige",
+    "price": 2182,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2170 MEDICALE SOFT stay up",
+    "menu": "Чулки",
+    "density": "-",
+    "size": 5,
     "color": "40 Beige",
     "price": 2182,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -82966,6 +83086,46 @@
     "density": "-",
     "size": 5,
     "color": "Black",
+    "price": 2182,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2170A MEDICALE SOFT stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": 2,
+    "color": "40 Beige",
+    "price": 2182,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2170A MEDICALE SOFT stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": 3,
+    "color": "40 Beige",
+    "price": 2182,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2170A MEDICALE SOFT stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": 4,
+    "color": "40 Beige",
+    "price": 2182,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2170A MEDICALE SOFT stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": 5,
+    "color": "40 Beige",
     "price": 2182,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -82985,6 +83145,16 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": 2,
+    "color": "21 Beige",
+    "price": 1002,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 750 GAMBALETTO 70",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 3,
     "color": "21 Beige",
     "price": 1002,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -83075,6 +83245,16 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": 2,
+    "color": "21 Beige",
+    "price": 684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950A LADY 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 2,
     "color": "Black",
     "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -83106,6 +83286,36 @@
     "density": "70 DEN",
     "size": 4,
     "color": "Black",
+    "price": 684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950A LADY 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 4,
+    "color": "21 Beige",
+    "price": 684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950A LADY 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 5,
+    "color": "Black",
+    "price": 684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950A LADY 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 5,
+    "color": "21 Beige",
     "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -83144,8 +83354,28 @@
     "name": "art. 850 GAMBALETTO 140",
     "menu": "Гольфы",
     "density": "140 DEN",
+    "size": 3,
+    "color": "21 Beige",
+    "price": 1223,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 850 GAMBALETTO 140",
+    "menu": "Гольфы",
+    "density": "140 DEN",
     "size": 4,
     "color": "Black",
+    "price": 1223,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 850 GAMBALETTO 140",
+    "menu": "Гольфы",
+    "density": "140 DEN",
+    "size": 4,
+    "color": "21 Beige",
     "price": 1223,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -83161,6 +83391,16 @@
   },
   {
     "brand": "RELAXSAN",
+    "name": "art. 850 GAMBALETTO 140",
+    "menu": "Гольфы",
+    "density": "140 DEN",
+    "size": 5,
+    "color": "21 Beige",
+    "price": 1223,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
     "name": "art. 850M GAMBALETTO 140 MICRO",
     "menu": "Гольфы",
     "density": "140 DEN",
@@ -83224,6 +83464,16 @@
     "name": "art. 950 GAMBALETTO 280",
     "menu": "Гольфы",
     "density": "280 DEN",
+    "size": 5,
+    "color": "Black",
+    "price": 1325,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950 GAMBALETTO 280",
+    "menu": "Гольфы",
+    "density": "280 DEN",
     "size": 4,
     "color": "Black",
     "price": 1325,
@@ -83236,6 +83486,16 @@
     "density": "280 DEN",
     "size": 2,
     "color": "Black",
+    "price": 1325,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950 GAMBALETTO 280",
+    "menu": "Гольфы",
+    "density": "280 DEN",
+    "size": 3,
+    "color": "21 Beige",
     "price": 1325,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -83536,6 +83796,46 @@
     "density": "-",
     "size": 5,
     "color": "Black",
+    "price": 1311,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2150 MEDICALE SOFT gambaletto",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": 2,
+    "color": "40 Beige",
+    "price": 1311,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2150 MEDICALE SOFT gambaletto",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": 3,
+    "color": "40 Beige",
+    "price": 1311,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2150 MEDICALE SOFT gambaletto",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": 4,
+    "color": "40 Beige",
+    "price": 1311,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2150 MEDICALE SOFT gambaletto",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": 5,
+    "color": "40 Beige",
     "price": 1311,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -83576,6 +83876,16 @@
     "density": "-",
     "size": 5,
     "color": "Black",
+    "price": 1322,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2150A MEDICALE SOFT gambaletto open toe",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": 2,
+    "color": "40 Beige",
     "price": 1322,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -83680,6 +83990,16 @@
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
+    "brand": "RELAXSAN",
+    "name": "art. 920 COTTON SOCKS",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "43-45",
+    "color": "Black",
+    "price": 1457,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
     "brand": "MINIMI",
     "name": "MINI BELL LIGHT cotone",
     "menu": "Носки",
@@ -83725,6 +84045,16 @@
     "menu": "Носки",
     "density": "летние",
     "size": "39-41",
+    "color": "Beige",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MINI BELL LIGHT cotone",
+    "menu": "Носки",
+    "density": "летние",
+    "size": "35-38",
     "color": "Beige",
     "price": 66,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -98804,6 +99134,16 @@
     "name": "7001 TOP",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "4(L)",
+    "color": "Bianco",
+    "price": 526.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ALLA BUONE",
+    "name": "7001 TOP",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "5(XL)",
     "color": "Bianco",
     "price": 526.8,
@@ -102836,16 +103176,6 @@
     "density": "",
     "size": "M(46)",
     "color": "Celeste",
-    "price": 241.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0223 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
-    "color": "Rosso",
     "price": 241.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -110505,16 +110835,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
-    "color": "Bianco",
-    "price": 436.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MA270 panty",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
     "color": "Bianco",
     "price": 436.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -116835,16 +117155,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
-    "color": "Nero",
-    "price": 603.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmD MELANGE 1211 tank top",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L/XL",
     "color": "Beige Melange",
     "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -116856,16 +117166,6 @@
     "density": "",
     "size": "M/L",
     "color": "Beige Melange",
-    "price": 603.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmD MELANGE 1211 tank top",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L/XL",
-    "color": "Grigio Ch. Melange",
     "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -119766,16 +120066,6 @@
     "density": "",
     "size": "3XL(54)",
     "color": "Beige",
-    "price": 830.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmT D1201 t-shirt",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3XL(54)",
-    "color": "Avorio",
     "price": 830.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -120636,16 +120926,6 @@
     "density": "",
     "size": "6-XL",
     "color": "Grigio Melange",
-    "price": 436.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OmB 1223 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "9-4XL",
-    "color": "Blu Scuro",
     "price": 436.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -125554,16 +125834,6 @@
     "name": "art. Si5104 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S(44)",
-    "color": "Bianco",
-    "price": 294,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5104 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L(48)",
     "color": "Avorio",
     "price": 294,
@@ -126115,6 +126385,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
+    "color": "Avorio",
+    "price": 490.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI intimo",
+    "name": "art. Si5210 pantaloni",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
     "color": "Avorio",
     "price": 490.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -145745,16 +146025,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
-    "color": "Iris",
-    "price": 712.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "BX315 SHORTS vita alta",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
     "color": "Iris",
     "price": 712.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
