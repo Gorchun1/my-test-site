@@ -32045,6 +32045,16 @@
     "menu": "Гольфы",
     "density": "40 DEN",
     "size": "23-25",
+    "color": "Mocca",
+    "price": 160,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "TENSION 40 knee-highs, 2 pairs",
+    "menu": "Гольфы",
+    "density": "40 DEN",
+    "size": "23-25",
     "color": "Natural",
     "price": 160,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -32146,6 +32156,16 @@
     "density": "50 DEN",
     "size": "23-25",
     "color": "Natural",
+    "price": 134,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "MICROFIBRA 50 knee-highs",
+    "menu": "Гольфы",
+    "density": "50 DEN",
+    "size": "23-25",
+    "color": "Mocca",
     "price": 134,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -48446,16 +48466,6 @@
     "density": "всесезонные",
     "size": "23-26",
     "color": "Giallo",
-    "price": 93,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "kids art. 21S05 calzini var. LINE",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "23-26",
-    "color": "Erba",
     "price": 93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -86894,6 +86904,16 @@
     "name": "art. 401 ECO",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "45-47",
+    "color": "Blu",
+    "price": 126,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 401 ECO",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "39-41",
     "color": "Grigio Scuro",
     "price": 126,
@@ -86965,6 +86985,16 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "42-44",
+    "color": "Blu",
+    "price": 567,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 401 ECO set 5 pairs",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "45-47",
     "color": "Blu",
     "price": 567,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -119485,16 +119515,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "3XL(54)",
-    "color": "Acquamarina",
-    "price": 830.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmT D1201 t-shirt",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3XL(54)",
     "color": "Cappuccino",
     "price": 830.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -119645,26 +119665,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Bianco",
-    "price": 830.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmT D1201 t-shirt",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Bianco",
-    "price": 830.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmT D1201 t-shirt",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Bianco",
     "price": 830.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -119925,26 +119925,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Acquamarina",
-    "price": 830.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmT D1201 t-shirt",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Acquamarina",
-    "price": 830.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmT D1201 t-shirt",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Acquamarina",
     "price": 830.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -184195,16 +184175,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-2XL",
-    "color": "Black",
-    "price": 907.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JOLIDON",
-    "name": "BOXER N281BL MAXI",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
     "color": "Black",
     "price": 907.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
