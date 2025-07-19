@@ -88514,6 +88514,16 @@
     "name": "art. 101 ACTIVE",
     "menu": "Носки",
     "density": "летние",
+    "size": "42-44",
+    "color": "Grigio",
+    "price": 120,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 101 ACTIVE",
+    "menu": "Носки",
+    "density": "летние",
     "size": "45-47",
     "color": "Bianco",
     "price": 120,
@@ -122154,6 +122164,16 @@
     "name": "OmB 1224 SLIP",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "5-L",
+    "color": "Bianco",
+    "price": 436.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "OmB 1224 SLIP",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "6-XL",
     "color": "Bianco",
     "price": 436.8,
@@ -122194,6 +122214,16 @@
     "name": "OmB 1233 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "5-L",
+    "color": "Militari",
+    "price": 520.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "OmB 1233 BOXER",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "9-4XL",
     "color": "Jeans",
     "price": 520.8,
@@ -122454,7 +122484,7 @@
     "name": "OmB 1233 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "7-2XL",
+    "size": "8-3XL",
     "color": "Jeans",
     "price": 520.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -124235,6 +124265,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-2XL",
+    "color": "Bianco",
+    "price": 603.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "OmB 3234 BOXER",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "8-3XL",
     "color": "Bianco",
     "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -152316,7 +152356,7 @@
     "density": "",
     "size": "S/M",
     "color": "Skin",
-    "price": 343.2,
+    "price": 354,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152326,7 +152366,7 @@
     "density": "",
     "size": "M/L",
     "color": "Skin",
-    "price": 343.2,
+    "price": 354,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152336,7 +152376,7 @@
     "density": "",
     "size": "S/M",
     "color": "Nero",
-    "price": 343.2,
+    "price": 354,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152346,7 +152386,7 @@
     "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 343.2,
+    "price": 354,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152356,7 +152396,7 @@
     "density": "",
     "size": "S/M",
     "color": "Bianco",
-    "price": 343.2,
+    "price": 354,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152366,7 +152406,7 @@
     "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 343.2,
+    "price": 354,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152726,7 +152766,7 @@
     "density": "",
     "size": "S/M",
     "color": "Skin",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152736,7 +152776,17 @@
     "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 402,
+    "price": 415.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Bianco",
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152746,7 +152796,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Nero",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152756,7 +152806,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Bianco",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152766,7 +152816,7 @@
     "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152776,7 +152826,17 @@
     "density": "",
     "size": "S/M",
     "color": "Nero",
-    "price": 402,
+    "price": 415.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Skin",
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152786,7 +152846,7 @@
     "density": "",
     "size": "XXL",
     "color": "Skin",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152796,7 +152856,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Skin",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152806,7 +152866,7 @@
     "density": "",
     "size": "XXL",
     "color": "Nero",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152816,7 +152876,7 @@
     "density": "",
     "size": "XXL",
     "color": "Bianco",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152826,7 +152886,7 @@
     "density": "",
     "size": "S/M",
     "color": "Caramello",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152836,7 +152896,7 @@
     "density": "",
     "size": "S/M",
     "color": "Eterno",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152846,7 +152906,7 @@
     "density": "",
     "size": "S/M",
     "color": "Camelia",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152856,7 +152916,7 @@
     "density": "",
     "size": "M/L",
     "color": "Camelia",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152866,7 +152926,7 @@
     "density": "",
     "size": "S/M",
     "color": "Rose Gold",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152876,7 +152936,7 @@
     "density": "",
     "size": "S/M",
     "color": "Brunette",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152886,7 +152946,7 @@
     "density": "",
     "size": "S/M",
     "color": "Cascata",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152896,7 +152956,7 @@
     "density": "",
     "size": "S/M",
     "color": "Dalia",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152906,7 +152966,7 @@
     "density": "",
     "size": "XXL",
     "color": "Blues",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152916,7 +152976,7 @@
     "density": "",
     "size": "S/M",
     "color": "Boysenberry",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152926,7 +152986,7 @@
     "density": "",
     "size": "XXL",
     "color": "Latte",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152936,7 +152996,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Latte",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152946,7 +153006,7 @@
     "density": "",
     "size": "S/M",
     "color": "Latte",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -152956,7 +153016,7 @@
     "density": "",
     "size": "M/L",
     "color": "Latte",
-    "price": 402,
+    "price": 415.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153064,6 +153124,16 @@
     "name": "CULOTTE",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M/L",
+    "color": "Nero",
+    "price": 415.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "CULOTTE",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "XXL",
     "color": "Bianco",
     "price": 415.2,
@@ -153566,7 +153636,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Bianco",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153576,7 +153646,7 @@
     "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153586,7 +153656,7 @@
     "density": "",
     "size": "S/M",
     "color": "Bianco",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153596,7 +153666,7 @@
     "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153606,7 +153676,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Nero",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153616,7 +153686,7 @@
     "density": "",
     "size": "S/M",
     "color": "Nero",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153626,7 +153696,7 @@
     "density": "",
     "size": "S/M",
     "color": "Skin",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153636,7 +153706,7 @@
     "density": "",
     "size": "M/L",
     "color": "Skin",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153646,7 +153716,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Skin",
-    "price": 603.6,
+    "price": 622.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153746,7 +153816,7 @@
     "density": "",
     "size": "M/L",
     "color": "Skin",
-    "price": 838.8,
+    "price": 864,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153756,7 +153826,7 @@
     "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 838.8,
+    "price": 864,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153766,7 +153836,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Bianco",
-    "price": 838.8,
+    "price": 864,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153776,7 +153846,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Nero",
-    "price": 838.8,
+    "price": 864,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153786,7 +153856,7 @@
     "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 838.8,
+    "price": 864,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153796,7 +153866,7 @@
     "density": "",
     "size": "S/M",
     "color": "Skin",
-    "price": 838.8,
+    "price": 864,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153806,7 +153876,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Skin",
-    "price": 838.8,
+    "price": 864,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153976,7 +154046,57 @@
     "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 434.4,
+    "price": 447.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Bianco",
+    "price": 447.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Nero",
+    "price": 447.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Skin",
+    "price": 447.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Nero",
+    "price": 447.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Skin",
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153986,7 +154106,7 @@
     "density": "",
     "size": "M/L",
     "color": "Pesto",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -153996,7 +154116,7 @@
     "density": "",
     "size": "S/M",
     "color": "Terreno",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154006,7 +154126,7 @@
     "density": "",
     "size": "S/M",
     "color": "Pesto",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154016,7 +154136,7 @@
     "density": "",
     "size": "S/M",
     "color": "Boysenberry",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154026,7 +154146,7 @@
     "density": "",
     "size": "S/M",
     "color": "Carbone",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154036,7 +154156,7 @@
     "density": "",
     "size": "M/L",
     "color": "Carbone",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154046,7 +154166,7 @@
     "density": "",
     "size": "M/L",
     "color": "Sangria",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154056,7 +154176,7 @@
     "density": "",
     "size": "S/M",
     "color": "Fesso",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154066,7 +154186,7 @@
     "density": "",
     "size": "M/L",
     "color": "Fesso",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154076,7 +154196,7 @@
     "density": "",
     "size": "S/M",
     "color": "Brunette",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154086,7 +154206,7 @@
     "density": "",
     "size": "M/L",
     "color": "Brunette",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154096,7 +154216,7 @@
     "density": "",
     "size": "S/M",
     "color": "Dalia",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154106,7 +154226,7 @@
     "density": "",
     "size": "M/L",
     "color": "Dalia",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154116,7 +154236,7 @@
     "density": "",
     "size": "M/L",
     "color": "Terreno",
-    "price": 434.4,
+    "price": 447.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154126,7 +154246,7 @@
     "density": "",
     "size": "S/M",
     "color": "Boysenberry",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154136,7 +154256,7 @@
     "density": "",
     "size": "XXL",
     "color": "Bianco",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154146,7 +154266,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Bianco",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154156,7 +154276,7 @@
     "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154166,7 +154286,7 @@
     "density": "",
     "size": "S/M",
     "color": "Nero",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154176,7 +154296,7 @@
     "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154186,7 +154306,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Skin",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154196,7 +154316,7 @@
     "density": "",
     "size": "M/L",
     "color": "Skin",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154206,7 +154326,7 @@
     "density": "",
     "size": "XXL",
     "color": "Boysenberry",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154216,7 +154336,7 @@
     "density": "",
     "size": "XXL",
     "color": "Sangria",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154226,7 +154346,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Nero",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154236,7 +154356,7 @@
     "density": "",
     "size": "M/L",
     "color": "Boysenberry",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154246,7 +154366,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Boysenberry",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154256,7 +154376,7 @@
     "density": "",
     "size": "XXL",
     "color": "Eterno",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154266,7 +154386,17 @@
     "density": "",
     "size": "S/M",
     "color": "Eterno",
-    "price": 624,
+    "price": 642,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "KITA reggiseno",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Nero",
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154276,7 +154406,7 @@
     "density": "",
     "size": "S/M",
     "color": "Bianco",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154286,7 +154416,17 @@
     "density": "",
     "size": "S/M",
     "color": "Skin",
-    "price": 624,
+    "price": 642,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "KITA reggiseno",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Skin",
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154296,7 +154436,7 @@
     "density": "",
     "size": "XXL",
     "color": "Carbone",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154306,7 +154446,7 @@
     "density": "",
     "size": "M/L",
     "color": "Sangria",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154316,7 +154456,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Sangria",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154326,7 +154466,7 @@
     "density": "",
     "size": "S/M",
     "color": "Sangria",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154336,7 +154476,7 @@
     "density": "",
     "size": "XXL",
     "color": "Camelia",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154346,7 +154486,7 @@
     "density": "",
     "size": "S/M",
     "color": "Camelia",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154356,7 +154496,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Camelia",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154366,7 +154506,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Carbone",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154376,7 +154516,7 @@
     "density": "",
     "size": "S/M",
     "color": "Carbone",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154386,7 +154526,7 @@
     "density": "",
     "size": "M/L",
     "color": "Carbone",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154396,7 +154536,7 @@
     "density": "",
     "size": "M/L",
     "color": "Camelia",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154406,7 +154546,7 @@
     "density": "",
     "size": "S/M",
     "color": "Eclipse",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154416,7 +154556,7 @@
     "density": "",
     "size": "M/L",
     "color": "Eclipse",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154426,7 +154566,7 @@
     "density": "",
     "size": "XXL",
     "color": "Grigio Shape",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154436,7 +154576,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Grigio Shape",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154446,7 +154586,7 @@
     "density": "",
     "size": "S/M",
     "color": "Grigio Shape",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154456,7 +154596,7 @@
     "density": "",
     "size": "M/L",
     "color": "Grigio Shape",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154466,7 +154606,7 @@
     "density": "",
     "size": "XXL",
     "color": "Brunette",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154476,7 +154616,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Brunette",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154486,7 +154626,7 @@
     "density": "",
     "size": "S/M",
     "color": "Brunette",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154496,7 +154636,7 @@
     "density": "",
     "size": "M/L",
     "color": "Brunette",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154506,7 +154646,7 @@
     "density": "",
     "size": "XXL",
     "color": "Fesso",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154516,7 +154656,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Fesso",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154526,7 +154666,7 @@
     "density": "",
     "size": "S/M",
     "color": "Fesso",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154536,7 +154676,7 @@
     "density": "",
     "size": "M/L",
     "color": "Fesso",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154546,7 +154686,7 @@
     "density": "",
     "size": "XXL",
     "color": "Cascata",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154556,7 +154696,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Cascata",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154566,7 +154706,7 @@
     "density": "",
     "size": "S/M",
     "color": "Cascata",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154576,7 +154716,7 @@
     "density": "",
     "size": "M/L",
     "color": "Cascata",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154586,7 +154726,7 @@
     "density": "",
     "size": "XXL",
     "color": "Dalia",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154596,7 +154736,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Dalia",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154606,7 +154746,7 @@
     "density": "",
     "size": "S/M",
     "color": "Dalia",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154616,7 +154756,7 @@
     "density": "",
     "size": "M/L",
     "color": "Dalia",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154626,7 +154766,7 @@
     "density": "",
     "size": "XXL",
     "color": "Blues",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154636,7 +154776,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Blues",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154646,7 +154786,7 @@
     "density": "",
     "size": "S/M",
     "color": "Blues",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154656,7 +154796,7 @@
     "density": "",
     "size": "M/L",
     "color": "Blues",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154666,7 +154806,7 @@
     "density": "",
     "size": "S/M",
     "color": "Caramello",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154676,7 +154816,7 @@
     "density": "",
     "size": "XXL",
     "color": "Pesto",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154686,7 +154826,7 @@
     "density": "",
     "size": "S/M",
     "color": "Pesto",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154696,7 +154836,7 @@
     "density": "",
     "size": "XXL",
     "color": "Terreno",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154706,7 +154846,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Terreno",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154716,7 +154856,7 @@
     "density": "",
     "size": "S/M",
     "color": "Terreno",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154726,7 +154866,7 @@
     "density": "",
     "size": "M/L",
     "color": "Terreno",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154736,7 +154876,7 @@
     "density": "",
     "size": "XXL",
     "color": "Bosco",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154746,7 +154886,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Bosco",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154756,7 +154896,7 @@
     "density": "",
     "size": "S/M",
     "color": "Bosco",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154766,7 +154906,7 @@
     "density": "",
     "size": "M/L",
     "color": "Bosco",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154776,7 +154916,7 @@
     "density": "",
     "size": "XXL",
     "color": "Latte",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154786,7 +154926,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Latte",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154796,7 +154936,7 @@
     "density": "",
     "size": "S/M",
     "color": "Latte",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154806,7 +154946,7 @@
     "density": "",
     "size": "M/L",
     "color": "Latte",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154816,7 +154956,7 @@
     "density": "",
     "size": "XXL",
     "color": "Mustang",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154826,7 +154966,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Mustang",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154836,7 +154976,7 @@
     "density": "",
     "size": "M/L",
     "color": "Mustang",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154846,7 +154986,7 @@
     "density": "",
     "size": "XXL",
     "color": "Passione",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154856,7 +154996,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Passione",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154866,7 +155006,7 @@
     "density": "",
     "size": "M/L",
     "color": "Passione",
-    "price": 624,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -155166,6 +155306,26 @@
     "density": "",
     "size": "S/M",
     "color": "Tango",
+    "price": 640.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "VIRGINIA canotta spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Skin",
+    "price": 640.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "VIRGINIA canotta spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Skin",
     "price": 640.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -159296,7 +159456,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Nero",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159306,7 +159466,7 @@
     "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159316,7 +159476,7 @@
     "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159326,7 +159486,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Bianco",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159336,7 +159496,7 @@
     "density": "",
     "size": "S/M",
     "color": "Nero",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159346,7 +159506,17 @@
     "density": "",
     "size": "S/M",
     "color": "Bianco",
-    "price": 510,
+    "price": 526.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA for men",
+    "name": "SLIP cotone",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Zinco",
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159356,7 +159526,7 @@
     "density": "",
     "size": "S/M",
     "color": "Zinco",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159366,7 +159536,7 @@
     "density": "",
     "size": "M/L",
     "color": "Zinco",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159376,7 +159546,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Blu Notte",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159386,7 +159556,7 @@
     "density": "",
     "size": "S/M",
     "color": "Blu Notte",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159396,7 +159566,7 @@
     "density": "",
     "size": "M/L",
     "color": "Blu Notte",
-    "price": 510,
+    "price": 526.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159464,9 +159634,29 @@
     "name": "SLIP MAN microfiber",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "L/XL",
+    "color": "Bianco",
+    "price": 390,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA for men",
+    "name": "SLIP MAN microfiber",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "M/L",
+    "color": "Nero",
+    "price": 390,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA for men",
+    "name": "SLIP MAN microfiber",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 378,
+    "price": 390,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159476,7 +159666,7 @@
     "density": "",
     "size": "L/XL",
     "color": "Nero",
-    "price": 378,
+    "price": 390,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159526,7 +159716,17 @@
     "density": "",
     "size": "S/M",
     "color": "Nero",
-    "price": 1048.8,
+    "price": 1081.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA for men",
+    "name": "T-SHIRT girocollo mezza manica",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Bianco",
+    "price": 1081.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159536,7 +159736,7 @@
     "density": "",
     "size": "M/L",
     "color": "Bianco",
-    "price": 1048.8,
+    "price": 1081.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159546,7 +159746,17 @@
     "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 1048.8,
+    "price": 1081.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA for men",
+    "name": "T-SHIRT girocollo mezza manica",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Nero",
+    "price": 1081.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175816,7 +176026,7 @@
     "density": "",
     "size": "L(50)",
     "color": "Nero",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175826,7 +176036,7 @@
     "density": "",
     "size": "L(50)",
     "color": "Grigio",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175836,7 +176046,7 @@
     "density": "",
     "size": "XL(52)",
     "color": "Bianco",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175846,7 +176056,7 @@
     "density": "",
     "size": "S(46)",
     "color": "Grigio",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175856,7 +176066,7 @@
     "density": "",
     "size": "S(46)",
     "color": "Bianco",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175866,7 +176076,7 @@
     "density": "",
     "size": "S(46)",
     "color": "Nero",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175876,7 +176086,7 @@
     "density": "",
     "size": "L(50)",
     "color": "Bianco",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175886,7 +176096,7 @@
     "density": "",
     "size": "M(48)",
     "color": "Nero",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175896,7 +176106,7 @@
     "density": "",
     "size": "M(48)",
     "color": "Grigio",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175906,7 +176116,7 @@
     "density": "",
     "size": "XL(52)",
     "color": "Nero",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175916,7 +176126,7 @@
     "density": "",
     "size": "XL(52)",
     "color": "Grigio",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175926,7 +176136,7 @@
     "density": "",
     "size": "M(48)",
     "color": "Bianco",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175936,7 +176146,7 @@
     "density": "",
     "size": "XXL(54)",
     "color": "Nero",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175946,7 +176156,7 @@
     "density": "",
     "size": "XXL(54)",
     "color": "Bianco",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175956,7 +176166,7 @@
     "density": "",
     "size": "XXL(54)",
     "color": "Grigio",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175966,7 +176176,7 @@
     "density": "",
     "size": "M(48)",
     "color": "Blu",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175976,7 +176186,7 @@
     "density": "",
     "size": "L(50)",
     "color": "Blu",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175986,7 +176196,7 @@
     "density": "",
     "size": "XL(52)",
     "color": "Blu",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -175996,7 +176206,7 @@
     "density": "",
     "size": "XXL(54)",
     "color": "Blu",
-    "price": 612,
+    "price": 631.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -176744,6 +176954,16 @@
     "name": "ORLANDO BOXER",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "XXL(54)",
+    "color": "Nero",
+    "price": 558,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "X FILE",
+    "name": "ORLANDO BOXER",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "XL(52)",
     "color": "Bianco",
     "price": 558,
@@ -176865,6 +177085,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "M(48)",
+    "color": "Blu",
+    "price": 558,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "X FILE",
+    "name": "ORLANDO BOXER",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "L(50)",
     "color": "Blu",
     "price": 558,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
