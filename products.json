@@ -70635,6 +70635,16 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": "UNICA",
+    "color": "Bordo",
+    "price": 576,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "TRASPARENZE",
+    "name": "CINZIA 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
     "color": "Olio",
     "price": 576,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -127524,9 +127534,29 @@
     "name": "art. Si5201 string",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L(48)",
+    "color": "Nero",
+    "price": 232.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI intimo",
+    "name": "art. Si5201 string",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "M(46)",
     "color": "Nero",
     "price": 232.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI intimo",
+    "name": "art. Si5208 maxi slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Avorio",
+    "price": 316.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
