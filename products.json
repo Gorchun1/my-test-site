@@ -12191,16 +12191,6 @@
   },
   {
     "brand": "MINIMI",
-    "name": "DONNA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "4-L",
-    "color": "Daino",
-    "price": 400,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
     "name": "DONNA 40",
     "menu": "Колготки",
     "density": "40 DEN",
@@ -32595,16 +32585,6 @@
     "menu": "Гольфы",
     "density": "50 DEN",
     "size": "23-25",
-    "color": "Mocca",
-    "price": 134,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "MICROFIBRA 50 knee-highs",
-    "menu": "Гольфы",
-    "density": "50 DEN",
-    "size": "23-25",
     "color": "Shade",
     "price": 134,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -35171,16 +35151,6 @@
   },
   {
     "brand": "CONTE",
-    "name": "арт. 20С-102СП FANTASY 70 - 757",
-    "menu": "Носки",
-    "density": "70 DEN",
-    "size": "36-39",
-    "color": "Mix",
-    "price": 160,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
     "name": "арт. 22С-56СП FANTASY 70 - 905",
     "menu": "Носки",
     "density": "70 DEN",
@@ -36907,16 +36877,6 @@
     "size": "5-XL",
     "color": "Chocolate",
     "price": 397,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GLAMOUR",
-    "name": "MICROFIBER 200",
-    "menu": "Колготки",
-    "density": "200 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 407,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -57124,6 +57084,16 @@
     "name": "ORO 20",
     "menu": "Колготки",
     "density": "20 DEN",
+    "size": "4-L",
+    "color": "Antracite",
+    "price": 546,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PHILIPPE MATIGNON",
+    "name": "ORO 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
     "size": "2-S",
     "color": "Antracite",
     "price": 546,
@@ -68564,6 +68534,16 @@
     "name": "SCANDAL 15",
     "menu": "Колготки",
     "density": "15 DEN",
+    "size": "3-M",
+    "color": "Bianco",
+    "price": 1598,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "TRASPARENZE",
+    "name": "SCANDAL 15",
+    "menu": "Колготки",
+    "density": "15 DEN",
     "size": "2-S",
     "color": "Playa",
     "price": 1598,
@@ -71016,6 +70996,16 @@
     "density": "100 DEN",
     "size": "UNICA",
     "color": "Castagna",
+    "price": 735,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "TRASPARENZE",
+    "name": "JENNIFER calzino merino wool",
+    "menu": "Носочки",
+    "density": "100 DEN",
+    "size": "UNICA",
+    "color": "Blu",
     "price": 735,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -86385,16 +86375,6 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "39-41",
-    "color": "Oliva",
-    "price": 180,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 4103 FRESH",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "35-38",
     "color": "Oliva",
     "price": 180,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -104855,16 +104835,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "3XL(54)",
-    "color": "Nero",
-    "price": 399.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0225 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3XL(54)",
     "color": "Bianco",
     "price": 399.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -115845,16 +115815,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
-    "color": "Nero",
-    "price": 528,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmD COTTON 2231 slip maxi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Nero",
     "price": 528,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -128284,16 +128244,6 @@
     "name": "art. 06 CULOTTE",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "6(XL)",
-    "color": "Cipria",
-    "price": 402,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 06 CULOTTE",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "7(2XL)",
     "color": "Cipria",
     "price": 402,
@@ -128626,16 +128576,6 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 410.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 07 CULOTTE",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6(XL)",
-    "color": "Cipria",
     "price": 410.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -129075,16 +129015,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "3(S)",
-    "color": "Bianco",
-    "price": 374.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 1615 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(M)",
     "color": "Bianco",
     "price": 374.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -132225,16 +132155,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "5(L)",
-    "color": "Jeans 24",
-    "price": 388.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 509 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6(XL)",
     "color": "Jeans 24",
     "price": 388.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
