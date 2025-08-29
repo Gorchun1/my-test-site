@@ -1034,16 +1034,6 @@
     "name": "BELLA 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "5-XL",
-    "color": "Moka",
-    "price": 250,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
-    "name": "BELLA 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "2-S",
     "color": "Fumo",
     "price": 250,
@@ -10074,16 +10064,6 @@
     "name": "kids art. BC002 collant cotone",
     "menu": "Колготки",
     "density": "-",
-    "size": "140-146",
-    "color": "Blu",
-    "price": 336,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "kids art. BC002 collant cotone",
-    "menu": "Колготки",
-    "density": "-",
     "size": "116-122",
     "color": "Grigio Melange",
     "price": 336,
@@ -12585,16 +12565,6 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "2-S",
-    "color": "Jeans",
-    "price": 426,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MULTIFIBRA COLORS 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "2-S",
     "color": "Blu Scuro",
     "price": 426,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -14794,16 +14764,6 @@
     "name": "RETINA GRANDE",
     "menu": "Колготки",
     "density": "-",
-    "size": "S/M",
-    "color": "Daino",
-    "price": 230,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "RETINA GRANDE",
-    "menu": "Колготки",
-    "density": "-",
     "size": "L/XL",
     "color": "Rosso",
     "price": 230,
@@ -15416,16 +15376,6 @@
     "density": "20 DEN",
     "size": "M/L",
     "color": "Daino",
-    "price": 218,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "DEA POIS 20 calze",
-    "menu": "Чулки",
-    "density": "20 DEN",
-    "size": "M/L",
-    "color": "Bianco",
     "price": 218,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -19695,6 +19645,16 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "7-XXXL",
+    "color": "Beige",
+    "price": 211,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "SOLO 40 XXL",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "7-XXXL",
     "color": "Nero",
     "price": 211,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -20044,16 +20004,6 @@
     "name": "NUANCE 15",
     "menu": "Колготки",
     "density": "15 DEN",
-    "size": "2-S",
-    "color": "Natural",
-    "price": 196,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "NUANCE 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
     "size": "3-M",
     "color": "Natural",
     "price": 196,
@@ -20846,6 +20796,16 @@
     "density": "20 DEN",
     "size": "5-XL",
     "color": "Grafit",
+    "price": 244,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "IDEAL 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "2-S",
+    "color": "Mocca",
     "price": 244,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -22834,6 +22794,16 @@
     "name": "PRESTIGE 12",
     "menu": "Колготки",
     "density": "12 DEN",
+    "size": "2-S",
+    "color": "Mocca",
+    "price": 242,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "PRESTIGE 12",
+    "menu": "Колготки",
+    "density": "12 DEN",
     "size": "3-M",
     "color": "Mocca",
     "price": 242,
@@ -24214,6 +24184,16 @@
     "name": "BALANCE 15",
     "menu": "Колготки",
     "density": "15 DEN",
+    "size": "4-L",
+    "color": "Nero",
+    "price": 287,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "BALANCE 15",
+    "menu": "Колготки",
+    "density": "15 DEN",
     "size": "5-XL",
     "color": "Bronz",
     "price": 287,
@@ -24246,6 +24226,26 @@
     "density": "15 DEN",
     "size": "4-L",
     "color": "Bronz",
+    "price": 287,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "BALANCE 15",
+    "menu": "Колготки",
+    "density": "15 DEN",
+    "size": "3-M",
+    "color": "Nero",
+    "price": 287,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "BALANCE 15",
+    "menu": "Колготки",
+    "density": "15 DEN",
+    "size": "2-S",
+    "color": "Nero",
     "price": 287,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -26175,6 +26175,16 @@
     "menu": "Колготки",
     "density": "50 DEN",
     "size": "6-XXL",
+    "color": "Grafit",
+    "price": 339,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "EPISODE 50 XL",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "6-XXL",
     "color": "Shade",
     "price": 339,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -26214,7 +26224,27 @@
     "name": "EPISODE 80",
     "menu": "Колготки",
     "density": "80 DEN",
+    "size": "2-S",
+    "color": "Mocca",
+    "price": 324,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "EPISODE 80",
+    "menu": "Колготки",
+    "density": "80 DEN",
     "size": "3-M",
+    "color": "Mocca",
+    "price": 324,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "EPISODE 80",
+    "menu": "Колготки",
+    "density": "80 DEN",
+    "size": "4-L",
     "color": "Mocca",
     "price": 324,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -26254,7 +26284,17 @@
     "name": "EPISODE 80",
     "menu": "Колготки",
     "density": "80 DEN",
-    "size": "2-S",
+    "size": "3-M",
+    "color": "Marino",
+    "price": 324,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "EPISODE 80",
+    "menu": "Колготки",
+    "density": "80 DEN",
+    "size": "4-L",
     "color": "Marino",
     "price": 324,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -27267,16 +27307,6 @@
     "size": "6-XXL",
     "color": "Antracite",
     "price": 466,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "VELOUR TOP 100",
-    "menu": "Колготки",
-    "density": "100 DEN",
-    "size": "3-M",
-    "color": "Nero",
-    "price": 350,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -28024,16 +28054,6 @@
     "name": "RETTE MICRO",
     "menu": "Колготки",
     "density": "-",
-    "size": "2-S",
-    "color": "Bronz",
-    "price": 418,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "RETTE MICRO",
-    "menu": "Колготки",
-    "density": "-",
     "size": "3-M",
     "color": "Bronz",
     "price": 418,
@@ -28461,6 +28481,16 @@
   },
   {
     "brand": "CONTE",
+    "name": "FOREVER 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "3-M",
+    "color": "Nero",
+    "price": 325,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
     "name": "GALERIE 20",
     "menu": "Колготки",
     "density": "20 DEN",
@@ -28757,6 +28787,16 @@
     "size": "2-S",
     "color": "Nero",
     "price": 381,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "SEDUCTION 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "5-XL",
+    "color": "Nero",
+    "price": 391,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -29354,6 +29394,16 @@
     "name": "VOGUE 30",
     "menu": "Колготки",
     "density": "30 DEN",
+    "size": "4-L",
+    "color": "Nero",
+    "price": 444,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "VOGUE 30",
+    "menu": "Колготки",
+    "density": "30 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 444,
@@ -30104,6 +30154,16 @@
     "name": "for girls ONLY 40",
     "menu": "Колготки",
     "density": "40 DEN",
+    "size": "140-146",
+    "color": "Beige",
+    "price": 245,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "for girls ONLY 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
     "size": "146-152",
     "color": "Beige",
     "price": 245,
@@ -30115,16 +30175,6 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "152-158",
-    "color": "Nero",
-    "price": 257,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls ONLY TEENS 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "152-158",
     "color": "Bianco",
     "price": 257,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -30136,26 +30186,6 @@
     "density": "40 DEN",
     "size": "158-164",
     "color": "Bianco",
-    "price": 257,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls ONLY TEENS 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "152-158",
-    "color": "Beige",
-    "price": 257,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls ONLY TEENS 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "158-164",
-    "color": "Beige",
     "price": 257,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -30177,16 +30207,6 @@
     "size": "158-164",
     "color": "Marino",
     "price": 257,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls VELOUR 60",
-    "menu": "Колготки",
-    "density": "60 DEN",
-    "size": "128-134",
-    "color": "Nero",
-    "price": 240,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -30216,36 +30236,6 @@
     "density": "60 DEN",
     "size": "140-146",
     "color": "Bianco",
-    "price": 240,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls VELOUR 60",
-    "menu": "Колготки",
-    "density": "60 DEN",
-    "size": "146-152",
-    "color": "Bianco",
-    "price": 240,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls VELOUR 60",
-    "menu": "Колготки",
-    "density": "60 DEN",
-    "size": "146-152",
-    "color": "Marino",
-    "price": 240,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls VELOUR 60",
-    "menu": "Колготки",
-    "density": "60 DEN",
-    "size": "140-146",
-    "color": "Marino",
     "price": 240,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -30375,16 +30365,6 @@
     "menu": "Колготки",
     "density": "60 DEN",
     "size": "140-146",
-    "color": "Natural",
-    "price": 252,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls BALLET 60",
-    "menu": "Колготки",
-    "density": "60 DEN",
-    "size": "146-152",
     "color": "Natural",
     "price": 252,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -30544,6 +30524,16 @@
     "name": "for girls ANABEL 20",
     "menu": "Колготки",
     "density": "20 DEN",
+    "size": "128-134",
+    "color": "Nero",
+    "price": 216,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "for girls ANABEL 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
     "size": "146-152",
     "color": "Bianco",
     "price": 216,
@@ -30597,26 +30587,6 @@
     "size": "128-134",
     "color": "Nero",
     "price": 219,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls DOTSY 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "128-134",
-    "color": "Bianco",
-    "price": 219,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls TINA 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "158-164",
-    "color": "Nero",
-    "price": 288,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -31751,6 +31721,26 @@
   },
   {
     "brand": "CONTE",
+    "name": "GLAMOUR 20 stay-up",
+    "menu": "Чулки",
+    "density": "20 DEN",
+    "size": "3/4",
+    "color": "Nero",
+    "price": 677,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "GLAMOUR 20 stay-up",
+    "menu": "Чулки",
+    "density": "20 DEN",
+    "size": "1/2",
+    "color": "Nero",
+    "price": 677,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
     "name": "HAPPY 20 stay-up",
     "menu": "Чулки",
     "density": "20 DEN",
@@ -31775,6 +31765,16 @@
     "menu": "Чулки",
     "density": "30 DEN",
     "size": "1/2",
+    "color": "Nero",
+    "price": 603,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "CABARET 30 stay-up",
+    "menu": "Чулки",
+    "density": "30 DEN",
+    "size": "3/4",
     "color": "Nero",
     "price": 603,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -43195,16 +43195,6 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "2-S",
-    "color": "Lola",
-    "price": 273,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "FANTASTICO 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "2-S",
     "color": "Nero",
     "price": 273,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -43395,16 +43385,6 @@
     "menu": "Колготки",
     "density": "8 DEN",
     "size": "2-S",
-    "color": "Beige Naturel",
-    "price": 466,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "SUN LIGHT 8",
-    "menu": "Колготки",
-    "density": "8 DEN",
-    "size": "2-S",
     "color": "Sierra",
     "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -44405,16 +44385,6 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "3-M",
-    "color": "Nero",
-    "price": 426,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "PERFECT BODY 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "5-XL",
     "color": "Nero",
     "price": 426,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -47245,16 +47215,6 @@
     "menu": "Колготки",
     "density": "-",
     "size": "152-158",
-    "color": "Blu",
-    "price": 333,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "kids art. 11C01 collant",
-    "menu": "Колготки",
-    "density": "-",
-    "size": "152-158",
     "color": "Bordo",
     "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -47415,16 +47375,6 @@
     "menu": "Колготки",
     "density": "-",
     "size": "128-134",
-    "color": "Bordo",
-    "price": 333,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "kids art. 11C01 collant",
-    "menu": "Колготки",
-    "density": "-",
-    "size": "140-146",
     "color": "Bordo",
     "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -50835,16 +50785,6 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "5-XL",
-    "color": "Miele",
-    "price": 393,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "FASCINO 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "5-XL",
     "color": "Nero",
     "price": 393,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -50917,16 +50857,6 @@
     "size": "5-XL",
     "color": "Daino",
     "price": 393,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "BE FREE 8 vita bassa",
-    "menu": "Колготки",
-    "density": "8 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 306,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -51826,16 +51756,6 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 546,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "BENESSERE 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "5-XL",
-    "color": "Miele",
     "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -52864,16 +52784,6 @@
     "name": "ODA 20 elegance",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "2-S",
-    "color": "Playa",
-    "price": 218,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "ODA 20 elegance",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "3-M",
     "color": "Playa",
     "price": 218,
@@ -55006,16 +54916,6 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Glace",
-    "price": 710,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "OK SHAPE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "3-M",
-    "color": "Cappuccio",
     "price": 710,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -67204,16 +67104,6 @@
     "name": "AMBRA microrete",
     "menu": "Колготки",
     "density": "-",
-    "size": "3/4",
-    "color": "Caffe",
-    "price": 879,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "TRASPARENZE",
-    "name": "AMBRA microrete",
-    "menu": "Колготки",
-    "density": "-",
     "size": "1/2",
     "color": "Bianco",
     "price": 879,
@@ -78811,16 +78701,6 @@
   },
   {
     "brand": "LE BOURGET",
-    "name": "art. 1RW1 CREATION PORTE-JARRETELLES INTEGRE 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "4-XL",
-    "color": "Noir",
-    "price": 2501,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LE BOURGET",
     "name": "art. 1TR1 BAS TRASPARENT SATINE 15 porte-jarretelles",
     "menu": "Чулки",
     "density": "15 DEN",
@@ -83265,16 +83145,6 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": 2,
-    "color": "21 Beige",
-    "price": 684,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 950A LADY 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": 2,
     "color": "Black",
     "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -85056,16 +84926,6 @@
     "density": "всесезонные",
     "size": "35-38",
     "color": "Rosa",
-    "price": 86,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 4102 FRESH",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "39-41",
-    "color": "Verde",
     "price": 86,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -87225,16 +87085,6 @@
     "menu": "Носки",
     "density": "летние",
     "size": "39-41",
-    "color": "Blu",
-    "price": 146,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 101 ACTIVE",
-    "menu": "Носки",
-    "density": "летние",
-    "size": "45-47",
     "color": "Blu",
     "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -102654,16 +102504,6 @@
     "name": "B0223 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S(44)",
-    "color": "Blu Notte",
-    "price": 241.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0223 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L(48)",
     "color": "Blu Notte",
     "price": 241.2,
@@ -103074,16 +102914,6 @@
     "name": "B0224 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "2XL(52)",
-    "color": "Nero",
-    "price": 436.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0224 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L(48)",
     "color": "Nudo",
     "price": 436.8,
@@ -103166,16 +102996,6 @@
     "density": "",
     "size": "2XL(52)",
     "color": "Avorio",
-    "price": 436.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0224 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
-    "color": "Nudo",
     "price": 436.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -107035,16 +106855,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S(44)",
-    "color": "Corallo",
-    "price": 301.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "BMi_F2210 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
     "color": "Acquamarina",
     "price": 301.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -107396,16 +107206,6 @@
     "density": "",
     "size": "2XL(52)",
     "color": "Erba Chiaro",
-    "price": 339.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "BMi_F2220 slip midi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
-    "color": "Lemon",
     "price": 339.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -109346,16 +109146,6 @@
     "density": "",
     "size": "M/L",
     "color": "Erbа",
-    "price": 362.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MA221 slip COLOR",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
-    "color": "Giallo",
     "price": 362.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -117184,16 +116974,6 @@
     "name": "OmS 121 top spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "M/L",
-    "color": "Naturale",
-    "price": 453.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmS 121 top spalla stretta",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S/M",
     "color": "Latte",
     "price": 453.6,
@@ -120854,16 +120634,6 @@
     "name": "OmB 1234 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "8-3XL",
-    "color": "Bordo",
-    "price": 520.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OmB 1234 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "4-M",
     "color": "Grigio Melange",
     "price": 520.8,
@@ -120906,16 +120676,6 @@
     "density": "",
     "size": "7-2XL",
     "color": "Grigio Melange",
-    "price": 520.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OmB 1234 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Bianco",
     "price": 520.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -123274,16 +123034,6 @@
     "name": "OMT U1201 T-SHIRT",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "9-4XL",
-    "color": "Corallo",
-    "price": 784.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OMT U1201 T-SHIRT",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "7-2XL",
     "color": "Corallo",
     "price": 784.8,
@@ -124605,16 +124355,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2XL(52)",
-    "color": "Nero",
-    "price": 294,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5104 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Bianco",
     "price": 294,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -124746,16 +124486,6 @@
     "density": "",
     "size": "2XL(52)",
     "color": "Avorio",
-    "price": 301.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5107 slip midi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3XL(54)",
-    "color": "Nero",
     "price": 301.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -125516,16 +125246,6 @@
     "density": "",
     "size": "M(46)",
     "color": "Bianco",
-    "price": 436.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5506 panty",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Nero",
     "price": 436.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -168354,16 +168074,6 @@
     "name": "art. 6168 cup B",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3 (75B)",
-    "color": "Cipria",
-    "price": 2718,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6168 cup B",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "4 (80B)",
     "color": "Cipria",
     "price": 2718,
@@ -168485,6 +168195,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2 (70C)",
+    "color": "Cipria",
+    "price": 2718,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LEILIEVE",
+    "name": "art. 6168 cup C",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3 (75C)",
     "color": "Cipria",
     "price": 2718,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -179711,16 +179431,6 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1002 HOMEWEAR",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Grigio",
-    "price": 3444,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
     "name": "EP1005 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
@@ -179866,16 +179576,6 @@
     "density": "",
     "size": "6-XL",
     "color": "Blu",
-    "price": 2750.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "EP1054 HOMEWEAR",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Grigio",
     "price": 2750.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
