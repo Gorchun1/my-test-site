@@ -5401,16 +5401,6 @@
   },
   {
     "brand": "INNAMORE",
-    "name": "ROMANTIC 20 bas",
-    "menu": "Чулки",
-    "density": "20 DEN",
-    "size": "4-L",
-    "color": "Miele",
-    "price": 265,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
     "name": "MIRAGE 20 autoreggente",
     "menu": "Чулки",
     "density": "20 DEN",
@@ -7975,27 +7965,7 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "5-XL",
-    "color": "Nero",
-    "price": 315,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "POUDRE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "5-XL",
     "color": "Daino",
-    "price": 315,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "POUDRE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "5-XL",
-    "color": "Melon",
     "price": 315,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -125754,7 +125724,27 @@
     "name": "art. 503 SLIP",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "3(S)",
+    "color": "Cipria",
+    "price": 478.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 503 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "5(L)",
+    "color": "Bianco",
+    "price": 478.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 503 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2(XS)",
     "color": "Bianco",
     "price": 478.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -125774,8 +125764,38 @@
     "name": "art. 503 SLIP",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "2(XS)",
+    "color": "Cipria",
+    "price": 478.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 503 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "5(L)",
+    "color": "Cipria",
+    "price": 478.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 503 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "4(M)",
     "color": "Nero",
+    "price": 478.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 503 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3(S)",
+    "color": "Bianco",
     "price": 478.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -126464,7 +126484,27 @@
     "name": "art. 509 SLIP",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "2(XS)",
+    "color": "Bianco",
+    "price": 388.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "5(L)",
+    "color": "Bianco",
+    "price": 388.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "4(M)",
     "color": "Bianco",
     "price": 388.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -126484,7 +126524,27 @@
     "name": "art. 509 SLIP",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "3(S)",
+    "color": "Bianco",
+    "price": 388.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "4(M)",
+    "color": "Nero",
+    "price": 388.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "6(XL)",
     "color": "Nero",
     "price": 388.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -126535,6 +126595,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "6(XL)",
+    "color": "Cipria",
+    "price": 388.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2(XS)",
     "color": "Cipria",
     "price": 388.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -130294,8 +130364,28 @@
     "name": "art. 536 PANTALONCINO",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "5(L)",
+    "color": "Cipria",
+    "price": 710.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 536 PANTALONCINO",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "6(XL)",
     "color": "Nero",
+    "price": 710.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 536 PANTALONCINO",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "6(XL)",
+    "color": "Cipria",
     "price": 710.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -130374,6 +130464,16 @@
     "name": "art. 536 PANTALONCINO",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "7(2XL)",
+    "color": "Cipria",
+    "price": 710.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 536 PANTALONCINO",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "8(3XL)",
     "color": "Nero",
     "price": 710.4,
@@ -130386,6 +130486,16 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
+    "price": 710.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 536 PANTALONCINO",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "8(3XL)",
+    "color": "Cipria",
     "price": 710.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -132175,6 +132285,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "7(2XL)",
+    "color": "Cipria",
+    "price": 510,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 787 CULOTTE",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "6(XL)",
     "color": "Cipria",
     "price": 510,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
