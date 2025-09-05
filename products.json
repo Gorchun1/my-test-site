@@ -1951,6 +1951,16 @@
   },
   {
     "brand": "INNAMORE",
+    "name": "FLEUR 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "2-S",
+    "color": "Nero",
+    "price": 209,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
     "name": "FLEUR 40",
     "menu": "Колготки",
     "density": "40 DEN",
@@ -9405,6 +9415,16 @@
     "menu": "Гольфы",
     "density": "40 DEN",
     "size": "UNICA",
+    "color": "Nero",
+    "price": 176,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INCANTO",
+    "name": "PODIUM 40 gambaletto, 2 pairs",
+    "menu": "Гольфы",
+    "density": "40 DEN",
+    "size": "UNICA",
     "color": "Melon",
     "price": 176,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16185,16 +16205,6 @@
     "menu": "Гольфы",
     "density": "-",
     "size": "UNICA",
-    "color": "Caramello",
-    "price": 133,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "TULLE 20 gambaletto",
-    "menu": "Гольфы",
-    "density": "-",
-    "size": "UNICA",
     "color": "Daino",
     "price": 133,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16265,16 +16275,6 @@
     "menu": "Гольфы",
     "density": "-",
     "size": "39-41",
-    "color": "Nero",
-    "price": 240,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 6202 GAMBALETTO cotone",
-    "menu": "Гольфы",
-    "density": "-",
-    "size": "35-38",
     "color": "Nero",
     "price": 240,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -51604,16 +51604,6 @@
     "name": "ODA 20 elegance",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "3-M",
-    "color": "Playa",
-    "price": 266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "ODA 20 elegance",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "5-XL",
     "color": "Cognac",
     "price": 266,
@@ -70775,6 +70765,16 @@
     "menu": "Колготки",
     "density": "30 DEN",
     "size": "1-S",
+    "color": "Singapour",
+    "price": 850,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "SENSUEL 30",
+    "menu": "Колготки",
+    "density": "30 DEN",
+    "size": "1-S",
     "color": "Ambre",
     "price": 850,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -72775,6 +72775,16 @@
     "menu": "Колготки",
     "density": "50 DEN",
     "size": "S/M",
+    "color": "Bordeaux 11",
+    "price": 1085,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "ALL COLORS 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "S/M",
     "color": "Idro 6",
     "price": 1085,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -72786,6 +72796,16 @@
     "density": "50 DEN",
     "size": "L/XL",
     "color": "Bordeaux 11",
+    "price": 1085,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "ALL COLORS 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "S/M",
+    "color": "Mustard 3",
     "price": 1085,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -72815,6 +72835,16 @@
     "menu": "Колготки",
     "density": "50 DEN",
     "size": "L/XL",
+    "color": "Grey 8",
+    "price": 1085,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "ALL COLORS 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "S/M",
     "color": "Grey 8",
     "price": 1085,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -73954,6 +73984,16 @@
     "name": "CHERYL fine cashmere",
     "menu": "Колготки",
     "density": "-",
+    "size": "4-XL",
+    "color": "Camel",
+    "price": 2046,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "CHERYL fine cashmere",
+    "menu": "Колготки",
+    "density": "-",
     "size": "1-S",
     "color": "Camel",
     "price": 2046,
@@ -74454,6 +74494,16 @@
     "name": "ALL COLORS 50 leggings",
     "menu": "Леггинсы",
     "density": "50 DEN",
+    "size": "S/M",
+    "color": "Grey 8",
+    "price": 1085,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "ALL COLORS 50 leggings",
+    "menu": "Леггинсы",
+    "density": "50 DEN",
     "size": "L/XL",
     "color": "Black",
     "price": 1085,
@@ -74835,6 +74885,16 @@
     "menu": "Чулки",
     "density": "15 DEN",
     "size": "2-M",
+    "color": "Singapour",
+    "price": 887,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "CHIC UP 15 stay-up",
+    "menu": "Чулки",
+    "density": "15 DEN",
+    "size": "3-L",
     "color": "Singapour",
     "price": 887,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -75361,6 +75421,16 @@
   },
   {
     "brand": "OROBLU",
+    "name": "OPAQUE 50 knee-highs",
+    "menu": "Гольфы",
+    "density": "50 DEN",
+    "size": "ONE SIZE",
+    "color": "Black",
+    "price": 456,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
     "name": "ALL COLORS 50 knee-highs",
     "menu": "Гольфы",
     "density": "50 DEN",
@@ -75536,6 +75606,16 @@
     "density": "20 DEN",
     "size": "ONE SIZE",
     "color": "Sun",
+    "price": 419,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "PETIT 20 socks",
+    "menu": "Носочки",
+    "density": "20 DEN",
+    "size": "ONE SIZE",
+    "color": "Sable",
     "price": 419,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
