@@ -13851,16 +13851,6 @@
   },
   {
     "brand": "MINIMI",
-    "name": "LA LUNA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "4-L",
-    "color": "Cappuccino",
-    "price": 200,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
     "name": "LA SFERA 20",
     "menu": "Колготки",
     "density": "20 DEN",
@@ -15875,16 +15865,6 @@
     "menu": "Гольфы",
     "density": "15 DEN",
     "size": "UNICA",
-    "color": "Nero",
-    "price": 133,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "CLASS 15 gambaletto, 2 pairs",
-    "menu": "Гольфы",
-    "density": "15 DEN",
-    "size": "UNICA",
     "color": "Fumo",
     "price": 133,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16845,16 +16825,6 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "3-M",
-    "color": "Playa",
-    "price": 180,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "BIKINI 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "3-M",
     "color": "Daino",
     "price": 180,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -17404,16 +17374,6 @@
     "name": "BODY 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "3-M",
-    "color": "Caramel",
-    "price": 290,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "BODY 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
     "price": 290,
@@ -17427,16 +17387,6 @@
     "size": "2-S",
     "color": "Nero",
     "price": 290,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "EFFECT UP 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "2-S",
-    "color": "Daino",
-    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -19956,6 +19906,16 @@
     "density": "20 DEN",
     "size": "2-S",
     "color": "Bronz",
+    "price": 240,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "IDEAL 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "2-S",
+    "color": "Beige",
     "price": 240,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -28391,16 +28351,6 @@
   },
   {
     "brand": "CONTE",
-    "name": "PATRICIA 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "5-XL",
-    "color": "Nero",
-    "price": 390,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
     "name": "POIS TULLE 30",
     "menu": "Колготки",
     "density": "30 DEN",
@@ -33044,16 +32994,6 @@
     "name": "арт. 19С-65СП ACTIVE - 157",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "25(38-39)",
-    "color": "Белый-синий",
-    "price": 146,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "арт. 19С-65СП ACTIVE - 157",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "23(36-37)",
     "color": "Белый-сиреневый",
     "price": 146,
@@ -33237,16 +33177,6 @@
     "size": "39-41",
     "color": "Бежевый",
     "price": 152,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "арт. 24С-11СП ACTIVE - 599",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "36-38",
-    "color": "Чёрный",
-    "price": 116,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39644,16 +39574,6 @@
     "name": "LIBERTA CALZINI cotone",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "39-41",
-    "color": "Beige",
-    "price": 54,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
-    "name": "LIBERTA CALZINI cotone",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "35-38",
     "color": "Beige",
     "price": 54,
@@ -42861,16 +42781,6 @@
   },
   {
     "brand": "OMSA",
-    "name": "NUDO 40 vita bassa",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "4-L",
-    "color": "Fumo",
-    "price": 289,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
     "name": "MATTE 20",
     "menu": "Колготки",
     "density": "20 DEN",
@@ -44317,16 +44227,6 @@
     "size": "5-XL",
     "color": "Nero",
     "price": 600,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "VELOUR 70 vita bassa",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "3-M",
-    "color": "Nero",
-    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46226,16 +46126,6 @@
     "density": "-",
     "size": "152-158",
     "color": "Nero",
-    "price": 273,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "kids art. 11C01 collant",
-    "menu": "Колготки",
-    "density": "-",
-    "size": "152-158",
-    "color": "Grigio",
     "price": 273,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -49875,16 +49765,6 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "2-S",
-    "color": "Naturelle",
-    "price": 346,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "BE FREE 40 vita bassa",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "4-L",
     "color": "Naturelle",
     "price": 346,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -74204,16 +74084,6 @@
     "name": "PRESTIGE UP 15 stay-up",
     "menu": "Чулки",
     "density": "15 DEN",
-    "size": "2-M",
-    "color": "White Pearl",
-    "price": 1591,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "PRESTIGE UP 15 stay-up",
-    "menu": "Чулки",
-    "density": "15 DEN",
     "size": "1-S",
     "color": "Black",
     "price": 1591,
@@ -79204,16 +79074,6 @@
     "name": "art. 980A LADY 70 collant",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": 3,
-    "color": "Black",
-    "price": 1334,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 980A LADY 70 collant",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": 2,
     "color": "21 Beige",
     "price": 1334,
@@ -82486,16 +82346,6 @@
     "density": "всесезонные",
     "size": "39-41",
     "color": "Blu",
-    "price": 66,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 4202 TREND",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "39-41",
-    "color": "Rosso",
     "price": 66,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
