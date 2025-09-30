@@ -6884,16 +6884,6 @@
     "name": "COSMO 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "2-S",
-    "color": "Moka",
-    "price": 245,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "COSMO 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "3-M",
     "color": "Cappuccino",
     "price": 245,
@@ -14237,6 +14227,16 @@
     "size": "M/L",
     "color": "Bianco",
     "price": 266,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "ESTIVO 8 autoreggente",
+    "menu": "Чулки",
+    "density": "8 DEN",
+    "size": "S/M",
+    "color": "Caramello",
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48956,16 +48956,6 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Glace",
-    "price": 257,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "ODA 40 elegance",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "5-XL",
-    "color": "Abbronzante",
     "price": 257,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -84304,6 +84294,16 @@
     "name": "BD ACACIA 32296 tanga",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "3(M)",
+    "color": "Nero",
+    "price": 267.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD ACACIA 32296 tanga",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "1(XS)",
     "color": "Bianco",
     "price": 267.6,
@@ -84425,16 +84425,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(S)",
-    "color": "Nero",
-    "price": 267.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD ACACIA 33057 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
     "color": "Nero",
     "price": 267.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -95804,16 +95794,6 @@
     "name": "B0223 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S(44)",
-    "color": "Lilla",
-    "price": 241.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0223 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L(48)",
     "color": "Lilla",
     "price": 241.2,
@@ -101816,16 +101796,6 @@
     "density": "",
     "size": "M/L",
     "color": "Beige",
-    "price": 339.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MA231 panty COLOR",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
-    "color": "Blu Notte",
     "price": 339.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
