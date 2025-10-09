@@ -1901,16 +1901,6 @@
   },
   {
     "brand": "INNAMORE",
-    "name": "FLEUR 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 209,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
     "name": "FLEUR 40",
     "menu": "Колготки",
     "density": "40 DEN",
@@ -15131,6 +15121,26 @@
   },
   {
     "brand": "MINIMI",
+    "name": "SCALDAMUSCOLO JACQUARD var. 4",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "UNICA",
+    "color": "Grigio Melange",
+    "price": 400,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "SCALDAMUSCOLO JACQUARD var. 4",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "UNICA",
+    "color": "Nero Melange",
+    "price": 400,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
     "name": "ESTIVO 8 gambaletto, 2 pairs",
     "menu": "Гольфы",
     "density": "8 DEN",
@@ -15914,16 +15924,6 @@
     "name": "RELAX 50",
     "menu": "Колготки",
     "density": "50 DEN",
-    "size": "3-M",
-    "color": "Visone",
-    "price": 150,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "RELAX 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
     "size": "2-S",
     "color": "Visone",
     "price": 150,
@@ -16525,16 +16525,6 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "2-S",
-    "color": "Magenta Rosso",
-    "price": 320,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "BLUES 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "4-L",
     "color": "Magenta Rosso",
     "price": 320,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -30894,16 +30884,6 @@
     "name": "арт. 24С-2СП 3D SOCKS - 000",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "39-41",
-    "color": "Бежевый",
-    "price": 98,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "арт. 24С-2СП 3D SOCKS - 000",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "36-38",
     "color": "Белый",
     "price": 98,
@@ -35564,16 +35544,6 @@
     "name": "LEDA 20",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "3-M",
-    "color": "Daino",
-    "price": 126,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
-    "name": "LEDA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "2-S",
     "color": "Nero",
     "price": 126,
@@ -37387,16 +37357,6 @@
     "size": "4-L",
     "color": "Miele",
     "price": 240,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
-    "name": "MICROGLAM 100",
-    "menu": "Колготки",
-    "density": "100 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42134,16 +42094,6 @@
     "name": "VELOUR MICRO 100",
     "menu": "Колготки",
     "density": "100 DEN",
-    "size": "3-M",
-    "color": "Avorio",
-    "price": 400,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "VELOUR MICRO 100",
-    "menu": "Колготки",
-    "density": "100 DEN",
     "size": "4-L",
     "color": "Avorio",
     "price": 400,
@@ -45764,16 +45714,6 @@
     "name": "MISS 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "3-M",
-    "color": "Moka",
-    "price": 293,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "MISS 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "5-XL",
     "color": "Moka",
     "price": 293,
@@ -48354,16 +48294,6 @@
     "name": "DORA 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 207,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "DORA 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "5-XL",
     "color": "Playa",
     "price": 207,
@@ -50705,16 +50635,6 @@
     "menu": "Колготки",
     "density": "15 DEN",
     "size": "4-L",
-    "color": "Cognac",
-    "price": 480,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "ORO 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
-    "size": "4-L",
     "color": "The",
     "price": 480,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -50736,16 +50656,6 @@
     "density": "15 DEN",
     "size": "4-L",
     "color": "Noce",
-    "price": 480,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "ORO 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
-    "size": "4-L",
-    "color": "Nero",
     "price": 480,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -78285,6 +78195,16 @@
     "menu": "Носки",
     "density": "осенне-зимние",
     "size": "39-41",
+    "color": "Rosa Antico",
+    "price": 180,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 3303 INVERNO",
+    "menu": "Носки",
+    "density": "осенне-зимние",
+    "size": "39-41",
     "color": "Bianco",
     "price": 180,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -94634,16 +94554,6 @@
     "name": "B0221 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Borgogna",
-    "price": 264,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0221 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XL(50)",
     "color": "Borgogna",
     "price": 264,
@@ -102435,16 +102345,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
-    "color": "Oceania",
-    "price": 475.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MI 2221S slip midi FRENCH CHIC",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M/L",
     "color": "Oceania",
     "price": 475.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -136714,16 +136614,6 @@
     "name": "SL617 SLIP",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L/XL",
-    "color": "Chocolate",
-    "price": 538.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "SL617 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XXL",
     "color": "Nudo",
     "price": 538.8,
@@ -154014,16 +153904,6 @@
     "name": "art. 6005 cup B",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "7 (95B)",
-    "color": "Nudo",
-    "price": 913.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6005 cup B",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "8 (100B)",
     "color": "Nudo",
     "price": 913.2,
@@ -157034,16 +156914,6 @@
     "name": "art. 7999 cup C",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "6 (90C)",
-    "color": "Bianco",
-    "price": 2780.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 7999 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "3 (75C)",
     "color": "Nudo",
     "price": 2780.4,
@@ -157065,16 +156935,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "5 (85C)",
-    "color": "Nudo",
-    "price": 2780.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 7999 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6 (90C)",
     "color": "Nudo",
     "price": 2780.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
