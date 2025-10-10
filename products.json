@@ -10384,16 +10384,6 @@
     "name": "IDEALE 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "3-M",
-    "color": "Daino",
-    "price": 218,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "IDEALE 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "4-L",
     "color": "Daino",
     "price": 218,
@@ -14394,8 +14384,28 @@
     "name": "DEA 20 calze",
     "menu": "Чулки",
     "density": "20 DEN",
+    "size": "S/M",
+    "color": "Bianco",
+    "price": 266,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "DEA 20 calze",
+    "menu": "Чулки",
+    "density": "20 DEN",
     "size": "M/L",
     "color": "Nero",
+    "price": 266,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "DEA 20 calze",
+    "menu": "Чулки",
+    "density": "20 DEN",
+    "size": "M/L",
+    "color": "Bianco",
     "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -14556,6 +14566,16 @@
     "density": "8 DEN",
     "size": "M/L",
     "color": "Daino",
+    "price": 466,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "ESTIVO 8 autoreggente",
+    "menu": "Чулки",
+    "density": "8 DEN",
+    "size": "M/L",
+    "color": "Nero",
     "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -15812,6 +15832,26 @@
   {
     "brand": "MINIMI",
     "name": "art. 6201 GAMBALETTO cotone",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": "39-41",
+    "color": "Nero",
+    "price": 240,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 6202 GAMBALETTO cotone",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": "35-38",
+    "color": "Nero",
+    "price": 240,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 6202 GAMBALETTO cotone",
     "menu": "Гольфы",
     "density": "-",
     "size": "39-41",
@@ -20255,16 +20295,6 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "2-S",
-    "color": "Mocca",
-    "price": 295,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "BIKINI 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "3-M",
     "color": "Mocca",
     "price": 295,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -37774,16 +37804,6 @@
     "name": "MIO CALZINI cotone",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "35-38",
-    "color": "Grigio",
-    "price": 66,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
-    "name": "MIO CALZINI cotone",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "39-41",
     "color": "Beige",
     "price": 66,
@@ -43995,6 +44015,16 @@
     "menu": "Гольфы",
     "density": "40 DEN",
     "size": "S/M",
+    "color": "Fumo",
+    "price": 300,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "EASY DAY 40 gambaletto, 2 paia",
+    "menu": "Гольфы",
+    "density": "40 DEN",
+    "size": "S/M",
     "color": "Nero",
     "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -44036,6 +44066,16 @@
     "density": "40 DEN",
     "size": "M/L",
     "color": "Caramello",
+    "price": 300,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "EASY DAY 40 gambaletto, 2 paia",
+    "menu": "Гольфы",
+    "density": "40 DEN",
+    "size": "M/L",
+    "color": "Fumo",
     "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -44295,6 +44335,16 @@
     "menu": "Колготки",
     "density": "-",
     "size": "152-158",
+    "color": "Nero",
+    "price": 333,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "kids art. 11C01 collant",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "152-158",
     "color": "Bianco",
     "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -44365,6 +44415,16 @@
     "menu": "Колготки",
     "density": "-",
     "size": "140-146",
+    "color": "Blu",
+    "price": 333,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "kids art. 11C01 collant",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "128-134",
     "color": "Blu",
     "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -48567,16 +48627,6 @@
     "size": "4-L",
     "color": "Nero",
     "price": 666,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "BENESSERE 140",
-    "menu": "Колготки",
-    "density": "140 DEN",
-    "size": "3-M",
-    "color": "Nero",
-    "price": 765,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -78885,6 +78935,16 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "35-38",
+    "color": "Beige",
+    "price": 71,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 1201 COTONE",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "35-38",
     "color": "Azzurro",
     "price": 71,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -78995,6 +79055,16 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "35-38",
+    "color": "Jeans Chiaro",
+    "price": 100,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 1202 COTONE",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
     "color": "Jeans Chiaro",
     "price": 100,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -79394,6 +79464,16 @@
     "name": "art. 4101 FRESH",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "35-38",
+    "color": "Nero",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 4101 FRESH",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "39-41",
     "color": "Nero",
     "price": 66,
@@ -79634,6 +79714,16 @@
     "name": "art. 4203 TREND",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "35-38",
+    "color": "Nero",
+    "price": 86,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 4203 TREND",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "39-41",
     "color": "Nero",
     "price": 86,
@@ -79656,6 +79746,16 @@
     "density": "всесезонные",
     "size": "35-38",
     "color": "Bianco",
+    "price": 86,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 4203 TREND",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Blu Chiaro",
     "price": 86,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -79734,8 +79834,58 @@
     "name": "art. 4209 TREND",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "35-38",
+    "color": "Blu Chiaro",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 4209 TREND",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "39-41",
     "color": "Bianco",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 4209 TREND",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Menta",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 4209 TREND",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "35-38",
+    "color": "Menta",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 4209 TREND",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Rosa Antico",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 4209 TREND",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "35-38",
+    "color": "Rosa Antico",
     "price": 66,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -80305,6 +80455,26 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "35-38",
+    "color": "Giallo",
+    "price": 120,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 254 ECO",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Bordo",
+    "price": 120,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 254 ECO",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "35-38",
     "color": "Bordo",
     "price": 120,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -80326,6 +80496,16 @@
     "density": "всесезонные",
     "size": "39-41",
     "color": "Beige",
+    "price": 120,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 254 ECO",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Militari",
     "price": 120,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -80714,6 +80894,16 @@
     "name": "art. 354 COMFORT",
     "menu": "Носки",
     "density": "осенне-зимние",
+    "size": "39-41",
+    "color": "Grigio Chiaro",
+    "price": 186,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 354 COMFORT",
+    "menu": "Носки",
+    "density": "осенне-зимние",
     "size": "35-38",
     "color": "Grigio Chiaro",
     "price": 186,
@@ -80735,6 +80925,16 @@
     "menu": "Носки",
     "density": "осенне-зимние",
     "size": "39-41",
+    "color": "Blu Chiaro",
+    "price": 186,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 354 COMFORT",
+    "menu": "Носки",
+    "density": "осенне-зимние",
+    "size": "39-41",
     "color": "Avorio",
     "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -80794,6 +80994,16 @@
     "name": "art. 401 ECO",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "45-47",
+    "color": "Bianco",
+    "price": 103,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 401 ECO",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "39-41",
     "color": "Blu",
     "price": 103,
@@ -81375,6 +81585,16 @@
     "menu": "Носки",
     "density": "летние",
     "size": "39-41",
+    "color": "Blu",
+    "price": 146,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 101 ACTIVE",
+    "menu": "Носки",
+    "density": "летние",
+    "size": "45-47",
     "color": "Blu",
     "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -81721,6 +81941,16 @@
   },
   {
     "brand": "OMSA",
+    "name": "art. 202 CLASSIC set 5 pairs",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "42-44",
+    "color": "Nero",
+    "price": 630,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
     "name": "art. 203 CLASSIC",
     "menu": "Носки",
     "density": "всесезонные",
@@ -81785,6 +82015,16 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "39-41",
+    "color": "Nero",
+    "price": 98,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 203 CLASSIC",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "42-44",
     "color": "Nero",
     "price": 98,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -82074,7 +82314,27 @@
     "name": "art. 205 CLASSIC set 5 pairs",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "39-41",
+    "color": "Blu",
+    "price": 810,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 205 CLASSIC set 5 pairs",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "42-44",
+    "color": "Blu",
+    "price": 810,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 205 CLASSIC set 5 pairs",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "45-47",
     "color": "Blu",
     "price": 810,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
