@@ -965,6 +965,16 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "4-L",
+    "color": "Fumo",
+    "price": 250,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "BELLA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "4-L",
     "color": "Daino",
     "price": 250,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -1056,6 +1066,16 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Daino",
+    "price": 250,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "BELLA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "2-S",
+    "color": "Fumo",
     "price": 250,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -2096,6 +2116,26 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
+    "price": 231,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "FLEUR 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "3-M",
+    "color": "Moka",
+    "price": 231,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "FLEUR 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "2-S",
+    "color": "Moka",
     "price": 231,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -2435,6 +2475,16 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "3-M",
+    "color": "Cappuccino",
+    "price": 231,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "LADY 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "2-S",
     "color": "Cappuccino",
     "price": 231,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -4445,6 +4495,16 @@
     "menu": "Колготки",
     "density": "100 DEN",
     "size": "2-S",
+    "color": "Moka",
+    "price": 397,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "MICROFIBRA 100",
+    "menu": "Колготки",
+    "density": "100 DEN",
+    "size": "2-S",
     "color": "Bianco",
     "price": 397,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -4467,6 +4527,16 @@
     "size": "4-L",
     "color": "Bianco",
     "price": 397,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "MICROFIBRA 100 XXL",
+    "menu": "Колготки",
+    "density": "100 DEN",
+    "size": "6-XXL",
+    "color": "Moka",
+    "price": 441,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -6791,6 +6861,16 @@
   },
   {
     "brand": "INCANTO",
+    "name": "COSMO 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "2-S",
+    "color": "Cappuccino",
+    "price": 287,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INCANTO",
     "name": "ACTIVE BODY 20",
     "menu": "Колготки",
     "density": "20 DEN",
@@ -8266,6 +8346,26 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Daino",
+    "price": 367,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INCANTO",
+    "name": "MICRO VELVET 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "3-M",
+    "color": "Nero",
+    "price": 367,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INCANTO",
+    "name": "MICRO VELVET 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "4-L",
+    "color": "Nero",
     "price": 367,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -9484,6 +9584,16 @@
     "name": "kids MICRO 50",
     "menu": "Колготки",
     "density": "50 DEN",
+    "size": "152-158",
+    "color": "Nero",
+    "price": 260,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INCANTO",
+    "name": "kids MICRO 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
     "size": "128-134",
     "color": "Bianco",
     "price": 260,
@@ -9726,6 +9836,16 @@
     "density": "-",
     "size": "140-146",
     "color": "Nero",
+    "price": 336,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INCANTO",
+    "name": "kids art. BC002 collant cotone",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "116-122",
+    "color": "Bianco",
     "price": 336,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -35344,7 +35464,37 @@
     "name": "MICROFIBER 70",
     "menu": "Колготки",
     "density": "70 DEN",
+    "size": "2-S",
+    "color": "Chocolate",
+    "price": 363,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "GLAMOUR",
+    "name": "MICROFIBER 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
     "size": "3-M",
+    "color": "Chocolate",
+    "price": 363,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "GLAMOUR",
+    "name": "MICROFIBER 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "4-L",
+    "color": "Chocolate",
+    "price": 363,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "GLAMOUR",
+    "name": "MICROFIBER 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "5-XL",
     "color": "Chocolate",
     "price": 363,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -92071,16 +92221,6 @@
   },
   {
     "brand": "ALLA BUONE",
-    "name": "2012 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Nero",
-    "price": 223.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
     "name": "2019 SLIP",
     "menu": "Бельё Женское",
     "density": "",
@@ -119714,8 +119854,8 @@
     "name": "art. J606 SLIP",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4(M)",
-    "color": "Bianco",
+    "size": "5(L)",
+    "color": "Nero",
     "price": 384,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -151185,16 +151325,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "3(M)",
-    "color": "Nero",
-    "price": 823.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 3354 brasiliana laser",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
     "color": "Nero",
     "price": 823.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
