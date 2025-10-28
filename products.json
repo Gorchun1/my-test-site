@@ -7244,16 +7244,6 @@
     "name": "BIKINI 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 265,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "BIKINI 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 265,
@@ -12294,6 +12284,26 @@
     "name": "MULTIFIBRA COLORS 70",
     "menu": "Колготки",
     "density": "70 DEN",
+    "size": "3-M",
+    "color": "Acqua",
+    "price": 426,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MULTIFIBRA COLORS 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "4-L",
+    "color": "Acqua",
+    "price": 426,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MULTIFIBRA COLORS 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
     "size": "2-S",
     "color": "Ambra",
     "price": 426,
@@ -12794,6 +12804,16 @@
     "name": "MULTIFIBRA 250",
     "menu": "Колготки",
     "density": "250 DEN",
+    "size": "5-XL",
+    "color": "Moka",
+    "price": 431,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MULTIFIBRA 250",
+    "menu": "Колготки",
+    "density": "250 DEN",
     "size": "4-L",
     "color": "Moka",
     "price": 431,
@@ -13065,6 +13085,16 @@
     "menu": "Колготки",
     "density": "160 DEN",
     "size": "2-S",
+    "color": "Avorio",
+    "price": 437,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "COTONE 160",
+    "menu": "Колготки",
+    "density": "160 DEN",
+    "size": "3-M",
     "color": "Avorio",
     "price": 437,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16115,6 +16145,16 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": "UNICA",
+    "color": "Verde Foresta",
+    "price": 164,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
     "color": "Nero",
     "price": 164,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16601,6 +16641,16 @@
   },
   {
     "brand": "MINIMI",
+    "name": "MICRO POIS 70 calzino",
+    "menu": "Носочки",
+    "density": "70 DEN",
+    "size": "UNICA",
+    "color": "Nero",
+    "price": 90,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
     "name": "CUORI 20 calzino",
     "menu": "Носочки",
     "density": "20 DEN",
@@ -16695,16 +16745,6 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "2-S",
-    "color": "Glace",
-    "price": 110,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "LIKE 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "3-M",
     "color": "Glace",
     "price": 110,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -22034,16 +22074,6 @@
     "name": "PRESTIGE 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "3-M",
-    "color": "Grafit",
-    "price": 278,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "PRESTIGE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "4-L",
     "color": "Grafit",
     "price": 278,
@@ -23335,16 +23365,6 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "3-M",
-    "color": "Mocca",
-    "price": 353,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "STYLE 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "2-S",
     "color": "Mocca",
     "price": 353,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -31407,16 +31427,6 @@
     "size": "23-25",
     "color": "Bronz",
     "price": 123,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "TULLE 30 socks, 2 pairs",
-    "menu": "Носочки",
-    "density": "30 DEN",
-    "size": "23-25",
-    "color": "Bronz",
-    "price": 205,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45071,6 +45081,16 @@
   },
   {
     "brand": "OMSA",
+    "name": "EASY DAY 20 calzino, 2 paia",
+    "menu": "Носочки",
+    "density": "20 DEN",
+    "size": "UNICA",
+    "color": "Fumo",
+    "price": 200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
     "name": "EASY DAY 40 calzino, 2 paia",
     "menu": "Носочки",
     "density": "40 DEN",
@@ -51284,16 +51304,6 @@
     "name": "TOP COMFORT 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "2-S",
-    "color": "Mineral",
-    "price": 380,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "TOP COMFORT 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
     "price": 380,
@@ -52186,16 +52196,6 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Playa",
-    "price": 866,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "OK SHAPE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "2-S",
-    "color": "Glace",
     "price": 866,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -88584,16 +88584,6 @@
     "name": "ICD BASIC MICROFIBER 31137 string",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4(L)",
-    "color": "Nero",
-    "price": 495.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD BASIC MICROFIBER 31137 string",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2(S)",
     "color": "Bianco",
     "price": 495.6,
@@ -90927,16 +90917,6 @@
     "size": "3(S)",
     "color": "Grafite",
     "price": 625.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "018 SLIP completo, 3 pairs",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Multicolore",
-    "price": 676.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
