@@ -14945,16 +14945,6 @@
     "menu": "Чулки",
     "density": "8 DEN",
     "size": "M/L",
-    "color": "Caramello",
-    "price": 466,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "ESTIVO 8 autoreggente",
-    "menu": "Чулки",
-    "density": "8 DEN",
-    "size": "M/L",
     "color": "Daino",
     "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -15495,7 +15485,7 @@
     "menu": "Чулки",
     "density": "20 DEN",
     "size": "S/M",
-    "color": "Daino/nero",
+    "color": "Nero/rosso",
     "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -17195,16 +17185,6 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "3-M",
-    "color": "Daino",
-    "price": 230,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "SENSI 40 vita bassa",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "4-L",
     "color": "Daino",
     "price": 230,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -39194,16 +39174,6 @@
     "name": "LADY 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "6-XXL",
-    "color": "Fumo",
-    "price": 175,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "LADY 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "2-S",
     "color": "Lola",
     "price": 175,
@@ -44194,16 +44164,6 @@
     "name": "DIVA 20 calze",
     "menu": "Чулки",
     "density": "20 DEN",
-    "size": "M/L",
-    "color": "Bianco",
-    "price": 266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "DIVA 20 calze",
-    "menu": "Чулки",
-    "density": "20 DEN",
     "size": "S/M",
     "color": "Caramello",
     "price": 266,
@@ -48344,16 +48304,6 @@
     "name": "STYLE 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "3-M",
-    "color": "Moka",
-    "price": 382,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "STYLE 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
     "price": 382,
@@ -51244,16 +51194,6 @@
     "name": "ABSOLUTE SUMMER 8",
     "menu": "Колготки",
     "density": "8 DEN",
-    "size": "2-S",
-    "color": "Glace",
-    "price": 466,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "ABSOLUTE SUMMER 8",
-    "menu": "Колготки",
-    "density": "8 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 466,
@@ -52036,16 +51976,6 @@
     "density": "–",
     "size": "3-M",
     "color": "Carbone",
-    "price": 866,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "REGINA 100",
-    "menu": "Колготки",
-    "density": "–",
-    "size": "3-M",
-    "color": "Nero",
     "price": 866,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -95844,16 +95774,6 @@
     "name": "B0223 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Rosso",
-    "price": 241.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0223 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Rosso",
     "price": 241.2,
@@ -102946,16 +102866,6 @@
     "density": "",
     "size": "L/XL",
     "color": "Beige",
-    "price": 634.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MI 2251 MS slip silhouette",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL/2XL",
-    "color": "Nero",
     "price": 634.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -120604,6 +120514,16 @@
     "name": "art. 509 SLIP colorato",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "4(M)",
+    "color": "Galassia",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "5(L)",
     "color": "Cobalto",
     "price": 381.6,
@@ -120676,16 +120596,6 @@
     "density": "",
     "size": "2(XS)",
     "color": "Corallo",
-    "price": 381.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 509 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(L)",
-    "color": "Denim",
     "price": 381.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -120794,6 +120704,16 @@
     "name": "art. 509 SLIP colorato",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "4(M)",
+    "color": "Ciclamino",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "2(XS)",
     "color": "Ciclamino",
     "price": 381.6,
@@ -120894,6 +120814,26 @@
     "name": "art. 509 SLIP colorato",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "4(M)",
+    "color": "Grafite",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "4(M)",
+    "color": "Amarena",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "3(S)",
     "color": "Amarena",
     "price": 381.6,
@@ -120906,6 +120846,16 @@
     "density": "",
     "size": "2(XS)",
     "color": "Glicine",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3(S)",
+    "color": "Grafite",
     "price": 381.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -121014,6 +120964,16 @@
     "name": "art. 509 SLIP colorato",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "4(M)",
+    "color": "Melanzana",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "2(XS)",
     "color": "Melanzana",
     "price": 381.6,
@@ -121084,16 +121044,6 @@
     "name": "art. 509 SLIP colorato",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "5(L)",
-    "color": "Pavone",
-    "price": 381.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 509 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2(XS)",
     "color": "Pavone",
     "price": 381.6,
@@ -121145,16 +121095,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "4(M)",
-    "color": "Pervinca",
-    "price": 381.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 509 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(L)",
     "color": "Pervinca",
     "price": 381.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -121354,6 +121294,16 @@
     "name": "art. 509 SLIP colorato",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "5(L)",
+    "color": "Pervinca 24",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "2(XS)",
     "color": "Pervinca 24",
     "price": 381.6,
@@ -121514,6 +121464,16 @@
     "name": "art. 509 SLIP colorato",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "5(L)",
+    "color": "Cenere",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "6(XL)",
     "color": "Cenere",
     "price": 381.6,
@@ -121545,6 +121505,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "4(M)",
+    "color": "Camelia",
+    "price": 381.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 509 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "5(L)",
     "color": "Camelia",
     "price": 381.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -122764,16 +122734,6 @@
     "name": "art. 520 SLIP",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "5(L)",
-    "color": "Bianco",
-    "price": 484.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 520 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "4(M)",
     "color": "Bianco",
     "price": 484.8,
@@ -122805,6 +122765,26 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(XS)",
+    "color": "Nero",
+    "price": 484.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 520 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3(S)",
+    "color": "Nero",
+    "price": 484.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 520 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "4(M)",
     "color": "Nero",
     "price": 484.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -122865,6 +122845,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "3(S)",
+    "color": "Cobalto",
+    "price": 484.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 520 SLIP colorato",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "5(L)",
     "color": "Cobalto",
     "price": 484.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
