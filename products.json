@@ -27824,16 +27824,6 @@
     "name": "LUXURY 30",
     "menu": "Колготки",
     "density": "30 DEN",
-    "size": "5-XL",
-    "color": "Nero",
-    "price": 503,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "LUXURY 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
     "size": "2-S",
     "color": "Nero",
     "price": 503,
@@ -31556,16 +31546,6 @@
     "density": "20 DEN",
     "size": "23-25",
     "color": "Bronz",
-    "price": 101,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "DRESS CODE 20 socks",
-    "menu": "Носочки",
-    "density": "20 DEN",
-    "size": "23-25",
-    "color": "Nero",
     "price": 101,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -93224,16 +93204,6 @@
     "name": "7009 CANOTTA",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3(M)",
-    "color": "Grigio Melange",
-    "price": 562.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "7009 CANOTTA",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "5(XL)",
     "color": "Grigio Melange",
     "price": 562.8,
@@ -95604,16 +95574,6 @@
     "name": "B0222 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S(44)",
-    "color": "Bianco",
-    "price": 294,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0222 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2XL(52)",
     "color": "Nudo",
     "price": 294,
@@ -95645,16 +95605,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
-    "color": "Blu Notte",
-    "price": 294,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0222 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
     "color": "Blu Notte",
     "price": 294,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -117344,16 +117294,6 @@
     "name": "art. Si5208 maxi slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "M(46)",
-    "color": "Nero",
-    "price": 316.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5208 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2XL(52)",
     "color": "Avorio",
     "price": 316.8,
@@ -129684,16 +129624,6 @@
     "name": "art. 4058 LUPETTO smanicato NEW",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S",
-    "color": "Bianco",
-    "price": 1262.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4058 LUPETTO smanicato NEW",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M",
     "color": "Nero",
     "price": 1262.4,
@@ -133194,16 +133124,6 @@
     "name": "BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S/M",
-    "color": "Moon",
-    "price": 1587.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "BO289 BODY manica lunga",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L",
     "color": "Moon",
     "price": 1587.6,
@@ -142445,6 +142365,26 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
+    "color": "Fesso",
+    "price": 412.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SHORT SGAMBATO INVISIBILE vita bassa",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Fesso",
+    "price": 412.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SHORT SGAMBATO INVISIBILE vita bassa",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
     "color": "Caramello",
     "price": 412.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -142475,6 +142415,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
+    "color": "Carbone",
+    "price": 412.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SHORT SGAMBATO INVISIBILE vita bassa",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
     "color": "Carbone",
     "price": 412.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -142564,6 +142514,16 @@
     "name": "SHORT SGAMBATO INVISIBILE vita bassa",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M/L",
+    "color": "Blues",
+    "price": 412.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SHORT SGAMBATO INVISIBILE vita bassa",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S/M",
     "color": "Pesto",
     "price": 412.8,
@@ -142585,6 +142545,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
+    "color": "Terreno",
+    "price": 412.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SHORT SGAMBATO INVISIBILE vita bassa",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
     "color": "Terreno",
     "price": 412.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -142694,8 +142664,58 @@
     "name": "SLIP MIDI",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "S/M",
+    "color": "Sangria",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "XXL",
     "color": "Skin",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Carbone",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Sangria",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Terreno",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Sangria",
     "price": 445.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -142724,6 +142744,16 @@
     "name": "SLIP MIDI",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M/L",
+    "color": "Sangria",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "XXL",
     "color": "Bianco",
     "price": 445.2,
@@ -142736,6 +142766,46 @@
     "density": "",
     "size": "S/M",
     "color": "Caramello",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Fesso",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Fesso",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Fesso",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Fesso",
     "price": 445.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -142786,6 +142856,66 @@
     "density": "",
     "size": "S/M",
     "color": "Dalia",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Terreno",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Carbone",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Carbone",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Carbone",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Terreno",
+    "price": 445.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "SLIP MIDI",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Terreno",
     "price": 445.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -143144,6 +143274,16 @@
     "name": "BRA SILHOUETTE",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "XXL",
+    "color": "Nero",
+    "price": 843.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BRA SILHOUETTE",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S/M",
     "color": "Skin",
     "price": 843.6,
@@ -143156,6 +143296,16 @@
     "density": "",
     "size": "S/M",
     "color": "Nero",
+    "price": 843.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BRA SILHOUETTE",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Skin",
     "price": 843.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -143206,6 +143356,16 @@
     "density": "",
     "size": "M/L",
     "color": "Skin",
+    "price": 843.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BRA SILHOUETTE",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Bianco",
     "price": 843.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -143854,6 +144014,16 @@
     "name": "BEVERLY HILLS spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "S/M",
+    "color": "Skin",
+    "price": 484.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "M/L",
     "color": "Pesto",
     "price": 484.8,
@@ -143906,6 +144076,36 @@
     "density": "",
     "size": "M/L",
     "color": "Carbone",
+    "price": 484.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Latte",
+    "price": 484.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Latte",
+    "price": 484.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BEVERLY HILLS spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Sangria",
     "price": 484.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -144074,6 +144274,16 @@
     "name": "KITA reggiseno",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "XXL",
+    "color": "Boysenberry",
+    "price": 642,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "KITA reggiseno",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L/XL",
     "color": "Nero",
     "price": 642,
@@ -144146,6 +144356,16 @@
     "density": "",
     "size": "XXL",
     "color": "Skin",
+    "price": 642,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "KITA reggiseno",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Carbone",
     "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -147874,6 +148094,16 @@
     "name": "NEVADA",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L/XL",
+    "color": "Fesso",
+    "price": 1207.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "NEVADA",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S/M",
     "color": "Fesso",
     "price": 1207.2,
@@ -148384,6 +148614,16 @@
     "name": "TEXAS",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L/XL",
+    "color": "Fesso",
+    "price": 1202.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "TEXAS",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S/M",
     "color": "Fesso",
     "price": 1202.4,
@@ -148565,6 +148805,26 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
+    "color": "Bianco",
+    "price": 1209.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BRA SILHOUETTE JACQUARD",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Skin",
+    "price": 1209.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INTIMIDEA",
+    "name": "BRA SILHOUETTE JACQUARD",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
     "color": "Skin",
     "price": 1209.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -164674,6 +164934,16 @@
     "name": "AMADEO SLIP",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "M(48)",
+    "color": "Nero",
+    "price": 420,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "X FILE",
+    "name": "AMADEO SLIP",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "S(46)",
     "color": "Nero",
     "price": 420,
@@ -166524,6 +166794,16 @@
     "name": "RICCARDO SHORT",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "XXXL(56)",
+    "color": "Grigio",
+    "price": 576,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "X FILE",
+    "name": "RICCARDO SHORT",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "M(48)",
     "color": "Blu",
     "price": 576,
@@ -166555,6 +166835,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "XXL(54)",
+    "color": "Bianco",
+    "price": 576,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "X FILE",
+    "name": "RICCARDO SHORT",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "XXXL(56)",
     "color": "Bianco",
     "price": 576,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
