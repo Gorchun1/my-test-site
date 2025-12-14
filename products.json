@@ -13844,16 +13844,6 @@
     "name": "SHORTS PIUMA 260",
     "menu": "Леггинсы",
     "density": "260 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 273,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "SHORTS PIUMA 260",
-    "menu": "Леггинсы",
-    "density": "260 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 273,
@@ -21186,16 +21176,6 @@
     "density": "12 DEN",
     "size": "2-S",
     "color": "Bronz",
-    "price": 242,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "PRESTIGE 12",
-    "menu": "Колготки",
-    "density": "12 DEN",
-    "size": "2-S",
-    "color": "Nero",
     "price": 242,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -29955,6 +29935,16 @@
     "menu": "Леггинсы",
     "density": "плотные (непрозрачные)",
     "size": "XS (90)",
+    "color": "Nero",
+    "price": 2166,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "URBAN leggings (long 170)",
+    "menu": "Леггинсы",
+    "density": "плотные (непрозрачные)",
+    "size": "XL (106)",
     "color": "Nero",
     "price": 2166,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -110064,6 +110054,16 @@
     "name": "OmT D1201 t-shirt",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "2XL(52)",
+    "color": "Jeans",
+    "price": 830.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "OmT D1201 t-shirt",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S(44)",
     "color": "Giallo",
     "price": 830.4,
@@ -110145,6 +110145,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
+    "color": "Rosa Antico",
+    "price": 830.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "OmT D1201 t-shirt",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
     "color": "Rosa Antico",
     "price": 830.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -110334,16 +110344,6 @@
     "name": "OmT D1201 t-shirt",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "2XL(52)",
-    "color": "Acquamarina",
-    "price": 830.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "OmT D1201 t-shirt",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Indigo",
     "price": 830.4,
@@ -110375,6 +110375,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
+    "color": "Indigo",
+    "price": 830.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "OmT D1201 t-shirt",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2XL(52)",
     "color": "Indigo",
     "price": 830.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -111015,6 +111025,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
+    "color": "Bordo",
+    "price": 436.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "OmB 1224 SLIP",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
     "color": "Bordo",
     "price": 436.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -131924,6 +131944,16 @@
     "name": "BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "XXL",
+    "color": "Iris",
+    "price": 927.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MY",
+    "name": "BO284 BODY spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L/XL",
     "color": "Iris",
     "price": 927.6,
@@ -135396,6 +135426,16 @@
     "density": "",
     "size": "L/XL",
     "color": "Rosa Ash",
+    "price": 718.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MY",
+    "name": "CR001 CANOTTA spalla stretta",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XXL",
+    "color": "Iris",
     "price": 718.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
