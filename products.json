@@ -16125,16 +16125,6 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": "UNICA",
-    "color": "Ambra",
-    "price": 200,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MICRO 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": "UNICA",
     "color": "Rosso Mosto",
     "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -19526,16 +19516,6 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Bronz",
-    "price": 260,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "IDEAL 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "2-S",
-    "color": "Beige",
     "price": 260,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -27871,6 +27851,16 @@
   },
   {
     "brand": "CONTE",
+    "name": "DELIGHT 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "5-XL",
+    "color": "Nero",
+    "price": 464,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
     "name": "FABIA 50",
     "menu": "Колготки",
     "density": "50 DEN",
@@ -28215,16 +28205,6 @@
     "menu": "Колготки",
     "density": "60 DEN",
     "size": "4-L",
-    "color": "Nero",
-    "price": 481,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "TWIST 60",
-    "menu": "Колготки",
-    "density": "60 DEN",
-    "size": "5-XL",
     "color": "Nero",
     "price": 481,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -36324,16 +36304,6 @@
     "name": "VITA 20",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "5-XL",
-    "color": "Melon",
-    "price": 146,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
-    "name": "VITA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "2-S",
     "color": "Playa",
     "price": 146,
@@ -43834,6 +43804,16 @@
     "name": "DIVA 20 calze",
     "menu": "Чулки",
     "density": "20 DEN",
+    "size": "S/M",
+    "color": "Bianco",
+    "price": 218,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "DIVA 20 calze",
+    "menu": "Чулки",
+    "density": "20 DEN",
     "size": "M/L",
     "color": "Bianco",
     "price": 218,
@@ -46164,6 +46144,16 @@
     "name": "kids art. 21S05 calzini",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "35-38",
+    "color": "Blu",
+    "price": 93,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "kids art. 21S05 calzini",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "27-30",
     "color": "Blu",
     "price": 93,
@@ -46226,6 +46216,16 @@
     "density": "всесезонные",
     "size": "27-30",
     "color": "Bianco Optic",
+    "price": 93,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "kids art. 21S05 calzini",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "35-38",
+    "color": "Jeans",
     "price": 93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -49855,16 +49855,6 @@
     "menu": "Чулки",
     "density": "8 DEN",
     "size": "4-L",
-    "color": "Nero",
-    "price": 574,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "QUEEN 8 autoreggente",
-    "menu": "Чулки",
-    "density": "8 DEN",
-    "size": "4-L",
     "color": "Ambra",
     "price": 574,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -50544,16 +50534,6 @@
     "name": "AURORA 15",
     "menu": "Колготки",
     "density": "15 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "AURORA 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
     "size": "5-XL",
     "color": "Cognac",
     "price": 266,
@@ -50725,16 +50705,6 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "5-XL",
-    "color": "Abbronzante",
-    "price": 266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "ODA 20 elegance",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "4-L",
     "color": "Abbronzante",
     "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -50926,16 +50896,6 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Glace",
-    "price": 313,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "ODA 40 elegance",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "5-XL",
-    "color": "Abbronzante",
     "price": 313,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -51366,16 +51326,6 @@
     "density": "50 DEN",
     "size": "3-M",
     "color": "Nabuk",
-    "price": 360,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "TOP COMFORT 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
-    "size": "4-L",
-    "color": "Glace",
     "price": 360,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -51836,16 +51786,6 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Antracite",
-    "price": 400,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "NINFA 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "4-L",
-    "color": "Glace",
     "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -52525,16 +52465,6 @@
     "menu": "Колготки",
     "density": "30 DEN",
     "size": "4-L",
-    "color": "The",
-    "price": 566,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "CRISTAL 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "2-S",
     "color": "The",
     "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -70926,16 +70856,6 @@
     "density": "-",
     "size": "ONE SIZE",
     "color": "Wool",
-    "price": 1011,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "NIVES KNEE-HIGHS fine wool",
-    "menu": "Гольфы",
-    "density": "-",
-    "size": "ONE SIZE",
-    "color": "Grey 8",
     "price": 1011,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -91044,16 +90964,6 @@
     "name": "3082 TANGA",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3(M)",
-    "color": "Bianco",
-    "price": 303.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "3082 TANGA",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2(S)",
     "color": "Nudo",
     "price": 303.6,
@@ -92355,16 +92265,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(S)",
-    "color": "Nero",
-    "price": 558,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "7192 TOP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
     "color": "Nero",
     "price": 558,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -98815,16 +98715,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
-    "color": "Corallo",
-    "price": 301.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "BMi_F2210 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
     "color": "Corallo",
     "price": 301.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -114285,16 +114175,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
-    "color": "Militari",
-    "price": 784.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OMT U1201 T-SHIRT",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
     "color": "Militari",
     "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -153034,16 +152914,6 @@
     "name": "PERFECT slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3(M)",
-    "color": "Bianco",
-    "price": 969.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LORMAR",
-    "name": "PERFECT slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "4(L)",
     "color": "Bianco",
     "price": 969.6,
@@ -153565,16 +153435,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2 (70B)",
-    "color": "Nudo",
-    "price": 1737.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LORMAR",
-    "name": "DESIDERIO LISCIO reggiseno cup B",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3 (75B)",
     "color": "Nudo",
     "price": 1737.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
