@@ -14144,6 +14144,16 @@
     "name": "SUPER SLASH 20",
     "menu": "Колготки",
     "density": "20 DEN",
+    "size": "4-L",
+    "color": "Nero",
+    "price": 200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "SUPER SLASH 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
     "size": "2-S",
     "color": "Daino",
     "price": 200,
@@ -81094,16 +81104,6 @@
     "name": "art. 204 CLASSIC",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "45-47",
-    "color": "Grigio Scuro",
-    "price": 115,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 204 CLASSIC",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "42-44",
     "color": "Grigio Scuro",
     "price": 115,
@@ -115275,16 +115275,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
-    "color": "Grafite",
-    "price": 784.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OMT U1201 T-SHIRT",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-2XL",
     "color": "Grafite",
     "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -153414,16 +153404,6 @@
     "name": "DELUXE reggiseno cup B",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "5 (85B)",
-    "color": "Noisette",
-    "price": 2050.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LORMAR",
-    "name": "DELUXE reggiseno cup B",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "1 (65B)",
     "color": "Nero",
     "price": 2050.8,
@@ -153505,16 +153485,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2 (70B)",
-    "color": "Noisette",
-    "price": 2050.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LORMAR",
-    "name": "DELUXE reggiseno cup B",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3 (75B)",
     "color": "Noisette",
     "price": 2050.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -157601,16 +157571,6 @@
   },
   {
     "brand": "LEILIEVE",
-    "name": "art. 6005 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "8 (100C)",
-    "color": "Nudo",
-    "price": 913.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
     "name": "art. 6006 cup B",
     "menu": "Бельё Женское",
     "density": "",
@@ -158885,26 +158845,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2 (70B)",
-    "color": "Cipria",
-    "price": 2739.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6168 cup B",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3 (75B)",
-    "color": "Cipria",
-    "price": 2739.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6168 cup B",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4 (80B)",
     "color": "Cipria",
     "price": 2739.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -163761,16 +163701,6 @@
   },
   {
     "brand": "X FILE",
-    "name": "0402 HIPSTER donna invisible",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3-M",
-    "color": "Blu",
-    "price": 213.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "X FILE",
     "name": "ALBERTO SLIP",
     "menu": "Бельё Мужское",
     "density": "",
@@ -167395,16 +167325,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
-    "color": "Blu",
-    "price": 974.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "ET1002 uomo canotta",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
     "color": "Blu",
     "price": 974.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
