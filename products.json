@@ -8534,16 +8534,6 @@
     "name": "MICRO VELVET 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "5-XL",
-    "color": "Daino",
-    "price": 367,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "MICRO VELVET 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "2-S",
     "color": "Daino",
     "price": 367,
@@ -34944,16 +34934,6 @@
     "name": "MICROFIBER 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "5-XL",
-    "color": "Daino",
-    "price": 363,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GLAMOUR",
-    "name": "MICROFIBER 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "2-S",
     "color": "Chocolate",
     "price": 363,
@@ -44144,16 +44124,6 @@
     "name": "CORSIA 120",
     "menu": "Колготки",
     "density": "120 DEN",
-    "size": "4-L",
-    "color": "Avorio",
-    "price": 533,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "CORSIA 120",
-    "menu": "Колготки",
-    "density": "120 DEN",
     "size": "3-M",
     "color": "Avorio",
     "price": 533,
@@ -51916,16 +51886,6 @@
     "density": "30 DEN",
     "size": "2-S",
     "color": "Cappuccio",
-    "price": 373,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "TOP COMFORT 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "2-S",
-    "color": "Mineral",
     "price": 373,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -53514,16 +53474,6 @@
     "name": "REVITALISE 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "5-XL",
-    "color": "Antracite",
-    "price": 833,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "REVITALISE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "4-XL",
     "color": "Nero",
     "price": 833,
@@ -53655,16 +53605,6 @@
     "menu": "Колготки",
     "density": "30 DEN",
     "size": "2-S",
-    "color": "Nero",
-    "price": 733,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "TULLE",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "4-L",
     "color": "Nero",
     "price": 733,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -69124,16 +69064,6 @@
     "name": "ALL COLORS 50",
     "menu": "Колготки",
     "density": "50 DEN",
-    "size": "L/XL",
-    "color": "Deep Vilolet",
-    "price": 1085,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "ALL COLORS 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
     "size": "S/M",
     "color": "Deep Red",
     "price": 1085,
@@ -69271,16 +69201,6 @@
   },
   {
     "brand": "OROBLU",
-    "name": "ALL COLORS 50 SLIM FIT",
-    "menu": "Колготки",
-    "density": "50 DEN",
-    "size": "S/M",
-    "color": "Black",
-    "price": 1356,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
     "name": "ALL COLORS 120",
     "menu": "Колготки",
     "density": "120 DEN",
@@ -69345,16 +69265,6 @@
     "menu": "Колготки",
     "density": "-",
     "size": "S/M",
-    "color": "Blue 11",
-    "price": 1775,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "ALL COLORS COTTON",
-    "menu": "Колготки",
-    "density": "-",
-    "size": "L/XL",
     "color": "Blue 11",
     "price": 1775,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -69876,16 +69786,6 @@
     "density": "-",
     "size": "S/M",
     "color": "Blue Jeans",
-    "price": 2046,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "COMFORT TOUCH fine tencel",
-    "menu": "Колготки",
-    "density": "-",
-    "size": "L/XL",
-    "color": "Toffee",
     "price": 2046,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -138764,6 +138664,16 @@
     "name": "PE044 STRING",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L/XL",
+    "color": "Moon",
+    "price": 614.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MY",
+    "name": "PE044 STRING",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S/M",
     "color": "Mango",
     "price": 614.4,
@@ -139176,6 +139086,16 @@
     "density": "",
     "size": "XL",
     "color": "Latte",
+    "price": 973.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MY",
+    "name": "S1784 SLIP SHAPER media",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L",
+    "color": "Powder",
     "price": 973.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -148445,16 +148365,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "L/XL",
-    "color": "Bianco",
-    "price": 390,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INTIMIDEA for men",
-    "name": "SLIP MAN microfiber",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "M/L",
     "color": "Bianco",
     "price": 390,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -157796,16 +157706,6 @@
     "density": "",
     "size": "3 (75B)",
     "color": "Skin",
-    "price": 2048.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 601 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2 (70C)",
-    "color": "Nero",
     "price": 2048.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
