@@ -4805,16 +4805,6 @@
     "menu": "Колготки",
     "density": "150 DEN",
     "size": "4-L",
-    "color": "Marrone Melange",
-    "price": 649.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
-    "name": "COTTON 150",
-    "menu": "Колготки",
-    "density": "150 DEN",
-    "size": "4-L",
     "color": "Nero",
     "price": 649.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16005,16 +15995,6 @@
     "menu": "Гольфы",
     "density": "260 DEN",
     "size": "39-41",
-    "color": "Beige",
-    "price": 300,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "LANA VELLUTO 260 gambaletto",
-    "menu": "Гольфы",
-    "density": "260 DEN",
-    "size": "35-38",
     "color": "Beige",
     "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -51534,6 +51514,16 @@
     "name": "NINFA 40",
     "menu": "Колготки",
     "density": "40 DEN",
+    "size": "2-S",
+    "color": "Glace",
+    "price": 400,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "FILODORO",
+    "name": "NINFA 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
     "size": "4-L",
     "color": "Cognac",
     "price": 400,
@@ -67914,16 +67904,6 @@
     "name": "ALL COLORS 50",
     "menu": "Колготки",
     "density": "50 DEN",
-    "size": "L/XL",
-    "color": "Mustard 3",
-    "price": 1085,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "ALL COLORS 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
     "size": "S/M",
     "color": "Bordeaux 11",
     "price": 1085,
@@ -77921,46 +77901,6 @@
   },
   {
     "brand": "MINIMI",
-    "name": "art. 3302 INVERNO",
-    "menu": "Носки",
-    "density": "осенне-зимние",
-    "size": "39-41",
-    "color": "Nero",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 3302 INVERNO",
-    "menu": "Носки",
-    "density": "осенне-зимние",
-    "size": "35-38",
-    "color": "Lilla",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 3302 INVERNO",
-    "menu": "Носки",
-    "density": "осенне-зимние",
-    "size": "35-38",
-    "color": "Nero",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 3302 INVERNO",
-    "menu": "Носки",
-    "density": "осенне-зимние",
-    "size": "39-41",
-    "color": "Lilla",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
     "name": "art. 3303 INVERNO",
     "menu": "Носки",
     "density": "осенне-зимние",
@@ -84797,6 +84737,86 @@
     "size": "5(XL)",
     "color": "Bianco",
     "price": 326.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD FRAGOLA 33413 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "5(XL)",
+    "color": "Latte",
+    "price": 0,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD FRAGOLA 33413 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3(M)",
+    "color": "Latte",
+    "price": 0,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD FRAGOLA 33413 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "4(L)",
+    "color": "Latte",
+    "price": 0,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD FRAGOLA 33413 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2(S)",
+    "color": "Latte",
+    "price": 0,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD FRAGOLA 33413 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2(S)",
+    "color": "Nero",
+    "price": 0,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD FRAGOLA 33413 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3(M)",
+    "color": "Nero",
+    "price": 0,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD FRAGOLA 33413 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "4(L)",
+    "color": "Nero",
+    "price": 0,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for women",
+    "name": "BD FRAGOLA 33413 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "5(XL)",
+    "color": "Nero",
+    "price": 0,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -100004,16 +100024,6 @@
     "name": "MFR221 slip ribana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "XL(50)",
-    "color": "Bianco",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Verde Foresta",
     "price": 264.07,
@@ -100094,16 +100104,6 @@
     "name": "MFR221 slip ribana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Bianco",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XL(50)",
     "color": "Verde Foresta",
     "price": 264.07,
@@ -100116,16 +100116,6 @@
     "density": "",
     "size": "L(48)",
     "color": "Verde Foresta",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Vaniglia",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -100164,26 +100154,6 @@
     "name": "MFR221 slip ribana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Vaniglia",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Bacche",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M(46)",
     "color": "Bacche",
     "price": 264.07,
@@ -100195,16 +100165,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
-    "color": "Celeste",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
     "color": "Celeste",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -155044,16 +155004,6 @@
     "name": "art. 6044 cup C",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3 (75C)",
-    "color": "Corteccia",
-    "price": 3026.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6044 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "4 (80C)",
     "color": "Corteccia",
     "price": 3026.4,
@@ -155156,16 +155106,6 @@
     "density": "",
     "size": "6 (90D)",
     "color": "Bianco",
-    "price": 3026.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6044 cup D",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3 (75D)",
-    "color": "Nudo",
     "price": 3026.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -156876,16 +156816,6 @@
     "density": "",
     "size": "3 (75D)",
     "color": "Bianco",
-    "price": 2980.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 7743 cup D",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3 (75D)",
-    "color": "Caramello",
     "price": 2980.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
