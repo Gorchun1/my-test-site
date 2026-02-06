@@ -8944,16 +8944,6 @@
     "name": "PASSION 20 calze",
     "menu": "Чулки",
     "density": "20 DEN",
-    "size": "3-M",
-    "color": "Nero",
-    "price": 304.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "PASSION 20 calze",
-    "menu": "Чулки",
-    "density": "20 DEN",
     "size": "2-S",
     "color": "Melon",
     "price": 304.9,
@@ -25131,16 +25121,6 @@
   },
   {
     "brand": "CONTE",
-    "name": "COTTON 250",
-    "menu": "Колготки",
-    "density": "250 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 556.76,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
     "name": "COTTON 250 XL",
     "menu": "Колготки",
     "density": "250 DEN",
@@ -31996,26 +31976,6 @@
     "density": "всесезонные",
     "size": "23(36-37)",
     "color": "Белый",
-    "price": 112.52,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "арт. 20С-96СП BAMBOO - 000",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "25(38-39)",
-    "color": "Белый",
-    "price": 112.52,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "арт. 20С-96СП BAMBOO - 000",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "25(38-39)",
-    "color": "Чёрный",
     "price": 112.52,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -44764,16 +44724,6 @@
     "name": "kids art. 11C01 collant",
     "menu": "Колготки",
     "density": "-",
-    "size": "128-134",
-    "color": "Blu",
-    "price": 333,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "kids art. 11C01 collant",
-    "menu": "Колготки",
-    "density": "-",
     "size": "116-122",
     "color": "Blu",
     "price": 333,
@@ -48365,16 +48315,6 @@
     "menu": "Колготки",
     "density": "8 DEN",
     "size": "3-M",
-    "color": "Tropico",
-    "price": 373,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "BE FREE 8 vita bassa",
-    "menu": "Колготки",
-    "density": "8 DEN",
-    "size": "2-S",
     "color": "Tropico",
     "price": 373,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -50086,16 +50026,6 @@
     "density": "8 DEN",
     "size": "5-XL",
     "color": "Playa",
-    "price": 466,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "ABSOLUTE SUMMER 8 XL",
-    "menu": "Колготки",
-    "density": "8 DEN",
-    "size": "5-XL",
-    "color": "Tea",
     "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -74974,6 +74904,16 @@
     "name": "art. 980 COLLANT 280",
     "menu": "Колготки",
     "density": "280 DEN",
+    "size": 4,
+    "color": "Black",
+    "price": 2655,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 980 COLLANT 280",
+    "menu": "Колготки",
+    "density": "280 DEN",
     "size": 5,
     "color": "Black",
     "price": 2655,
@@ -75026,6 +74966,16 @@
     "density": "280 DEN",
     "size": 5,
     "color": "21 Beige",
+    "price": 2655,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 980 COLLANT 280",
+    "menu": "Колготки",
+    "density": "280 DEN",
+    "size": 2,
+    "color": "Black",
     "price": 2655,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -75684,8 +75634,28 @@
     "name": "art. 970 STAY-UP 280",
     "menu": "Чулки",
     "density": "280 DEN",
+    "size": 2,
+    "color": "21 Beige",
+    "price": 2421,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 970 STAY-UP 280",
+    "menu": "Чулки",
+    "density": "280 DEN",
     "size": 3,
     "color": "21 Beige",
+    "price": 2421,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 970 STAY-UP 280",
+    "menu": "Чулки",
+    "density": "280 DEN",
+    "size": 2,
+    "color": "Black",
     "price": 2421,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -76355,6 +76325,16 @@
     "menu": "Гольфы",
     "density": "140 DEN",
     "size": 2,
+    "color": "Black",
+    "price": 1266,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 850M GAMBALETTO 140 MICRO",
+    "menu": "Гольфы",
+    "density": "140 DEN",
+    "size": 5,
     "color": "Black",
     "price": 1266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -76885,6 +76865,16 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "43-45",
+    "color": "Black",
+    "price": 1398,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 820 COTTON SOCKS",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "41-43",
     "color": "Black",
     "price": 1398,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -167871,6 +167861,16 @@
   },
   {
     "brand": "JOLIDON",
+    "name": "BOXER N188BL",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Dark Blue",
+    "price": 871.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JOLIDON",
     "name": "BOXER N192BL",
     "menu": "Бельё Мужское",
     "density": "",
@@ -168024,6 +168024,16 @@
     "name": "BOXER N265BL",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "4-M",
+    "color": "Dark Blue",
+    "price": 1077.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JOLIDON",
+    "name": "BOXER N265BL",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "5-L",
     "color": "Black",
     "price": 1077.6,
@@ -168137,6 +168147,26 @@
     "size": "10-5XL",
     "color": "Dark Blue",
     "price": 907.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JOLIDON",
+    "name": "BOXER N60BL",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Dark Blue",
+    "price": 871.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JOLIDON",
+    "name": "BOXER N60BL",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Black",
+    "price": 871.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
