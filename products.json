@@ -77694,16 +77694,6 @@
     "name": "art. 1203 COTONE",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "35-38",
-    "color": "Blu",
-    "price": 115,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 1203 COTONE",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "39-41",
     "color": "Fuxia",
     "price": 115,
@@ -98934,16 +98924,6 @@
     "name": "MA121 top spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S/M",
-    "color": "Giallo",
-    "price": 400.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MA121 top spalla stretta",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L/XL",
     "color": "Erbа",
     "price": 400.07,
@@ -100304,7 +100284,7 @@
     "name": "MFR221 slip ribana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S(44)",
+    "size": "M(46)",
     "color": "Salmone",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -100314,7 +100294,7 @@
     "name": "MFR221 slip ribana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
+    "size": "S(44)",
     "color": "Salmone",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -100636,6 +100616,16 @@
     "density": "",
     "size": "S(44)",
     "color": "Menta",
+    "price": 301.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "MFR222 slip midi ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
+    "color": "Celeste",
     "price": 301.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
