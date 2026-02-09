@@ -985,6 +985,16 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "4-L",
+    "color": "Moka",
+    "price": 233.17,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "BELLA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "4-L",
     "color": "Daino",
     "price": 233.17,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -1054,6 +1064,16 @@
     "name": "BELLA 70",
     "menu": "Колготки",
     "density": "70 DEN",
+    "size": "2-S",
+    "color": "Moka",
+    "price": 233.17,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "BELLA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
     "size": "5-XL",
     "color": "Fumo",
     "price": 233.17,
@@ -1076,6 +1096,16 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Daino",
+    "price": 233.17,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "BELLA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "3-M",
+    "color": "Moka",
     "price": 233.17,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -4225,6 +4255,16 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "4-L",
+    "color": "Nero",
+    "price": 464.9,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "SUPER SLIM 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "3-M",
     "color": "Nero",
     "price": 464.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -12414,16 +12454,6 @@
     "name": "MULTIFIBRA COLORS 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "3-M",
-    "color": "Acqua",
-    "price": 426,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MULTIFIBRA COLORS 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "4-L",
     "color": "Acqua",
     "price": 426,
@@ -14164,16 +14194,6 @@
     "name": "SIBERIA 300 MAXI pantacollant",
     "menu": "Леггинсы",
     "density": "300 DEN",
-    "size": "6-XXL",
-    "color": "Nero",
-    "price": 733,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "SIBERIA 300 MAXI pantacollant",
-    "menu": "Леггинсы",
-    "density": "300 DEN",
     "size": "5-XL",
     "color": "Nero",
     "price": 733,
@@ -15767,16 +15787,6 @@
     "size": "UNICA",
     "color": "Nero",
     "price": 266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "COTONE 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": "UNICA",
-    "color": "Nero",
-    "price": 166,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43936,16 +43946,6 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 382,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "STYLE 40 autoreggente",
-    "menu": "Чулки",
-    "density": "40 DEN",
-    "size": "2-S",
-    "color": "Cioccolata",
     "price": 382,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -93784,16 +93784,6 @@
     "name": "B0213 string",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "2XL(52)",
-    "color": "Blu Notte",
-    "price": 301.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0213 string",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Avorio",
     "price": 301.47,
@@ -105171,16 +105161,6 @@
   },
   {
     "brand": "OMSA underwear for women",
-    "name": "OmD INVISIBLE 2213 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Nero",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
     "name": "OmD INVISIBLE 2214 slip",
     "menu": "Бельё Женское",
     "density": "",
@@ -105235,6 +105215,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
+    "color": "Nero",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "OmD INVISIBLE 2613 brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Nero",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -128474,16 +128464,6 @@
     "name": "art. 4468 LEGGINGS",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "XL",
-    "color": "Nero/bianco",
-    "price": 1208.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4468 LEGGINGS",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M",
     "color": "Nero/bianco",
     "price": 1208.4,
@@ -132196,16 +132176,6 @@
     "density": "",
     "size": "S/M",
     "color": "Bianco",
-    "price": 532.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "BX086 SHORTS",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L/XL",
-    "color": "Nudo",
     "price": 532.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
