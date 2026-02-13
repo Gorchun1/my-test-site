@@ -3275,6 +3275,16 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "4-L",
+    "color": "Cappuccino",
+    "price": 239.9,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "SENSI 40 vita bassa",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "4-L",
     "color": "Caramello",
     "price": 239.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -4985,6 +4995,16 @@
     "menu": "Колготки",
     "density": "400 DEN",
     "size": "5-XL",
+    "color": "Nero",
+    "price": 839.9,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "COTTON 400 XL",
+    "menu": "Колготки",
+    "density": "400 DEN",
+    "size": "6-XXL",
     "color": "Nero",
     "price": 839.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -8025,16 +8045,6 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "3-M",
-    "color": "Daino",
-    "price": 329.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "POUDRE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "3-M",
     "color": "Nero",
     "price": 329.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -8317,16 +8327,6 @@
     "size": "2-S",
     "color": "Naturel",
     "price": 279.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "NUIT",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "3-M",
-    "color": "Nero",
-    "price": 354.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -9865,6 +9865,16 @@
     "menu": "Колготки",
     "density": "50 DEN",
     "size": "140-146",
+    "color": "Blu",
+    "price": 274.9,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INCANTO",
+    "name": "kids MICRO 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "152-158",
     "color": "Blu",
     "price": 274.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -34621,6 +34631,16 @@
   },
   {
     "brand": "GLAMOUR",
+    "name": "MICROFIBER 100",
+    "menu": "Колготки",
+    "density": "100 DEN",
+    "size": "5-XL",
+    "color": "Chocolate",
+    "price": 409.9,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "GLAMOUR",
     "name": "MICROFIBER 200",
     "menu": "Колготки",
     "density": "200 DEN",
@@ -40111,16 +40131,6 @@
   },
   {
     "brand": "OMSA",
-    "name": "ATTIVA 70 XXL",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "6-XXL",
-    "color": "Nero",
-    "price": 399,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
     "name": "ATTIVA 70 XXL PLUS SIZE",
     "menu": "Колготки",
     "density": "70 DEN",
@@ -40896,6 +40906,16 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
+    "price": 353,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "NUDO 40 vita bassa",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "4-L",
+    "color": "Fumo",
     "price": 353,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -43134,16 +43154,6 @@
     "name": "GROENLAND 250",
     "menu": "Колготки",
     "density": "250 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 492,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "GROENLAND 250",
-    "menu": "Колготки",
-    "density": "250 DEN",
     "size": "4-L",
     "color": "Beige Naturel",
     "price": 492,
@@ -43166,6 +43176,16 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Beige Naturel",
+    "price": 492,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "GROENLAND 250",
+    "menu": "Колготки",
+    "density": "250 DEN",
+    "size": "2-S",
+    "color": "Bianco",
     "price": 492,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -74591,6 +74611,16 @@
   },
   {
     "brand": "RELAXSAN",
+    "name": "art. 980 COLLANT 280",
+    "menu": "Колготки",
+    "density": "280 DEN",
+    "size": 2,
+    "color": "Black",
+    "price": 2655,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
     "name": "art. M1180 MEDICALE SOFT collant",
     "menu": "Колготки",
     "density": "-",
@@ -75354,6 +75384,16 @@
     "name": "art. M1170 MEDICALE SOFT stay up",
     "menu": "Чулки",
     "density": "-",
+    "size": 2,
+    "color": "Black",
+    "price": 2040,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M1170 MEDICALE SOFT stay up",
+    "menu": "Чулки",
+    "density": "-",
     "size": 3,
     "color": "Black",
     "price": 2040,
@@ -75424,6 +75464,16 @@
     "name": "art. M1170A MEDICALE SOFT stay up no toe",
     "menu": "Чулки",
     "density": "-",
+    "size": 2,
+    "color": "40 Beige",
+    "price": 2040,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M1170A MEDICALE SOFT stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
     "size": 3,
     "color": "40 Beige",
     "price": 2040,
@@ -75504,6 +75554,16 @@
     "name": "art. M2170 MEDICALE SOFT stay up",
     "menu": "Чулки",
     "density": "-",
+    "size": 3,
+    "color": "40 Beige",
+    "price": 2182,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2170 MEDICALE SOFT stay up",
+    "menu": "Чулки",
+    "density": "-",
     "size": 4,
     "color": "40 Beige",
     "price": 2182,
@@ -75846,6 +75906,16 @@
     "density": "140 DEN",
     "size": 4,
     "color": "21 Beige",
+    "price": 1223,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 850 GAMBALETTO 140",
+    "menu": "Гольфы",
+    "density": "140 DEN",
+    "size": 5,
+    "color": "Black",
     "price": 1223,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -109035,16 +109105,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Menta",
-    "price": 641.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OmB 2225 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-2XL",
     "color": "Menta",
     "price": 641.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -162634,16 +162694,6 @@
     "name": "EB1216 uomo boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "7-XXL",
-    "color": "Nero/verde",
-    "price": 552,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "EB1216 uomo boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "6-XL",
     "color": "Nero/verde",
     "price": 552,
@@ -162675,16 +162725,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Grigio/blu",
-    "price": 552,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "EB1216 uomo boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
     "color": "Grigio/blu",
     "price": 552,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
