@@ -214,16 +214,6 @@
     "name": "BELLA 15",
     "menu": "Колготки",
     "density": "15 DEN",
-    "size": "5-XL",
-    "color": "Daino",
-    "price": 189.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
-    "name": "BELLA 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
     "size": "2-S",
     "color": "Daino",
     "price": 189.9,
@@ -162881,6 +162871,16 @@
   },
   {
     "brand": "PRIMAL",
+    "name": "B198 uomo boxer, 3 pezzi",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Multicolore",
+    "price": 1078.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PRIMAL",
     "name": "B212 uomo boxer, 3 pezzi",
     "menu": "Бельё Мужское",
     "density": "",
@@ -162901,12 +162901,12 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "B237 uomo boxer, 3 pezzi",
+    "name": "B224 uomo boxer, 3 pezzi",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
     "color": "Multicolore",
-    "price": 1078.8,
+    "price": 1294.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -169434,16 +169434,6 @@
     "name": "OXO-0098 set boy THERMAL CITY",
     "menu": "Бельё Мужское",
     "density": "250 г/м",
-    "size": 122,
-    "color": "Чёрный",
-    "price": 1936.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OXOUNO",
-    "name": "OXO-0098 set boy THERMAL CITY",
-    "menu": "Бельё Мужское",
-    "density": "250 г/м",
     "size": 128,
     "color": "Чёрный",
     "price": 1936.8,
@@ -169701,16 +169691,6 @@
   },
   {
     "brand": "OXOUNO",
-    "name": "OXO-0397 t-shirt men THERMAL CITY",
-    "menu": "Бельё Мужское",
-    "density": "250 г/м",
-    "size": "XL",
-    "color": "Чёрный",
-    "price": 1266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OXOUNO",
     "name": "OXO-0426 set young girl THERMAL CITY",
     "menu": "Бельё Женское",
     "density": "250 г/м",
@@ -169764,6 +169744,16 @@
     "name": "OXO-0469 set boy THERMAL CITY",
     "menu": "Бельё Мужское",
     "density": "250 г/м",
+    "size": 128,
+    "color": "Серый",
+    "price": 1676.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OXOUNO",
+    "name": "OXO-0469 set boy THERMAL CITY",
+    "menu": "Бельё Мужское",
+    "density": "250 г/м",
     "size": 122,
     "color": "Серый",
     "price": 1676.4,
@@ -169797,6 +169787,16 @@
     "size": "XXL",
     "color": "Чёрный",
     "price": 1652.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OXOUNO",
+    "name": "OXO-0562 set men THERMAL ACTIVE",
+    "menu": "Бельё Мужское",
+    "density": "300 г/м",
+    "size": "M",
+    "color": "Чёрный",
+    "price": 3894,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -169957,6 +169957,16 @@
     "size": "XS",
     "color": "Black",
     "price": 1201.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ULTRAMAX",
+    "name": "U2921 PANTS MEN MERINO",
+    "menu": "Бельё Мужское",
+    "density": "220 г/м2",
+    "size": "4XL",
+    "color": "Black",
+    "price": 1614,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   }
 ]
