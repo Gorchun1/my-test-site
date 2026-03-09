@@ -130714,6 +130714,16 @@
     "name": "BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M",
+    "color": "Sangria",
+    "price": 1072.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MY",
+    "name": "BR492 TOP sport",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L",
     "color": "Sangria",
     "price": 1072.8,
@@ -131375,16 +131385,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
-    "color": "Nudo",
-    "price": 712.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "BX315 SHORTS vita alta",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
     "color": "Storm",
     "price": 712.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -131504,7 +131504,7 @@
     "name": "BX326 SHORTS PLAIT",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S",
+    "size": "M",
     "color": "Cinnamon",
     "price": 669.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -131601,16 +131601,6 @@
   },
   {
     "brand": "MY",
-    "name": "BX327 SHORTS RIB",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L",
-    "color": "Blue Sky",
-    "price": 512.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
     "name": "CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
@@ -131815,16 +131805,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
-    "color": "Bianco",
-    "price": 718.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "CR001 CANOTTA spalla stretta",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L/XL",
     "color": "Bianco",
     "price": 718.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -165944,7 +165924,7 @@
     "name": "EB4111 junior boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "13/14",
+    "size": "15/16",
     "color": "Cobalto",
     "price": 338.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
