@@ -25334,16 +25334,6 @@
     "name": "TULLE",
     "menu": "Колготки",
     "density": "30 DEN",
-    "size": "3-M",
-    "color": "Chocolate",
-    "price": 289.66,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "TULLE",
-    "menu": "Колготки",
-    "density": "30 DEN",
     "size": "4-L",
     "color": "Chocolate",
     "price": 289.66,
@@ -47404,16 +47394,6 @@
     "name": "STYLE 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "3-M",
-    "color": "Moka",
-    "price": 382,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "STYLE 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
     "price": 382,
@@ -51306,16 +51286,6 @@
     "density": "20 DEN",
     "size": "2-S",
     "color": "Playa",
-    "price": 666,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "ORO 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "3-M",
-    "color": "Cognac",
     "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -76274,16 +76244,6 @@
     "name": "art. 1201 COTONE",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "35-38",
-    "color": "Rosa",
-    "price": 100,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 1201 COTONE",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "39-41",
     "color": "Nero",
     "price": 100,
@@ -85204,16 +85164,6 @@
     "name": "ICD BASIC LACE 36085 culotte",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4(L)",
-    "color": "Nero",
-    "price": 645.24,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD BASIC LACE 36085 culotte",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "6(2XL)",
     "color": "Nero",
     "price": 645.24,
@@ -93764,16 +93714,6 @@
     "name": "B0225 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "XL(50)",
-    "color": "Bianco",
-    "price": 414.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0225 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2XL(52)",
     "color": "Bianco",
     "price": 414.8,
@@ -93936,16 +93876,6 @@
     "density": "",
     "size": "3XL(54)",
     "color": "Bianco",
-    "price": 346.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0241 maxi slip extra size",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3XL(54)",
-    "color": "Avorio",
     "price": 346.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -99424,16 +99354,6 @@
     "name": "MFR221 slip ribana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Verde Foresta",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XL(50)",
     "color": "Vaniglia",
     "price": 264.07,
@@ -104585,6 +104505,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S(44)",
+    "color": "Nero",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "OmD INVISIBLE 2613 brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
     "color": "Nero",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -152055,6 +151985,36 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2 (70B)",
+    "color": "Bianco",
+    "price": 2580,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LEILIEVE",
+    "name": "art. 6001 cup B",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3 (75B)",
+    "color": "Bianco",
+    "price": 2580,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LEILIEVE",
+    "name": "art. 6001 cup B",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "4 (80B)",
+    "color": "Bianco",
+    "price": 2580,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LEILIEVE",
+    "name": "art. 6001 cup B",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "5 (85B)",
     "color": "Bianco",
     "price": 2580,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
