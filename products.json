@@ -16190,26 +16190,6 @@
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
-    "brand": "MINIMI",
-    "name": "POIS 20 calzino",
-    "menu": "Носочки",
-    "density": "20 DEN",
-    "size": "UNICA",
-    "color": "Daino",
-    "price": 93,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "RETE calzino",
-    "menu": "Носочки",
-    "density": "–",
-    "size": "UNICA",
-    "color": "Caramello",
-    "price": 100,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
     "brand": "GIULIA",
     "name": "LIKE 20",
     "menu": "Колготки",
@@ -25276,16 +25256,6 @@
     "density": "30 DEN",
     "size": "4-L",
     "color": "Grafit",
-    "price": 289.66,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "TULLE",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "4-L",
-    "color": "Chocolate",
     "price": 289.66,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -42691,16 +42661,6 @@
   },
   {
     "brand": "OMSA",
-    "name": "COTTON SOFT 160 XL",
-    "menu": "Колготки",
-    "density": "160 DEN",
-    "size": "6-XXL",
-    "color": "Moka",
-    "price": 546,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
     "name": "COTTON FLEECE 300",
     "menu": "Колготки",
     "density": "300 DEN",
@@ -43635,16 +43595,6 @@
     "menu": "Чулки",
     "density": "40 DEN",
     "size": "3-M",
-    "color": "Cioccolato",
-    "price": 601,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "MALIZIA 40 autoreggente",
-    "menu": "Чулки",
-    "density": "40 DEN",
-    "size": "2-S",
     "color": "Cioccolato",
     "price": 601,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -47735,6 +47685,16 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "4-L",
+    "color": "Moka",
+    "price": 433,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI",
+    "name": "FASCINO 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "4-L",
     "color": "Naturelle",
     "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -48506,6 +48466,16 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Naturelle",
+    "price": 437,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI",
+    "name": "ACTIVITY 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "3-M",
+    "color": "Moka",
     "price": 437,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -49896,16 +49866,6 @@
     "density": "20 DEN",
     "size": "4-L",
     "color": "Cognac",
-    "price": 246,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "ODA 20 elegance",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "5-XL",
-    "color": "Glace",
     "price": 246,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -50957,16 +50917,6 @@
     "size": "UNICA",
     "color": "Tea",
     "price": 353,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "COOL SUMMER 8",
-    "menu": "Колготки",
-    "density": "8 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -53916,16 +53866,6 @@
     "density": "20 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 1446,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMERO",
-    "name": "SHAPING 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "2-S",
-    "color": "Playa Nature",
     "price": 1446,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -64154,6 +64094,16 @@
     "name": "CLUB 15",
     "menu": "Колготки",
     "density": "15 DEN",
+    "size": "1-S",
+    "color": "Black",
+    "price": 750,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "CLUB 15",
+    "menu": "Колготки",
+    "density": "15 DEN",
     "size": "4-XL",
     "color": "Black",
     "price": 750,
@@ -64676,6 +64626,16 @@
     "density": "20 DEN",
     "size": "2-M",
     "color": "Smoke",
+    "price": 789,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "SENSUEL 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "1-S",
+    "color": "Moka",
     "price": 789,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -66381,16 +66341,6 @@
   },
   {
     "brand": "OROBLU",
-    "name": "SHOCK UP LIGHT 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "1-S",
-    "color": "Singapour",
-    "price": 1405,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
     "name": "SHOCK UP 40",
     "menu": "Колготки",
     "density": "40 DEN",
@@ -66575,6 +66525,16 @@
     "menu": "Колготки",
     "density": "8 DEN",
     "size": "L/XL",
+    "color": "Black",
+    "price": 1200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "TWINS EXTRA LIGHT 8, 2 pairs",
+    "menu": "Колготки",
+    "density": "8 DEN",
+    "size": "S",
     "color": "Black",
     "price": 1200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -67834,6 +67794,16 @@
     "name": "CHERYL fine cashmere",
     "menu": "Колготки",
     "density": "-",
+    "size": "4-XL",
+    "color": "Brown 4",
+    "price": 2145,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "CHERYL fine cashmere",
+    "menu": "Колготки",
+    "density": "-",
     "size": "2-M",
     "color": "Black",
     "price": 2145,
@@ -68145,6 +68115,16 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "3-L",
+    "color": "Black",
+    "price": 1237,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "ADELLE 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "4-XL",
     "color": "Black",
     "price": 1237,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -68676,6 +68656,16 @@
     "density": "15 DEN",
     "size": "1-S",
     "color": "Nude",
+    "price": 924,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "CHIC UP 15 stay-up",
+    "menu": "Чулки",
+    "density": "15 DEN",
+    "size": "2-M",
+    "color": "Singapour",
     "price": 924,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -69246,6 +69236,16 @@
     "density": "70 DEN",
     "size": "39-41",
     "color": "Black",
+    "price": 678,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "REPOS 70 knee-highs",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "36-38",
+    "color": "Nude",
     "price": 678,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -74374,16 +74374,6 @@
     "name": "art. 770 STAY-UP 70",
     "menu": "Чулки",
     "density": "70 DEN",
-    "size": 5,
-    "color": "21 Beige",
-    "price": 1506,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 770 STAY-UP 70",
-    "menu": "Чулки",
-    "density": "70 DEN",
     "size": 4,
     "color": "21 Beige",
     "price": 1506,
@@ -74725,16 +74715,6 @@
     "menu": "Чулки",
     "density": "280 DEN",
     "size": 4,
-    "color": "36 Beige",
-    "price": 2138,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M1470S STAY-UP 280 OPEN TOE",
-    "menu": "Чулки",
-    "density": "280 DEN",
-    "size": 2,
     "color": "36 Beige",
     "price": 2138,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -77135,16 +77115,6 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "39-41",
-    "color": "Bianco",
-    "price": 133,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 4213 TREND",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "39-41",
     "color": "Nero",
     "price": 133,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -77564,16 +77534,6 @@
     "name": "art. 254 ECO",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "35-38",
-    "color": "Blu Chiaro",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 254 ECO",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "39-41",
     "color": "Menta",
     "price": 166,
@@ -77626,6 +77586,16 @@
     "density": "всесезонные",
     "size": "35-38",
     "color": "Lilla",
+    "price": 166,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "art. 254 ECO",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "35-38",
+    "color": "Blu Chiaro",
     "price": 166,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -84411,246 +84381,6 @@
   },
   {
     "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 33409 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 33409 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 33409 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 33409 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 33409 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 33409 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 33409 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 33409 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 36034 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6(2XL)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 36034 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "7(3XL)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 36034 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "8(4XL)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 36034 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "8(4XL)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 36034 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "7(3XL)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 36034 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 36034 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 36034 maxi slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6(2XL)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 37384 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 37384 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 37384 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 37384 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 37384 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 37384 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Nero",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 37384 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD PEONIA 37384 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Bianco",
-    "price": 327.09,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
     "name": "BD TE 33342 slip",
     "menu": "Бельё Женское",
     "density": "",
@@ -86085,246 +85815,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "5(XL)",
-    "color": "Beige",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Bianco",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Nero",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Nero",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Bianco",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Bianco",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Beige",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Bianco",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Beige",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Nero",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Beige",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Nero",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 33692 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Beige",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(L)",
-    "color": "Nero",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(L)",
-    "color": "Bianco",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Beige",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Nero",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Bianco",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Beige",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Nero",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
-    "color": "Nero",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(L)",
-    "color": "Beige",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Bianco",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
-    "color": "Bianco",
-    "price": 496.11,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD MICROFIBER LASERCUT 37861 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(S)",
     "color": "Beige",
     "price": 496.11,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -90364,16 +89854,6 @@
     "name": "6093 BRASILIANA",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4(L)",
-    "color": "Nero",
-    "price": 340.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "6093 BRASILIANA",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2(S)",
     "color": "Bianco",
     "price": 340.8,
@@ -91494,16 +90974,6 @@
     "name": "1008 STRING",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4(L)",
-    "color": "Nero",
-    "price": 340.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "1008 STRING",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "3(M)",
     "color": "Bianco",
     "price": 340.8,
@@ -91536,16 +91006,6 @@
     "density": "",
     "size": "5(XL)",
     "color": "Bianco",
-    "price": 340.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "1008 STRING",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(XL)",
-    "color": "Nudo",
     "price": 340.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -93544,16 +93004,6 @@
     "name": "B0223 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Bianco",
-    "price": 241.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "B0223 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Nero",
     "price": 241.4,
@@ -97085,16 +96535,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
-    "color": "Bianco",
-    "price": 210.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "BMi_F2210 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
     "color": "Bianco",
     "price": 210.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -110124,16 +109564,6 @@
     "name": "OmB 3224 SLIP",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "6-XL",
-    "color": "Bianco",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "OmB 3224 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "7-2XL",
     "color": "Bianco",
     "price": 604.07,
@@ -112815,16 +112245,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2XL(52)",
-    "color": "Nero",
-    "price": 340,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5107 slip midi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
     "color": "Nero",
     "price": 340,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -119005,16 +118425,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(XS)",
-    "color": "Nero",
-    "price": 484.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 520 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(S)",
     "color": "Nero",
     "price": 484.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -126497,16 +125907,6 @@
     "size": "XL",
     "color": "Nero",
     "price": 1131.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4287 MAGLIA manica corta",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL",
-    "color": "Nero",
-    "price": 1098,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -161506,16 +160906,6 @@
     "density": "",
     "size": "4-M",
     "color": "Nero",
-    "price": 717.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "ET1202 uomo canotta",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Blu",
     "price": 717.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
