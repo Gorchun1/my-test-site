@@ -51064,16 +51064,6 @@
     "name": "REGINA 100",
     "menu": "Колготки",
     "density": "–",
-    "size": "2-S",
-    "color": "Coffee",
-    "price": 866,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "REGINA 100",
-    "menu": "Колготки",
-    "density": "–",
     "size": "4-L",
     "color": "Nero",
     "price": 866,
@@ -113796,7 +113786,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 308.4,
+    "price": 345.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113806,7 +113796,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 308.4,
+    "price": 345.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113816,7 +113806,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 308.4,
+    "price": 345.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113826,17 +113816,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 308.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 02 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(S)",
-    "color": "Nero",
-    "price": 308.4,
+    "price": 345.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113845,8 +113825,18 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "3(S)",
+    "color": "Nero",
+    "price": 345.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 02 SLIP",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3(S)",
     "color": "Bianco",
-    "price": 308.4,
+    "price": 345.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113856,7 +113846,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 328.8,
+    "price": 368.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113866,7 +113856,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 328.8,
+    "price": 368.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113876,7 +113866,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 328.8,
+    "price": 368.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113886,7 +113876,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 328.8,
+    "price": 368.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113896,7 +113886,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 328.8,
+    "price": 368.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113906,7 +113896,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 328.8,
+    "price": 368.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113916,7 +113906,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 328.8,
+    "price": 368.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113926,7 +113916,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Nero",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113936,7 +113926,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Bianco",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113946,7 +113936,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113956,7 +113946,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113966,7 +113956,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113976,7 +113966,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113986,7 +113976,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113996,7 +113986,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114006,7 +113996,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114016,7 +114006,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114026,7 +114016,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114036,7 +114026,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Cipria",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114046,7 +114036,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Cipria",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114056,7 +114046,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 404.4,
+    "price": 453.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114066,7 +114056,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Nero",
-    "price": 416.4,
+    "price": 466.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114076,7 +114066,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Bianco",
-    "price": 416.4,
+    "price": 466.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114086,7 +114076,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Nero",
-    "price": 416.4,
+    "price": 466.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114096,7 +114086,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Bianco",
-    "price": 416.4,
+    "price": 466.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114106,7 +114096,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Cipria",
-    "price": 416.4,
+    "price": 466.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114116,7 +114106,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Cipria",
-    "price": 416.4,
+    "price": 466.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114126,7 +114116,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114136,7 +114126,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114146,7 +114136,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114156,7 +114146,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114166,7 +114156,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114176,7 +114166,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Nero",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114186,7 +114176,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114196,7 +114186,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114206,7 +114196,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Bianco",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114216,7 +114206,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114226,7 +114216,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114236,7 +114226,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114246,7 +114236,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cipria",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114256,7 +114246,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Cipria",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114266,7 +114256,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Cipria",
-    "price": 421.2,
+    "price": 471.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114276,7 +114266,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Nero",
-    "price": 426,
+    "price": 499.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114286,7 +114276,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Nero",
-    "price": 426,
+    "price": 499.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114296,7 +114286,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Bianco",
-    "price": 426,
+    "price": 499.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114306,7 +114296,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Bianco",
-    "price": 426,
+    "price": 499.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114316,7 +114306,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Cipria",
-    "price": 426,
+    "price": 499.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114326,7 +114316,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Cipria",
-    "price": 426,
+    "price": 499.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114336,7 +114326,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 402,
+    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114346,7 +114336,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 402,
+    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114356,7 +114346,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 402,
+    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114366,7 +114356,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 402,
+    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114376,7 +114366,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 402,
+    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114386,7 +114376,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 402,
+    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114396,7 +114386,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 402,
+    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114406,7 +114396,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 402,
+    "price": 450,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114416,7 +114406,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 399.6,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114426,7 +114416,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 399.6,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114436,7 +114426,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 399.6,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114446,7 +114436,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 399.6,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114456,7 +114446,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 399.6,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114466,7 +114456,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 399.6,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114476,7 +114466,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 399.6,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114486,7 +114476,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 399.6,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114496,7 +114486,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114506,7 +114496,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114516,7 +114506,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Bianco",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114526,7 +114516,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114536,7 +114526,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Nero",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114546,7 +114536,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114556,7 +114546,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114566,7 +114556,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114576,7 +114566,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114586,7 +114576,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114596,7 +114586,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 432,
+    "price": 483.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114606,7 +114596,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Bianco",
-    "price": 432,
+    "price": 498,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114616,7 +114606,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Cipria",
-    "price": 432,
+    "price": 498,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114626,7 +114616,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Cipria",
-    "price": 432,
+    "price": 498,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114636,7 +114626,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Nero",
-    "price": 432,
+    "price": 498,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -114646,7 +114636,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Bianco",
-    "price": 432,
+    "price": 498,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115886,7 +115876,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115896,7 +115886,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115906,7 +115896,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115916,7 +115906,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115926,7 +115916,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115936,7 +115926,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115946,7 +115936,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115956,7 +115946,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115966,7 +115956,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -115976,7 +115966,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 510,
+    "price": 571.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116076,7 +116066,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116086,7 +116076,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116096,7 +116086,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116106,7 +116096,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116116,7 +116106,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116126,7 +116116,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116136,7 +116126,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116146,7 +116136,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116156,7 +116146,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Uvetta",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116166,7 +116156,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ardesia",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116176,7 +116166,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Uvetta",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116186,7 +116176,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Uvetta",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116196,7 +116186,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Asfalto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116206,7 +116196,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Asfalto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116216,7 +116206,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Asfalto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116226,7 +116216,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Asfalto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116236,7 +116226,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pervinca 24",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116246,7 +116236,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Blu",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116256,7 +116246,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Uvetta",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116266,7 +116256,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mogano",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116276,7 +116266,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Galassia",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116286,7 +116276,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pietra",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116296,7 +116286,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mogano",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116306,7 +116296,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pietra",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116316,7 +116306,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cobalto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116326,7 +116316,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cobalto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116336,7 +116326,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Mogano",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116346,7 +116336,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Rosa",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116356,7 +116346,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mosto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116366,7 +116356,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Rosa",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116376,7 +116366,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pietra",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116386,7 +116376,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mosto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116396,7 +116386,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Rosa",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116406,7 +116396,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mosto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116416,7 +116406,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Amarena",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116426,7 +116416,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Denim",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116436,7 +116426,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Fiordaliso",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116446,7 +116436,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cenere",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116456,7 +116446,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Foresta",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116466,7 +116456,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116476,7 +116466,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Malva",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116486,7 +116476,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Malva",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116496,7 +116486,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Melanzana",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116506,7 +116496,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Navy",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116516,7 +116506,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pavone",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116526,7 +116516,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pavone",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116536,7 +116526,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pavone",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116546,7 +116536,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Peonia",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116556,7 +116546,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Petalo",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116566,7 +116556,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Oleandro",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116576,7 +116566,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Rosa",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116586,7 +116576,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Mosto",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116596,7 +116586,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mogano",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116606,7 +116596,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Pietra",
-    "price": 386.4,
+    "price": 456,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116616,7 +116606,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116626,7 +116616,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116636,7 +116626,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116646,7 +116636,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116656,7 +116646,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116666,7 +116656,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116676,7 +116666,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116686,7 +116676,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116696,7 +116686,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Asfalto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116706,7 +116696,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Galassia",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116716,7 +116706,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Asfalto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116726,7 +116716,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pietra",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116736,7 +116726,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Uvetta",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116746,7 +116736,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Uvetta",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116756,7 +116746,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Denim",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116766,7 +116756,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Asfalto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116776,7 +116766,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Fiordaliso",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116786,7 +116776,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Pietra",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116796,7 +116786,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Asfalto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116806,7 +116796,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pietra",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116816,7 +116806,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pietra",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116826,7 +116816,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116836,7 +116826,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Foresta",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116846,7 +116836,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Silver",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116856,7 +116846,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mogano",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116866,7 +116856,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Mogano",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116876,7 +116866,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mosto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116886,7 +116876,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Mosto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116896,7 +116886,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Rosa",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116906,7 +116896,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mosto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116916,7 +116906,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mogano",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116926,7 +116916,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Oleandro",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116936,7 +116926,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Foresta",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116946,7 +116936,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Navy",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116956,7 +116946,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Navy",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116966,7 +116956,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Orchidea 24",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116976,7 +116966,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Jeans 24",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116986,7 +116976,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Jeans 24",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -116996,7 +116986,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Uvetta",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117006,7 +116996,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cobalto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117016,7 +117006,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ciclamino",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117026,7 +117016,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Rosa",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117036,7 +117026,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Rosa",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117046,7 +117036,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Rosa",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117056,7 +117046,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mosto",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117066,7 +117056,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Lavanda",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117076,7 +117066,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pavone",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117086,7 +117076,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Peonia",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117096,7 +117086,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cenere",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117106,7 +117096,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cenere",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117116,7 +117106,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ortensia",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117126,7 +117116,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Ortensia",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117136,7 +117126,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Camelia",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117146,7 +117136,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Camelia",
-    "price": 501.6,
+    "price": 561.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117156,7 +117146,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 374.4,
+    "price": 440.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117166,7 +117156,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 374.4,
+    "price": 440.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117176,7 +117166,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 374.4,
+    "price": 440.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117186,7 +117176,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 374.4,
+    "price": 440.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117196,7 +117186,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 374.4,
+    "price": 440.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117206,7 +117196,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 374.4,
+    "price": 440.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117216,7 +117206,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117226,7 +117216,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117236,7 +117226,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117246,7 +117236,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117256,7 +117246,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117266,7 +117256,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117276,7 +117266,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117286,7 +117276,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117296,7 +117286,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117306,7 +117296,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 487.2,
+    "price": 546,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117366,7 +117356,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117376,7 +117366,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117386,7 +117376,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117396,7 +117386,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117406,7 +117396,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117416,7 +117406,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117426,7 +117416,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117436,7 +117426,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117446,17 +117436,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 406.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 509 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6(XL)",
-    "color": "Cipria",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117466,7 +117446,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117476,7 +117456,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Galassia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117486,7 +117466,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cobalto",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117496,7 +117476,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Fiordaliso",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117506,7 +117486,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Galassia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117516,7 +117496,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Galassia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117526,7 +117506,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cobalto",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117536,7 +117516,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ardesia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117546,7 +117526,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Corallo",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117556,7 +117536,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Denim",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117566,7 +117546,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cobalto",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117576,7 +117556,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cobalto",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117586,7 +117566,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Fiordaliso",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117596,7 +117576,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Eclisse",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117606,7 +117586,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Foresta",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117616,7 +117596,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ciclamino",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117626,7 +117606,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Blu",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117636,7 +117616,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ciclamino",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117646,7 +117626,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Foresta",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117656,7 +117636,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Confetto",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117666,7 +117646,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117676,7 +117656,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Borgogna",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117686,7 +117666,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Foresta",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117696,7 +117676,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Borgogna",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117706,7 +117686,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Foresta",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117716,7 +117696,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Amarena",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117726,7 +117706,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Glicine",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117736,7 +117716,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Amarena",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117746,7 +117726,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Grafite",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117756,7 +117736,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Grigio",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117766,7 +117746,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Iris",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117776,7 +117756,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Lavanda",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117786,7 +117766,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Malva",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117796,7 +117776,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Malva",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117806,7 +117786,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mare",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117816,7 +117796,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mare",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117826,7 +117806,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Melanzana",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117836,7 +117816,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Melanzana",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117846,7 +117826,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Menta",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117856,7 +117836,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Navy",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117866,7 +117846,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Navy",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117876,7 +117856,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Navy",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117886,7 +117866,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pavone",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117896,7 +117876,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pavone",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117906,7 +117886,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pavone",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117916,7 +117896,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Peonia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117926,7 +117906,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Peonia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117936,7 +117916,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Peonia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117946,7 +117926,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117956,7 +117936,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pervinca",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117966,7 +117946,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pervinca",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117976,7 +117956,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Phard",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117986,7 +117966,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Phard",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -117996,7 +117976,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Rosa",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118006,7 +117986,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Silver",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118016,7 +117996,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Silver",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118026,7 +118006,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Tiffany",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118036,7 +118016,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Lattementa",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118046,7 +118026,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Lattementa",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118056,7 +118036,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Lattementa",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118066,7 +118046,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Oleandro",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118076,7 +118056,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Oleandro",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118086,7 +118066,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Oleandro",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118096,7 +118076,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Oleandro",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118106,7 +118086,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Oleandro",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118116,7 +118096,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118126,7 +118106,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pervinca 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118136,7 +118116,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Vaniglia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118146,7 +118126,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Vaniglia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118156,7 +118136,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Vaniglia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118166,7 +118146,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Jeans 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118176,7 +118156,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Jeans 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118186,7 +118166,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Jeans 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118196,7 +118176,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Jeans 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118206,7 +118186,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Orchidea 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118216,7 +118196,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Orchidea 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118226,7 +118206,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Orchidea 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118236,7 +118216,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Orchidea 24",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118246,7 +118226,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cenere",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118256,7 +118236,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cenere",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118266,7 +118246,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cenere",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118276,7 +118256,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cenere",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118286,7 +118266,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cenere",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118296,7 +118276,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Camelia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118306,7 +118286,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Camelia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118316,7 +118296,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Camelia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118326,7 +118306,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ortensia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118336,7 +118316,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Ortensia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118346,7 +118326,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Ortensia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118356,7 +118336,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Ortensia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118366,7 +118346,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ortensia",
-    "price": 406.8,
+    "price": 462,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118496,7 +118476,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118506,7 +118486,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118516,7 +118496,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118526,7 +118506,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118536,7 +118516,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118546,7 +118526,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118556,7 +118536,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118566,7 +118546,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118576,7 +118556,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118586,7 +118566,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118596,7 +118576,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118606,7 +118586,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Phard",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118616,7 +118596,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cobalto",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118626,7 +118606,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Malva",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118636,7 +118616,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118646,7 +118626,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Rubino",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118656,7 +118636,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Salvia",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118666,7 +118646,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Silver",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118676,7 +118656,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Silver",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118686,7 +118666,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pervinca",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118696,7 +118676,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Pervinca",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118706,7 +118686,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pervinca",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118716,7 +118696,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Denim",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118726,7 +118706,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Iris",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118736,7 +118716,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Denim",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118746,7 +118726,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ardesia",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118756,7 +118736,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Denim",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118766,7 +118746,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Ombra",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118776,7 +118756,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Jeans 24",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118786,7 +118766,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Amarena",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118796,7 +118776,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Platino",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118806,7 +118786,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Amarena",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118816,7 +118796,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Jeans 24",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118826,7 +118806,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Rosa",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118836,7 +118816,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Peonia",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118846,7 +118826,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Lavanda",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118856,7 +118836,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Pavone",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118866,7 +118846,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pavone",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118876,7 +118856,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pavone",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118886,7 +118866,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pavone",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118896,7 +118876,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Navy",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118906,7 +118886,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Navy",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118916,7 +118896,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Navy",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118926,7 +118906,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Navy",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118936,7 +118916,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Melanzana",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118946,7 +118926,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Malva",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118956,7 +118936,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Melanzana",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118966,7 +118946,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Laguna",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118976,7 +118956,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Silver",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118986,7 +118966,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Foresta",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -118996,7 +118976,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Foresta",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119006,7 +118986,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Petalo",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119016,7 +118996,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Eclisse",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119026,7 +119006,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119036,7 +119016,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ombra",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119046,7 +119026,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Oleandro",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119056,7 +119036,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Glicine",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119066,7 +119046,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Grafite",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119076,7 +119056,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Galassia",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119086,7 +119066,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Laguna",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119096,7 +119076,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Amarena",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119106,7 +119086,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca 24",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119116,7 +119096,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pervinca 24",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119126,7 +119106,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Pervinca 24",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119136,7 +119116,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Orchidea 24",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119146,7 +119126,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ortensia",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119156,7 +119136,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Ortensia",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119166,7 +119146,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Ortensia",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119176,7 +119156,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Camelia",
-    "price": 496.8,
+    "price": 556.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119186,7 +119166,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119196,7 +119176,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119206,7 +119186,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119216,7 +119196,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119226,7 +119206,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119236,7 +119216,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119246,7 +119226,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119256,7 +119236,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119266,7 +119246,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119276,7 +119256,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Borgogna",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119286,7 +119266,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cobalto",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119296,7 +119276,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Vaniglia",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119306,7 +119286,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Vaniglia",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119316,7 +119296,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Jeans 24",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119326,7 +119306,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Jeans 24",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119336,7 +119316,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Orchidea 24",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119346,7 +119326,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Orchidea 24",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119356,7 +119336,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119366,7 +119346,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119376,7 +119356,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119386,7 +119366,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119396,7 +119376,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119406,7 +119386,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119416,7 +119396,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Glicine",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119426,7 +119406,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Denim",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119436,7 +119416,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Malva",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119446,7 +119426,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119456,7 +119436,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119466,7 +119446,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119476,7 +119456,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119486,7 +119466,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119496,7 +119476,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119506,7 +119486,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119516,7 +119496,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119526,7 +119506,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119536,7 +119516,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 486,
+    "price": 544.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119546,7 +119526,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 486,
+    "price": 544.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119556,7 +119536,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 486,
+    "price": 544.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119566,7 +119546,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 486,
+    "price": 544.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119576,7 +119556,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 486,
+    "price": 544.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119586,7 +119566,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 486,
+    "price": 544.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119596,7 +119576,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119606,7 +119586,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119616,7 +119596,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119626,7 +119606,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119636,7 +119616,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119646,7 +119626,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119656,7 +119636,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cobalto",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119666,7 +119646,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cobalto",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119676,7 +119656,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cobalto",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119686,7 +119666,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Amarena",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119696,7 +119676,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Fiordaliso",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119706,7 +119686,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Fiordaliso",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119716,7 +119696,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ardesia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119726,7 +119706,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cobalto",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119736,7 +119716,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Foresta",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119746,7 +119726,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119756,7 +119736,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Borgogna",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119766,7 +119746,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Foresta",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119776,7 +119756,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Foresta",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119786,7 +119766,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Borgogna",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119796,7 +119776,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Ciclamino",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119806,7 +119786,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ciclamino",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119816,7 +119796,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Galassia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119826,7 +119806,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Grafite",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119836,7 +119816,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Iris",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119846,7 +119826,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Laguna",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119856,7 +119836,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Lavanda",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119866,7 +119846,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Malva",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119876,7 +119856,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Melanzana",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119886,7 +119866,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Navy",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119896,7 +119876,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Navy",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119906,7 +119886,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Navy",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119916,7 +119896,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Oleandro",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119926,7 +119906,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Oleandro",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119936,7 +119916,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Oleandro",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119946,7 +119926,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pavone",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119956,7 +119936,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pavone",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119966,7 +119946,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Pavone",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119976,7 +119956,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Pavone",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119986,7 +119966,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Peonia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -119996,7 +119976,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Peonia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120006,7 +119986,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Peonia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120016,7 +119996,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Peonia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120026,7 +120006,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120036,7 +120016,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Petalo",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120046,7 +120026,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Phard",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120056,7 +120036,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Platino",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120066,7 +120046,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Rubino",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120076,7 +120056,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Silver",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120086,7 +120066,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Tiffany",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120096,7 +120076,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Lattementa",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120106,7 +120086,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ombra",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120116,7 +120096,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca 24",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120126,7 +120106,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Jeans 24",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120136,7 +120116,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Jeans 24",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120146,7 +120126,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Jeans 24",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120156,7 +120136,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Jeans 24",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120166,7 +120146,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Orchidea 24",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120176,7 +120156,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Orchidea 24",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120186,7 +120166,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ortensia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120196,7 +120176,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Ortensia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120206,7 +120186,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cenere",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120216,7 +120196,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cenere",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120226,7 +120206,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Camelia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120236,7 +120216,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Camelia",
-    "price": 538.8,
+    "price": 603.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120246,7 +120226,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120256,7 +120236,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120266,7 +120246,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120276,7 +120256,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120286,7 +120266,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120296,7 +120276,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120306,7 +120286,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120316,7 +120296,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120326,7 +120306,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 507.6,
+    "price": 570,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120336,7 +120316,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120346,7 +120326,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120356,7 +120336,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120366,7 +120346,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120376,7 +120356,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120386,7 +120366,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120396,7 +120376,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Nero",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120406,7 +120386,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120416,7 +120396,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120426,7 +120406,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120436,7 +120416,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120446,7 +120426,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120456,7 +120436,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120466,7 +120446,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120476,7 +120456,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120486,7 +120466,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120496,7 +120476,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120506,7 +120486,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Cipria",
-    "price": 570,
+    "price": 638.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120516,7 +120496,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120526,7 +120506,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120536,7 +120516,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120546,7 +120526,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120556,7 +120536,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cipria",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120566,7 +120546,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120576,7 +120556,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120586,7 +120566,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120596,7 +120576,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120606,7 +120586,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120616,7 +120596,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Bianco",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120626,7 +120606,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Cipria",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120636,7 +120616,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Nero",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120646,7 +120626,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120656,7 +120636,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Cipria",
-    "price": 710.4,
+    "price": 795.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120666,7 +120646,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Nero",
-    "price": 710.4,
+    "price": 825.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120676,7 +120656,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Bianco",
-    "price": 710.4,
+    "price": 825.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120686,7 +120666,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Nero",
-    "price": 710.4,
+    "price": 825.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120696,7 +120676,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Bianco",
-    "price": 710.4,
+    "price": 825.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120706,7 +120686,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Cipria",
-    "price": 710.4,
+    "price": 825.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -120716,7 +120696,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Cipria",
-    "price": 710.4,
+    "price": 825.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121016,7 +120996,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121026,7 +121006,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121036,7 +121016,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121046,7 +121026,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121056,7 +121036,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121066,7 +121046,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121076,7 +121056,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121086,7 +121066,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121096,7 +121076,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121106,7 +121086,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121116,7 +121096,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121126,7 +121106,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cipria",
-    "price": 484.8,
+    "price": 543.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121136,7 +121116,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121146,7 +121126,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121156,7 +121136,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121166,7 +121146,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121176,7 +121156,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121186,7 +121166,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121196,7 +121176,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121206,7 +121186,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121216,7 +121196,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121226,7 +121206,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121236,7 +121216,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121246,7 +121226,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121256,7 +121236,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Mogano",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121266,7 +121246,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mogano",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121276,7 +121256,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cobalto",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121286,7 +121266,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Rosa",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121296,7 +121276,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Rosa",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121306,7 +121286,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mogano",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121316,7 +121296,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Rosa",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121326,7 +121306,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mosto",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121336,7 +121316,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mosto",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121346,7 +121326,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Mosto",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121356,7 +121336,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Amarena",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121366,7 +121346,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Denim",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121376,7 +121356,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Eclisse",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121386,7 +121366,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Galassia",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121396,7 +121376,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Galassia",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121406,7 +121386,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Galassia",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121416,7 +121396,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Grafite",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121426,7 +121406,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Grigio",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121436,7 +121416,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Grigio",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121446,7 +121426,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Iris",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121456,7 +121436,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Laguna",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121466,7 +121446,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121476,7 +121456,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Navy",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121486,7 +121466,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Navy",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121496,7 +121476,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Navy",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121506,7 +121486,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ombra",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121516,7 +121496,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pavone",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121526,7 +121506,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pavone",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121536,7 +121516,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Peonia",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121546,7 +121526,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Uvetta",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121556,7 +121536,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Uvetta",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121566,7 +121546,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Uvetta",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121576,7 +121556,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Petalo",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121586,7 +121566,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Jeans 24",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121596,7 +121576,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Platino",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121606,7 +121586,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Rubino",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121616,7 +121596,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Lattementa",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121626,7 +121606,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Oleandro",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121636,7 +121616,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca 24",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121646,7 +121626,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Pietra",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121656,7 +121636,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pietra",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121666,7 +121646,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pietra",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121676,7 +121656,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ortensia",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121686,7 +121666,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cenere",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121696,7 +121676,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cenere",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121706,7 +121686,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Asfalto",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121716,7 +121696,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Asfalto",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121726,7 +121706,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Asfalto",
-    "price": 420,
+    "price": 470.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121736,7 +121716,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121746,7 +121726,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121756,7 +121736,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121766,7 +121746,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121776,7 +121756,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121786,7 +121766,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121796,7 +121776,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121806,7 +121786,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121816,7 +121796,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121826,7 +121806,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121836,7 +121816,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cipria",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121846,7 +121826,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Foresta",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121856,7 +121836,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Foresta",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121866,7 +121846,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pavone",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121876,7 +121856,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121886,7 +121866,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Foresta",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121896,7 +121876,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Lavanda",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121906,7 +121886,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Rubino",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121916,7 +121896,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Fiordaliso",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121926,7 +121906,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Navy",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121936,7 +121916,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Fiordaliso",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121946,7 +121926,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Denim",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121956,7 +121936,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Borgogna",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121966,7 +121946,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cobalto",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121976,7 +121956,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pavone",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121986,7 +121966,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Pavone",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -121996,7 +121976,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Iris",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122006,7 +121986,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Borgogna",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122016,7 +121996,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122026,7 +122006,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cobalto",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122036,7 +122016,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Pavone",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122046,7 +122026,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Orchidea",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122056,7 +122036,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ombra",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122066,7 +122046,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mare",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122076,7 +122056,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Peonia",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122086,7 +122066,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Galassia",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122096,7 +122076,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Eclisse",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122106,7 +122086,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Melanzana",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122116,7 +122096,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Grafite",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122126,7 +122106,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Glicine",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122136,7 +122116,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Silver",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122146,7 +122126,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Malva",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122156,7 +122136,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Amarena",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122166,7 +122146,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Confetto",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122176,7 +122156,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Lattementa",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122186,7 +122166,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Lattementa",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122196,7 +122176,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Oleandro",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122206,7 +122186,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Oleandro",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122216,7 +122196,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pervinca 24",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122226,7 +122206,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Orchidea 24",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122236,7 +122216,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Orchidea 24",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122246,7 +122226,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Orchidea 24",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122256,7 +122236,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Jeans 24",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122266,7 +122246,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ortensia",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122276,7 +122256,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Ortensia",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122286,7 +122266,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Camelia",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122296,7 +122276,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Camelia",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122306,7 +122286,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cenere",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122316,7 +122296,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cenere",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122326,7 +122306,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cenere",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122336,7 +122316,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cenere",
-    "price": 494.4,
+    "price": 553.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122346,7 +122326,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122356,7 +122336,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122366,7 +122346,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Cipria",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122376,7 +122356,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122386,7 +122366,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122396,7 +122376,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Cipria",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122406,7 +122386,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cipria",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122416,7 +122396,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122426,7 +122406,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122436,7 +122416,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122446,7 +122426,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122456,7 +122436,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Bianco",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122466,7 +122446,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122476,7 +122456,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122486,7 +122466,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122496,7 +122476,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Nero",
-    "price": 536.4,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122506,7 +122486,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Nero",
-    "price": 573.6,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122516,7 +122496,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Nero",
-    "price": 573.6,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122526,7 +122506,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Bianco",
-    "price": 573.6,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122536,7 +122516,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Bianco",
-    "price": 573.6,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122546,7 +122526,7 @@
     "density": "",
     "size": "9(4XL)",
     "color": "Cipria",
-    "price": 573.6,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122556,7 +122536,7 @@
     "density": "",
     "size": "10(5XL)",
     "color": "Cipria",
-    "price": 573.6,
+    "price": 642,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122636,7 +122616,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Petalo",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122646,7 +122626,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Asfalto",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122656,7 +122636,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mogano",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122666,7 +122646,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Asfalto",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122676,7 +122656,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Mogano",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122686,7 +122666,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Asfalto",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122696,7 +122676,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Mogano",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122706,7 +122686,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Confetto",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122716,7 +122696,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Timo",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122726,7 +122706,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Timo",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122736,7 +122716,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Confetto",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122746,7 +122726,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Timo",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122756,7 +122736,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Confetto",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122766,7 +122746,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Rubino",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122776,7 +122756,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bordeaux",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122786,7 +122766,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Salvia",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122796,7 +122776,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Zaffiro",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122806,7 +122786,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Laguna",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122816,7 +122796,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Laguna",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122826,7 +122806,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ardesia",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122836,7 +122816,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Petrolio",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122846,7 +122826,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Oleandro",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122856,7 +122836,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Foresta",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122866,7 +122846,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ombra",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122876,7 +122856,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Eclisse",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122886,7 +122866,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Denim",
-    "price": 487.2,
+    "price": 549.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122896,7 +122876,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122906,7 +122886,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Bianco",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122916,7 +122896,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122926,7 +122906,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Nero",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122936,7 +122916,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122946,7 +122926,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122956,7 +122936,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122966,7 +122946,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122976,7 +122956,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Bianco",
-    "price": 774,
+    "price": 926.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122986,7 +122966,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -122996,7 +122976,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123006,7 +122986,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123016,7 +122996,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123026,7 +123006,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123036,7 +123016,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123046,7 +123026,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123056,7 +123036,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123066,7 +123046,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123076,7 +123056,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123086,7 +123066,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123096,7 +123076,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123106,7 +123086,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123116,7 +123096,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123126,7 +123106,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123136,7 +123116,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123146,7 +123126,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pink",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123156,7 +123136,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ionio",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123166,7 +123146,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Fiesta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123176,7 +123156,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123186,7 +123166,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123196,7 +123176,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123206,7 +123186,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123216,7 +123196,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123226,7 +123206,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123236,7 +123216,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123246,7 +123226,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123256,7 +123236,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123266,7 +123246,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123276,7 +123256,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123286,7 +123266,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123296,7 +123276,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123306,7 +123286,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123316,7 +123296,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123326,7 +123306,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123336,7 +123316,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123346,7 +123326,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123356,7 +123336,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123366,7 +123346,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123376,7 +123356,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123386,7 +123366,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123396,7 +123376,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123406,7 +123386,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123416,7 +123396,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123426,7 +123406,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123436,7 +123416,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Fiesta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123446,7 +123426,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ionio",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123456,7 +123436,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123466,7 +123446,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123476,7 +123456,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123486,7 +123466,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123496,7 +123476,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123506,7 +123486,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123516,7 +123496,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123526,7 +123506,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123536,7 +123516,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123546,7 +123526,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123556,7 +123536,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123566,7 +123546,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123576,7 +123556,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123586,7 +123566,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123596,7 +123576,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123606,7 +123586,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123616,7 +123596,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123626,7 +123606,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123636,7 +123616,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123646,7 +123626,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123656,7 +123636,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123666,7 +123646,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123676,7 +123656,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123686,7 +123666,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Fiesta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123696,7 +123676,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Fiesta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123706,7 +123686,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Fiesta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123716,7 +123696,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Ionio",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123726,7 +123706,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Ionio",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123736,7 +123716,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Ionio",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123746,7 +123726,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Pink",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123756,7 +123736,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Pink",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123766,7 +123746,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Pink",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123776,7 +123756,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123786,7 +123766,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123796,7 +123776,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Confetto",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123806,7 +123786,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123816,7 +123796,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123826,7 +123806,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mare",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123836,7 +123816,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123846,7 +123826,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123856,7 +123836,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Menta",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123866,7 +123846,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123876,7 +123856,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123886,7 +123866,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123896,7 +123876,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123906,7 +123886,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123916,7 +123896,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123926,7 +123906,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123936,7 +123916,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Bianco",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123946,7 +123926,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123956,7 +123936,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Cipria",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123966,7 +123946,7 @@
     "density": "",
     "size": "2(XS)",
     "color": "Skin",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -123976,7 +123956,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 476.4,
+    "price": 534,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124086,7 +124066,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124096,7 +124076,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124106,7 +124086,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124116,7 +124096,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124126,7 +124106,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124136,7 +124116,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cipria",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124146,7 +124126,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124156,7 +124136,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124166,7 +124146,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124176,7 +124156,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124186,7 +124166,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124196,7 +124176,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 654,
+    "price": 784.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124206,7 +124186,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124216,7 +124196,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Bianco",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124226,7 +124206,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Cipria",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124236,7 +124216,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Bianco",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124246,7 +124226,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Cipria",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124256,7 +124236,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Bianco",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124266,7 +124246,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Bianco",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124276,7 +124256,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Cipria",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124286,7 +124266,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124296,7 +124276,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124306,7 +124286,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -124316,7 +124296,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Cipria",
-    "price": 686.4,
+    "price": 768,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
