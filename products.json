@@ -2874,16 +2874,6 @@
     "name": "SUPER MATT 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "3-M",
-    "color": "Nero",
-    "price": 309.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
-    "name": "SUPER MATT 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
     "price": 309.9,
@@ -14281,16 +14271,6 @@
   },
   {
     "brand": "MINIMI",
-    "name": "TULLE MAGICO 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "5-XL",
-    "color": "Caramello",
-    "price": 366,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
     "name": "RETINA",
     "menu": "Колготки",
     "density": "–",
@@ -20434,6 +20414,16 @@
     "name": "PRESTIGE 12",
     "menu": "Колготки",
     "density": "12 DEN",
+    "size": "2-S",
+    "color": "Shade",
+    "price": 246.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "PRESTIGE 12",
+    "menu": "Колготки",
+    "density": "12 DEN",
     "size": "3-M",
     "color": "Shade",
     "price": 246.33,
@@ -25814,16 +25804,6 @@
     "name": "DOTS 20",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "3-M",
-    "color": "Chocolat",
-    "price": 353.12,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "DOTS 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "4-L",
     "color": "Bronz",
     "price": 353.12,
@@ -26735,6 +26715,16 @@
     "menu": "Колготки",
     "density": "30 DEN",
     "size": "4-L",
+    "color": "Nero",
+    "price": 396.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "PATRICIA 30",
+    "menu": "Колготки",
+    "density": "30 DEN",
+    "size": "5-XL",
     "color": "Nero",
     "price": 396.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -30875,6 +30865,16 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "36-38",
+    "color": "Белый",
+    "price": 124.01,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 15С-77СП ACTIVE - 079",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
     "color": "Белый",
     "price": 124.01,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -50796,16 +50796,6 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 866,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "OK SHAPE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "4-L",
-    "color": "Playa",
     "price": 866,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -84856,7 +84846,7 @@
     "density": "",
     "size": "2(S)",
     "color": "Nero",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84866,7 +84856,7 @@
     "density": "",
     "size": "3(M)",
     "color": "Nero",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84876,7 +84866,7 @@
     "density": "",
     "size": "4(L)",
     "color": "Nero",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84886,7 +84876,7 @@
     "density": "",
     "size": "5(XL)",
     "color": "Nero",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84896,7 +84886,7 @@
     "density": "",
     "size": "2(S)",
     "color": "Bianco",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84906,7 +84896,7 @@
     "density": "",
     "size": "3(M)",
     "color": "Bianco",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84916,7 +84906,7 @@
     "density": "",
     "size": "4(L)",
     "color": "Bianco",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84926,7 +84916,7 @@
     "density": "",
     "size": "5(XL)",
     "color": "Bianco",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84936,7 +84926,7 @@
     "density": "",
     "size": "2(S)",
     "color": "Avorio",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84946,7 +84936,7 @@
     "density": "",
     "size": "3(M)",
     "color": "Avorio",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84956,7 +84946,7 @@
     "density": "",
     "size": "4(L)",
     "color": "Avorio",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -84966,7 +84956,7 @@
     "density": "",
     "size": "5(XL)",
     "color": "Avorio",
-    "price": 545.82,
+    "price": 545.81,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87376,7 +87366,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Turchino",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87386,7 +87376,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Nero",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87396,7 +87386,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Nero",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87406,7 +87396,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Grigio Melange",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87416,7 +87406,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Grigio Melange",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87426,7 +87416,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Grigio Melange",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87436,7 +87426,7 @@
     "density": "",
     "size": "7(2XL)",
     "color": "Turchino",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87446,7 +87436,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Grigio Melange",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87456,7 +87446,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Turchino",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87466,7 +87456,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Turchino",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87476,7 +87466,7 @@
     "density": "",
     "size": "6(XL)",
     "color": "Nero",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87486,7 +87476,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Nero",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87496,7 +87486,7 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87506,7 +87496,7 @@
     "density": "",
     "size": "4(M)",
     "color": "Nero",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87516,7 +87506,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Turchino",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87526,7 +87516,7 @@
     "density": "",
     "size": "5(L)",
     "color": "Grigio Melange",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87536,7 +87526,7 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Grigio Melange",
-    "price": 525.94,
+    "price": 525.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -138944,16 +138934,6 @@
     "name": "KITA reggiseno",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "XXL",
-    "color": "Bosco",
-    "price": 642,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INTIMIDEA",
-    "name": "KITA reggiseno",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L/XL",
     "color": "Bosco",
     "price": 642,
@@ -153054,16 +153034,6 @@
     "name": "art. 6044 cup C",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4 (80C)",
-    "color": "Nudo",
-    "price": 3026.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6044 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "5 (85C)",
     "color": "Nudo",
     "price": 3026.4,
@@ -153206,26 +153176,6 @@
     "density": "",
     "size": "6 (90D)",
     "color": "Bianco",
-    "price": 3026.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6044 cup D",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3 (75D)",
-    "color": "Nudo",
-    "price": 3026.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 6044 cup D",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4 (80D)",
-    "color": "Nudo",
     "price": 3026.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -155314,16 +155264,6 @@
     "name": "art. 7999 cup C",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4 (80C)",
-    "color": "Nudo",
-    "price": 2780.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 7999 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "6 (90C)",
     "color": "Nudo",
     "price": 2780.4,
@@ -155445,26 +155385,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2 (70D)",
-    "color": "Nudo",
-    "price": 2780.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 7999 cup D",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3 (75D)",
-    "color": "Nudo",
-    "price": 2780.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 7999 cup D",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4 (80D)",
     "color": "Nudo",
     "price": 2780.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -155984,16 +155904,6 @@
     "name": "art. 9100 cup D",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3 (75D)",
-    "color": "Bianco",
-    "price": 2203.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 9100 cup D",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "4 (80D)",
     "color": "Bianco",
     "price": 2203.2,
@@ -156005,16 +155915,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2 (70D)",
-    "color": "Visone",
-    "price": 2203.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 9100 cup D",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3 (75D)",
     "color": "Visone",
     "price": 2203.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
