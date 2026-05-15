@@ -75575,16 +75575,6 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": 2,
-    "color": "21 Beige",
-    "price": 684,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 950A LADY 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": 2,
     "color": "Black",
     "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -77056,16 +77046,6 @@
     "density": "всесезонные",
     "size": "35-38",
     "color": "Erbа",
-    "price": 66,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 4101 FRESH",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "39-41",
-    "color": "Lemon",
     "price": 66,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -93044,26 +93024,6 @@
     "name": "art. BO 221 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "XL(50)",
-    "color": "Nero",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 221 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Avorio",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 221 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Avorio",
     "price": 264.07,
@@ -96705,16 +96665,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
-    "color": "Nero",
-    "price": 680,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_F1321 tank top",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
     "color": "Nero",
     "price": 680,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -100686,16 +100636,6 @@
     "density": "",
     "size": "L(48)",
     "color": "Caramello",
-    "price": 301.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR222 slip midi ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Verde Foresta",
     "price": 301.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -109235,16 +109175,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
-    "color": "Blu Scuro",
-    "price": 453.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1224 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "8-3XL",
     "color": "Bordo",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -113295,16 +113225,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Corallo",
-    "price": 906.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OMT U1201 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
     "color": "Corallo",
     "price": 906.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -115466,16 +115386,6 @@
     "density": "",
     "size": "M(46)",
     "color": "Bianco",
-    "price": 490.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5506 panty",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Nero",
     "price": 490.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -160914,6 +160824,26 @@
     "name": "ET1001 uomo maglia scollo V",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "6-XL",
+    "color": "Bianco",
+    "price": 1164,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "ET1001 uomo maglia scollo V",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Bianco",
+    "price": 1164,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "ET1001 uomo maglia scollo V",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "7-XXL",
     "color": "Nero",
     "price": 1164,
@@ -160985,6 +160915,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
+    "color": "Bianco",
+    "price": 974.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "ET1002 uomo canotta",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
     "color": "Bianco",
     "price": 974.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
