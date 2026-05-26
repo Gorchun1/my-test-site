@@ -15485,16 +15485,6 @@
     "menu": "Колготки",
     "density": "-",
     "size": "L/XL",
-    "color": "Nero",
-    "price": 293,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "AZALEA RETE",
-    "menu": "Колготки",
-    "density": "-",
-    "size": "L/XL",
     "color": "Caramello",
     "price": 293,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -47074,16 +47064,6 @@
     "name": "MISS 15",
     "menu": "Колготки",
     "density": "15 DEN",
-    "size": "3-M",
-    "color": "Miele",
-    "price": 233,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "MISS 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
     "size": "2-S",
     "color": "Nero",
     "price": 233,
@@ -51275,16 +51255,6 @@
     "menu": "Колготки",
     "density": "30 DEN",
     "size": "3-M",
-    "color": "Mineral",
-    "price": 400,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "TOP COMFORT 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "3-M",
     "color": "Cappuccio",
     "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -52395,16 +52365,6 @@
     "menu": "Колготки",
     "density": "30 DEN",
     "size": "4-L",
-    "color": "The",
-    "price": 666,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "CRISTAL 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "2-S",
     "color": "The",
     "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -76555,16 +76515,6 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": 2,
-    "color": "21 Beige",
-    "price": 684,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 950A LADY 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": 2,
     "color": "Black",
     "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -76666,16 +76616,6 @@
     "density": "140 DEN",
     "size": 4,
     "color": "21 Beige",
-    "price": 1223,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 850 GAMBALETTO 140",
-    "menu": "Гольфы",
-    "density": "140 DEN",
-    "size": 5,
-    "color": "Black",
     "price": 1223,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -110344,16 +110284,6 @@
     "name": "art. OmB 1233 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
-    "color": "Grigio Melange",
-    "price": 566.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1233 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "5-L",
     "color": "Grigio Melange",
     "price": 566.67,
@@ -114686,16 +114616,6 @@
     "density": "",
     "size": "4-M",
     "color": "Cappuccino",
-    "price": 906.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OMT U1201 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Beige",
     "price": 906.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -126867,6 +126787,36 @@
     "size": "5(L)",
     "color": "Bianco",
     "price": 1386.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 4056 MAGLIA manica lunga scollo lollo",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Plumbeo",
+    "price": 1262.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 4056 MAGLIA manica lunga scollo lollo",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Plumbeo",
+    "price": 1262.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "JADEA",
+    "name": "art. 4056 MAGLIA manica lunga scollo lollo",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Plumbeo",
+    "price": 1262.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -148904,6 +148854,16 @@
     "name": "PERFECT slip",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "3(M)",
+    "color": "Bianco",
+    "price": 1030.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LORMAR",
+    "name": "PERFECT slip",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "4(L)",
     "color": "Bianco",
     "price": 1030.8,
@@ -149106,7 +149066,7 @@
     "density": "",
     "size": "4(L)",
     "color": "Bianco",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149116,7 +149076,7 @@
     "density": "",
     "size": "3(M)",
     "color": "Bianco",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149126,7 +149086,27 @@
     "density": "",
     "size": "2(S)",
     "color": "Bianco",
-    "price": 1358.4,
+    "price": 1378.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LORMAR",
+    "name": "PERFECT guainetta modellante",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "6(2XL)",
+    "color": "Nero",
+    "price": 1378.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LORMAR",
+    "name": "PERFECT guainetta modellante",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "5(XL)",
+    "color": "Nero",
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149136,7 +149116,7 @@
     "density": "",
     "size": "4(L)",
     "color": "Nero",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149146,7 +149126,7 @@
     "density": "",
     "size": "3(M)",
     "color": "Nero",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149156,7 +149136,17 @@
     "density": "",
     "size": "2(S)",
     "color": "Nero",
-    "price": 1358.4,
+    "price": 1378.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LORMAR",
+    "name": "PERFECT guainetta modellante",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "5(XL)",
+    "color": "Bianco",
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149166,7 +149156,7 @@
     "density": "",
     "size": "6(2XL)",
     "color": "Bianco",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149176,7 +149166,7 @@
     "density": "",
     "size": "2(S)",
     "color": "Noisette",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149186,7 +149176,7 @@
     "density": "",
     "size": "3(M)",
     "color": "Noisette",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149196,7 +149186,7 @@
     "density": "",
     "size": "4(L)",
     "color": "Noisette",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149206,7 +149196,7 @@
     "density": "",
     "size": "5(XL)",
     "color": "Noisette",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149216,7 +149206,7 @@
     "density": "",
     "size": "6(2XL)",
     "color": "Noisette",
-    "price": 1358.4,
+    "price": 1378.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149316,7 +149306,7 @@
     "density": "",
     "size": "2 (70B)",
     "color": "Bianco",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149326,7 +149316,7 @@
     "density": "",
     "size": "2 (70B)",
     "color": "Nero",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149336,7 +149326,7 @@
     "density": "",
     "size": "3 (75B)",
     "color": "Nero",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149346,7 +149336,7 @@
     "density": "",
     "size": "4 (80B)",
     "color": "Nero",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149356,7 +149346,7 @@
     "density": "",
     "size": "5 (85B)",
     "color": "Nero",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149366,7 +149356,7 @@
     "density": "",
     "size": "3 (75B)",
     "color": "Bianco",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149376,7 +149366,7 @@
     "density": "",
     "size": "4 (80B)",
     "color": "Bianco",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149386,7 +149376,7 @@
     "density": "",
     "size": "5 (85B)",
     "color": "Bianco",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149396,7 +149386,7 @@
     "density": "",
     "size": "2 (70B)",
     "color": "Nudo",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149406,7 +149396,17 @@
     "density": "",
     "size": "3 (75B)",
     "color": "Nudo",
-    "price": 1755.6,
+    "price": 1768.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LORMAR",
+    "name": "DESIDERIO LISCIO reggiseno cup B",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "4 (80B)",
+    "color": "Nudo",
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -149416,7 +149416,7 @@
     "density": "",
     "size": "5 (85B)",
     "color": "Nudo",
-    "price": 1755.6,
+    "price": 1768.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
