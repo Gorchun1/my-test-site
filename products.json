@@ -15474,16 +15474,6 @@
     "name": "ADRIANA 20",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "4-L",
-    "color": "Bianco",
-    "price": 666,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "ADRIANA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "2-S",
     "color": "Caramello",
     "price": 666,
@@ -17616,16 +17606,6 @@
     "density": "40 DEN",
     "size": "3/4",
     "color": "Daino",
-    "price": 350,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GIULIA",
-    "name": "EMOTION 40 autoreggente",
-    "menu": "Чулки",
-    "density": "40 DEN",
-    "size": "3/4",
-    "color": "Playa",
     "price": 350,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -76291,16 +76271,6 @@
   },
   {
     "brand": "RELAXSAN",
-    "name": "art. 750 GAMBALETTO 70",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": 5,
-    "color": "21 Beige",
-    "price": 1002,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
     "name": "art. 750M GAMBALETTO 70 MICRO",
     "menu": "Гольфы",
     "density": "70 DEN",
@@ -93195,16 +93165,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
-    "color": "Bianco",
-    "price": 136,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 211 string",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
     "color": "Avorio",
     "price": 136,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -99124,16 +99084,6 @@
     "name": "art. MA121 top bra",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S/M",
-    "color": "Rubino",
-    "price": 414.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MA121 top bra",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L/XL",
     "color": "Giallo",
     "price": 414.8,
@@ -104306,16 +104256,6 @@
     "density": "",
     "size": "2XL(52)",
     "color": "Nero",
-    "price": 754.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmD 1112 INVISIBLE top",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
-    "color": "Beige",
     "price": 754.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -153244,6 +153184,16 @@
     "name": "art. 1501 brasiliana",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "3(M)",
+    "color": "Cappuccino",
+    "price": 1173.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LEILIEVE",
+    "name": "art. 1501 brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "4(L)",
     "color": "Cappuccino",
     "price": 1173.6,
@@ -165685,6 +165635,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
+    "color": "Nero",
+    "price": 619.2,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "EB1251 uomo boxer",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
     "color": "Nero",
     "price": 619.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
