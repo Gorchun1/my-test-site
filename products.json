@@ -11164,16 +11164,6 @@
     "name": "PRIMA 15",
     "menu": "Колготки",
     "density": "15 DEN",
-    "size": "3-M",
-    "color": "Caramello",
-    "price": 146,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "PRIMA 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
     "size": "4-L",
     "color": "Nero",
     "price": 146,
@@ -15301,6 +15291,16 @@
   },
   {
     "brand": "MINIMI",
+    "name": "RETINA GRANDE",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "S/M",
+    "color": "Rosso",
+    "price": 280,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
     "name": "RETINA POIS",
     "menu": "Колготки",
     "density": "-",
@@ -15336,6 +15336,16 @@
     "density": "-",
     "size": "S/M",
     "color": "Avorio",
+    "price": 280,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "RETINA POIS",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "S/M",
+    "color": "Daino",
     "price": 280,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -15651,6 +15661,16 @@
   },
   {
     "brand": "MINIMI",
+    "name": "DEA POIS 20 calze",
+    "menu": "Чулки",
+    "density": "20 DEN",
+    "size": "S/M",
+    "color": "Bianco",
+    "price": 266,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
     "name": "ESTIVO 8 autoreggente",
     "menu": "Чулки",
     "density": "8 DEN",
@@ -16015,6 +16035,16 @@
     "menu": "Чулки",
     "density": "40 DEN",
     "size": "XL",
+    "color": "Rosso",
+    "price": 400,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "BRAVO 40 autoreggente",
+    "menu": "Чулки",
+    "density": "40 DEN",
+    "size": "XL",
     "color": "Caramello",
     "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16036,6 +16066,16 @@
     "density": "40 DEN",
     "size": "M/L",
     "color": "Caramello",
+    "price": 400,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "BRAVO 40 autoreggente",
+    "menu": "Чулки",
+    "density": "40 DEN",
+    "size": "XL",
+    "color": "Daino",
     "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -16506,16 +16546,6 @@
     "density": "-",
     "size": "UNICA",
     "color": "Avorio",
-    "price": 366,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "SCALDAMUSCOLO var. 5",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "UNICA",
-    "color": "Grigio Melange",
     "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -20727,16 +20757,6 @@
     "size": "4-L",
     "color": "Nero",
     "price": 240,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "DRESS CODE 40 SALE",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "2-S",
-    "color": "Bronz",
-    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -76211,126 +76231,6 @@
   },
   {
     "brand": "RELAXSAN",
-    "name": "art. M2370A ANTI-EMBOLISM stay up",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "XL",
-    "color": "White",
-    "price": 1719,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2370A ANTI-EMBOLISM stay up",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "M",
-    "color": "White",
-    "price": 1719,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2370A ANTI-EMBOLISM stay up",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "L",
-    "color": "White",
-    "price": 1719,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2370A ANTI-EMBOLISM stay up",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "S",
-    "color": "White",
-    "price": 1719,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M0370A ANTI-EMBOLISM stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "M",
-    "color": "White",
-    "price": 1375,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M0370A ANTI-EMBOLISM stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "XL",
-    "color": "White",
-    "price": 1375,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M0370A ANTI-EMBOLISM stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "L",
-    "color": "White",
-    "price": 1375,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M0370A ANTI-EMBOLISM stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "S",
-    "color": "White",
-    "price": 1375,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2460A ANTI-EMBOLISM stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "XL",
-    "color": "White",
-    "price": 1706,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2460A ANTI-EMBOLISM stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "M",
-    "color": "White",
-    "price": 1706,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2460A ANTI-EMBOLISM stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "L",
-    "color": "White",
-    "price": 1706,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2460A ANTI-EMBOLISM stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "S",
-    "color": "White",
-    "price": 1706,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
     "name": "art. 750 GAMBALETTO 70",
     "menu": "Гольфы",
     "density": "70 DEN",
@@ -95304,6 +95204,16 @@
     "name": "art. BO 243 slip maxi",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "XL(50)",
+    "color": "Bianco",
+    "price": 414.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 243 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "M(46)",
     "color": "Nudo",
     "price": 414.8,
@@ -95325,16 +95235,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Avorio",
-    "price": 414.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 243 slip maxi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
     "color": "Avorio",
     "price": 414.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -99224,6 +99124,16 @@
     "name": "art. MA121 top bra",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "S/M",
+    "color": "Rubino",
+    "price": 414.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA121 top bra",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L/XL",
     "color": "Giallo",
     "price": 414.8,
@@ -99234,8 +99144,28 @@
     "name": "art. MA121 top bra",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L/XL",
+    "color": "Rubino",
+    "price": 414.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA121 top bra",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "M/L",
     "color": "Beige",
+    "price": 414.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA121 top bra",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Rubino",
     "price": 414.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -109775,16 +109705,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-2XL",
-    "color": "Grigio Scuro",
-    "price": 453.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1223 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "9-4XL",
     "color": "Grigio Scuro",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -127914,28 +127834,8 @@
     "name": "art. 4058 LUPETTO smanicato NEW",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S",
-    "color": "Bianco",
-    "price": 1262.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4058 LUPETTO smanicato NEW",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M",
     "color": "Nero",
-    "price": 1262.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4058 LUPETTO smanicato NEW",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M",
-    "color": "Bianco",
     "price": 1262.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -129286,26 +129186,6 @@
     "density": "",
     "size": "S",
     "color": "Nero",
-    "price": 832.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4182 CANOTTA spalla larga",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M",
-    "color": "Lattementa",
-    "price": 832.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4182 CANOTTA spalla larga",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL",
-    "color": "Oleandro",
     "price": 832.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -151734,7 +151614,7 @@
     "name": "MY CLASS reggiseno cup B",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3 (75B)",
+    "size": "4 (80B)",
     "color": "Nero",
     "price": 1874.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -153355,16 +153235,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(S)",
-    "color": "Cappuccino",
-    "price": 1173.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 1501 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
     "color": "Cappuccino",
     "price": 1173.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
