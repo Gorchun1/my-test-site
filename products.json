@@ -11264,16 +11264,6 @@
     "name": "PRIMA 20",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "2-S",
-    "color": "Caramello",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "PRIMA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "3-M",
     "color": "Caramello",
     "price": 166,
@@ -18834,6 +18824,16 @@
     "name": "NUANCE 15",
     "menu": "Колготки",
     "density": "15 DEN",
+    "size": "3-M",
+    "color": "Shade",
+    "price": 199.34,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "NUANCE 15",
+    "menu": "Колготки",
+    "density": "15 DEN",
     "size": "4-L",
     "color": "Bronz",
     "price": 199.34,
@@ -20616,6 +20616,16 @@
     "density": "8 DEN",
     "size": "5-XL",
     "color": "Natural",
+    "price": 324.17,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "SUMMER 8 XL",
+    "menu": "Колготки",
+    "density": "8 DEN",
+    "size": "5-XL",
+    "color": "Shade",
     "price": 324.17,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -29671,6 +29681,16 @@
   },
   {
     "brand": "CONTE",
+    "name": "SOLO 40 socks, 2 pairs",
+    "menu": "Носочки",
+    "density": "40 DEN",
+    "size": "23-25",
+    "color": "Nero",
+    "price": 124.88,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
     "name": "TENSION 20 socks, 2 pairs",
     "menu": "Носочки",
     "density": "20 DEN",
@@ -32677,6 +32697,86 @@
     "size": "36-38",
     "color": "Молочный",
     "price": 135.9,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 25С-200СП SPORT - 1105",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "36-38",
+    "color": "Белый",
+    "price": 130.91,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 25С-200СП SPORT - 1105",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Белый",
+    "price": 130.91,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 25С-200СП SPORT - 1126",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Белый",
+    "price": 130.91,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 25С-200СП SPORT - 1126",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "36-38",
+    "color": "Белый",
+    "price": 130.91,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 25С-206СП SPORT - 1133",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Белый",
+    "price": 102.36,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 25С-206СП SPORT - 1133",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "36-38",
+    "color": "Белый",
+    "price": 102.36,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 25С-206СП SPORT - 1133",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Серый",
+    "price": 102.36,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 25С-206СП SPORT - 1133",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "36-38",
+    "color": "Серый",
+    "price": 102.36,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44631,6 +44731,66 @@
   },
   {
     "brand": "OMSA",
+    "name": "VELOUR MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "M/L",
+    "color": "Nero",
+    "price": 200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "VELOUR MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "S/M",
+    "color": "Nero",
+    "price": 200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "VELOUR MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "S/M",
+    "color": "Antracite",
+    "price": 200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "VELOUR MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "M/L",
+    "color": "Antracite",
+    "price": 200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "VELOUR MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "S/M",
+    "color": "Beige Naturel",
+    "price": 200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "VELOUR MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "M/L",
+    "color": "Beige Naturel",
+    "price": 200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
     "name": "EASY DAY 20 calzino, 2 paia",
     "menu": "Носочки",
     "density": "20 DEN",
@@ -49625,16 +49785,6 @@
     "menu": "Колготки",
     "density": "140 DEN",
     "size": "4-L",
-    "color": "Miele",
-    "price": 933,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "BENESSERE 140",
-    "menu": "Колготки",
-    "density": "140 DEN",
-    "size": "5-XL",
     "color": "Miele",
     "price": 933,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -67764,6 +67914,16 @@
     "name": "TWINS EXTRA LIGHT 8, 2 pairs",
     "menu": "Колготки",
     "density": "8 DEN",
+    "size": "M",
+    "color": "Black",
+    "price": 1200,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "TWINS EXTRA LIGHT 8, 2 pairs",
+    "menu": "Колготки",
+    "density": "8 DEN",
     "size": "L/XL",
     "color": "Sun",
     "price": 1200,
@@ -68366,16 +68526,6 @@
     "density": "50 DEN",
     "size": "4-XL",
     "color": "Singapour",
-    "price": 1050,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "INTENSE 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
-    "size": "4-XL",
-    "color": "Blue 11",
     "price": 1050,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -70694,8 +70844,28 @@
     "name": "STEP LACE NO SHOW",
     "menu": "Носочки",
     "density": "-",
+    "size": "39-41",
+    "color": "Black",
+    "price": 658,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "STEP LACE NO SHOW",
+    "menu": "Носочки",
+    "density": "-",
     "size": "36-38",
     "color": "Black",
+    "price": 658,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "STEP LACE NO SHOW",
+    "menu": "Носочки",
+    "density": "-",
+    "size": "39-41",
+    "color": "Cosmetic",
     "price": 658,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -75304,6 +75474,16 @@
     "name": "art. M2180 MEDICALE SOFT collant",
     "menu": "Колготки",
     "density": "-",
+    "size": 2,
+    "color": "Black",
+    "price": 2483,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2180 MEDICALE SOFT collant",
+    "menu": "Колготки",
+    "density": "-",
     "size": 4,
     "color": "Black",
     "price": 2483,
@@ -76044,6 +76224,16 @@
     "name": "art. M1170A MEDICALE SOFT stay up no toe",
     "menu": "Чулки",
     "density": "-",
+    "size": 4,
+    "color": "40 Beige",
+    "price": 2040,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M1170A MEDICALE SOFT stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
     "size": 5,
     "color": "40 Beige",
     "price": 2040,
@@ -76211,11 +76401,141 @@
   },
   {
     "brand": "RELAXSAN",
+    "name": "art. M2370A ANTI-EMBOLISM stay up",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "XL",
+    "color": "White",
+    "price": 1719,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2370A ANTI-EMBOLISM stay up",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "M",
+    "color": "White",
+    "price": 1719,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2370A ANTI-EMBOLISM stay up",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "L",
+    "color": "White",
+    "price": 1719,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2370A ANTI-EMBOLISM stay up",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "S",
+    "color": "White",
+    "price": 1719,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M0370A ANTI-EMBOLISM stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "M",
+    "color": "White",
+    "price": 1375,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M0370A ANTI-EMBOLISM stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "XL",
+    "color": "White",
+    "price": 1375,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M0370A ANTI-EMBOLISM stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "L",
+    "color": "White",
+    "price": 1375,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M0370A ANTI-EMBOLISM stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "S",
+    "color": "White",
+    "price": 1375,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2460A ANTI-EMBOLISM stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "XL",
+    "color": "White",
+    "price": 1706,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2460A ANTI-EMBOLISM stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "M",
+    "color": "White",
+    "price": 1706,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2460A ANTI-EMBOLISM stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "L",
+    "color": "White",
+    "price": 1706,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2460A ANTI-EMBOLISM stay up no toe",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "S",
+    "color": "White",
+    "price": 1706,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
     "name": "art. 750 GAMBALETTO 70",
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": 2,
     "color": "Black",
+    "price": 1002,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 750 GAMBALETTO 70",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 2,
+    "color": "21 Beige",
     "price": 1002,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -76271,6 +76591,16 @@
   },
   {
     "brand": "RELAXSAN",
+    "name": "art. 750 GAMBALETTO 70",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 5,
+    "color": "21 Beige",
+    "price": 1002,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
     "name": "art. 750M GAMBALETTO 70 MICRO",
     "menu": "Гольфы",
     "density": "70 DEN",
@@ -76376,6 +76706,16 @@
     "density": "70 DEN",
     "size": 5,
     "color": "Black",
+    "price": 684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950A LADY 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 5,
+    "color": "21 Beige",
     "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -77005,16 +77345,6 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "43-45",
-    "color": "Black",
-    "price": 1398,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 820 COTTON SOCKS",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "41-43",
     "color": "Black",
     "price": 1398,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -87874,16 +88204,6 @@
     "name": "ICD SEAMLESS 36190 culotte",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S/M",
-    "color": "Beige",
-    "price": 478.93,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "ICD SEAMLESS 36190 culotte",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M/L",
     "color": "Beige",
     "price": 478.93,
@@ -89396,16 +89716,6 @@
     "density": "",
     "size": "8(3XL)",
     "color": "Turchino",
-    "price": 670.93,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for men",
-    "name": "IBU 36001 shorts",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4(M)",
-    "color": "Grigio Melange",
     "price": 670.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -98734,16 +99044,6 @@
     "name": "art. BMi_F2220 slip midi",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Corallo",
-    "price": 210.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_F2220 slip midi",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Erba Chiaro",
     "price": 210.8,
@@ -106775,16 +107075,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Bianco",
-    "price": 754.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmD 1221 SOFT tank top",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
     "color": "Bianco",
     "price": 754.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -110055,16 +110345,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Bianco",
-    "price": 453.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1224 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
     "color": "Bianco",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -126834,7 +127114,7 @@
     "name": "art. 4055 MAGLIA manica lunga girocollo",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S/M",
+    "size": "M/L",
     "color": "Bianco",
     "price": 1270.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -152384,16 +152664,6 @@
     "name": "DELUXE shorts",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "2(S)",
-    "color": "Noisette",
-    "price": 982.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LORMAR",
-    "name": "DELUXE shorts",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "3(M)",
     "color": "Noisette",
     "price": 982.8,
@@ -168591,16 +168861,6 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB4121 boy boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "9/10",
-    "color": "Royal",
-    "price": 382.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
     "name": "EB4121 junior boxer",
     "menu": "Бельё Мужское",
     "density": "",
@@ -168646,16 +168906,6 @@
     "density": "",
     "size": "5/6",
     "color": "Dark Blue",
-    "price": 382.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "EB4127 boy boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "9/10",
-    "color": "Royal",
     "price": 382.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
