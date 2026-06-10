@@ -9474,6 +9474,16 @@
     "name": "FATAL 20 autoreggente",
     "menu": "Чулки",
     "density": "20 DEN",
+    "size": "M/L",
+    "color": "Nero",
+    "price": 599.9,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INCANTO",
+    "name": "FATAL 20 autoreggente",
+    "menu": "Чулки",
+    "density": "20 DEN",
     "size": "S/M",
     "color": "Daino",
     "price": 599.9,
@@ -63144,6 +63154,16 @@
     "name": "PENNAC 20 autoreggente",
     "menu": "Чулки",
     "density": "20 DEN",
+    "size": "3/4",
+    "color": "Nero",
+    "price": 1439,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "TRASPARENZE",
+    "name": "PENNAC 20 autoreggente",
+    "menu": "Чулки",
+    "density": "20 DEN",
     "size": "1/2",
     "color": "Cosmetic/nero",
     "price": 1439,
@@ -70285,6 +70305,16 @@
     "menu": "Чулки",
     "density": "20 DEN",
     "size": "1-S",
+    "color": "Black",
+    "price": 1391,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "RIGA UP 20 stay-up",
+    "menu": "Чулки",
+    "density": "20 DEN",
+    "size": "3-L",
     "color": "Black",
     "price": 1391,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -93305,6 +93335,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
+    "color": "Bianco",
+    "price": 136,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 211 string",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Avorio",
     "price": 136,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -93844,6 +93884,26 @@
     "name": "art. BO 221 slip",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L(48)",
+    "color": "Menta",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Nero",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S(44)",
     "color": "Avorio",
     "price": 264.07,
@@ -93954,6 +94014,16 @@
     "name": "art. BO 221 slip",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L(48)",
+    "color": "Celeste",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "2XL(52)",
     "color": "Celeste",
     "price": 264.07,
@@ -93965,6 +94035,26 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S(44)",
+    "color": "Perla",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Perla",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
     "color": "Perla",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -94055,6 +94145,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
+    "color": "Celeste",
+    "price": 301.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 222 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
     "color": "Celeste",
     "price": 301.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -94314,7 +94414,37 @@
     "name": "art. BO 223 slip",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M(46)",
+    "color": "Rosso",
+    "price": 241.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 223 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Rosso",
+    "price": 241.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 223 slip",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L(48)",
+    "color": "Menta",
+    "price": 241.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 223 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Menta",
     "price": 241.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -94334,7 +94464,27 @@
     "name": "art. BO 223 slip",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M(46)",
+    "color": "Lilla",
+    "price": 241.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 223 slip",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L(48)",
+    "color": "Lilla",
+    "price": 241.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 223 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Lilla",
     "price": 241.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -94516,6 +94666,16 @@
     "density": "",
     "size": "2XL(52)",
     "color": "Nudo",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 224 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3XL(54)",
+    "color": "Nero",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -94765,6 +94925,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
+    "color": "Nero",
+    "price": 346.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 242 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Nudo",
     "price": 346.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -94905,6 +95075,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "3XL(54)",
+    "color": "Nero",
+    "price": 346.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 242 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3XL(54)",
     "color": "Bianco",
     "price": 346.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -94916,6 +95096,16 @@
     "density": "",
     "size": "3XL(54)",
     "color": "Avorio",
+    "price": 346.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 242 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3XL(54)",
+    "color": "Nudo",
     "price": 346.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -95205,6 +95395,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
+    "color": "Avorio",
+    "price": 414.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 243 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Avorio",
     "price": 414.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -98641,6 +98841,16 @@
   },
   {
     "brand": "MINIMI intimo",
+    "name": "art. BMi_F2210 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Rosso",
+    "price": 210.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
     "name": "art. BMi_F2220 slip midi",
     "menu": "Бельё Женское",
     "density": "",
@@ -99064,6 +99274,16 @@
     "name": "art. MA121 top bra",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "S/M",
+    "color": "Rubino",
+    "price": 414.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA121 top bra",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L/XL",
     "color": "Giallo",
     "price": 414.8,
@@ -99266,6 +99486,16 @@
     "density": "",
     "size": "M/L",
     "color": "Rosa",
+    "price": 414.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA121 top bra",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Erbа",
     "price": 414.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -99364,6 +99594,16 @@
     "name": "art. MA132 top",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L/XL",
+    "color": "Rubino",
+    "price": 754.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA132 top",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S/M",
     "color": "Nero",
     "price": 754.8,
@@ -100431,6 +100671,46 @@
   },
   {
     "brand": "MINIMI intimo",
+    "name": "art. MA221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Rubino",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Rubino",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Rubino",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL/2XL",
+    "color": "Rubino",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
     "name": "art. MA222 slip alte",
     "menu": "Бельё Женское",
     "density": "",
@@ -100496,6 +100776,16 @@
     "density": "",
     "size": "XL/2XL",
     "color": "Nero",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA222 slip alte",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Celeste",
     "price": 377.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -100614,6 +100904,16 @@
     "name": "art. MA222 slip alte",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L/XL",
+    "color": "Rubino",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA222 slip alte",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "M/L",
     "color": "Celeste",
     "price": 377.4,
@@ -100686,6 +100986,26 @@
     "density": "",
     "size": "XL/2XL",
     "color": "Rosa Antico",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA222 slip alte",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
+    "color": "Rubino",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MA222 slip alte",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
+    "color": "Rubino",
     "price": 377.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -100935,16 +101255,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
-    "color": "Vaniglia",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
     "color": "Vaniglia",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -101024,78 +101334,78 @@
     "name": "art. MFR221 slip ribana",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "S(44)",
+    "color": "Azzurro",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Azzurro",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Menta",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Menta",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Menta",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Bacche",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Bacche",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L(48)",
-    "color": "Vaniglia",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
-    "color": "Azzurro",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Azzurro",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
-    "color": "Menta",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Menta",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M(46)",
-    "color": "Menta",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Bacche",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M(46)",
-    "color": "Bacche",
+    "color": "Celeste",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -101115,6 +101425,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
+    "color": "Celeste",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
     "color": "Celeste",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -103444,6 +103764,16 @@
     "name": "art. Mi 2311S FRENCH CHIC panty",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M/L",
+    "color": "Avorio",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. Mi 2311S FRENCH CHIC panty",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L/XL",
     "color": "Oceania",
     "price": 528.13,
@@ -103466,6 +103796,16 @@
     "density": "",
     "size": "M/L",
     "color": "Oceania",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. Mi 2311S FRENCH CHIC panty",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Rosa Antico",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -106644,6 +106984,16 @@
     "name": "art. OmD 1221 SOFT tank top",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "S(44)",
+    "color": "Nero",
+    "price": 754.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1221 SOFT tank top",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "M(46)",
     "color": "Nero",
     "price": 754.8,
@@ -106695,6 +107045,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
+    "color": "Bianco",
+    "price": 754.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1221 SOFT tank top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Bianco",
     "price": 754.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -107055,6 +107415,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
+    "color": "Bianco",
+    "price": 1057.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1411 SOFT t-shirt",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
     "color": "Bianco",
     "price": 1057.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -108584,6 +108954,16 @@
     "name": "art. OmT D1101 ACTIVE tank top",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "XL(50)",
+    "color": "Bianco",
+    "price": 906.67,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D1101 ACTIVE tank top",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S(44)",
     "color": "Menta",
     "price": 906.67,
@@ -108895,6 +109275,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S(44)",
+    "color": "Jeans",
+    "price": 830.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D1201 ACTIVE t-shirt",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
     "color": "Jeans",
     "price": 830.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -109367,6 +109757,66 @@
     "size": "S(44)",
     "color": "Oliva",
     "price": 680,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D3111 ACTIVE capri",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Nero",
+    "price": 666,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D3111 ACTIVE capri",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Nero",
+    "price": 666,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D3111 ACTIVE capri",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
+    "color": "Nero",
+    "price": 666,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D3111 ACTIVE capri",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Nero",
+    "price": 666,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D3111 ACTIVE capri",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2XL(52)",
+    "color": "Nero",
+    "price": 666,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D3111 ACTIVE capri",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "3XL(54)",
+    "color": "Nero",
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -113525,6 +113975,36 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
+    "color": "Bianco",
+    "price": 754.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMT U1101 tank top",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Bianco",
+    "price": 754.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMT U1101 tank top",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-2XL",
+    "color": "Bianco",
+    "price": 754.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMT U1101 tank top",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
     "color": "Blu",
     "price": 754.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -113556,6 +114036,16 @@
     "density": "",
     "size": "8-3XL",
     "color": "Nero",
+    "price": 754.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMT U1101 tank top",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "8-3XL",
+    "color": "Bianco",
     "price": 754.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -113906,6 +114396,16 @@
     "density": "",
     "size": "7-2XL",
     "color": "Nero",
+    "price": 906.67,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMT U1201 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Bianco",
     "price": 906.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -121024,16 +121524,6 @@
     "name": "art. 518 SLIP colorato",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4(M)",
-    "color": "Oleandro",
-    "price": 547.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 518 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2(XS)",
     "color": "Glicine",
     "price": 547.4,
@@ -121066,16 +121556,6 @@
     "density": "",
     "size": "3(S)",
     "color": "Laguna",
-    "price": 547.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 518 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(S)",
-    "color": "Amarena",
     "price": 547.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -121686,16 +122166,6 @@
     "density": "",
     "size": "3(S)",
     "color": "Ardesia",
-    "price": 599.53,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 532 SLIP MIDI colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(S)",
-    "color": "Cobalto",
     "price": 599.53,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -130291,7 +130761,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130301,7 +130771,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130311,7 +130781,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130321,7 +130791,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130331,7 +130801,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130341,7 +130811,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130351,7 +130821,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130361,7 +130831,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130371,7 +130841,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130381,7 +130851,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130391,7 +130861,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130401,7 +130871,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130411,7 +130881,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130421,7 +130891,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130431,7 +130901,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130441,7 +130911,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130451,7 +130921,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130461,7 +130931,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130471,7 +130941,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO283 BODY spalla larga",
+    "name": "art. BO283 BODY spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130481,7 +130951,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130491,7 +130961,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130501,7 +130971,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130511,7 +130981,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130521,7 +130991,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130531,7 +131001,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130541,7 +131011,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130551,7 +131021,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130561,7 +131031,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130571,7 +131041,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130581,7 +131051,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130591,7 +131061,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130601,7 +131071,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130611,7 +131081,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130621,7 +131091,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130631,7 +131101,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130641,7 +131111,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130651,7 +131121,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -130661,7 +131131,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -130671,7 +131141,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO284 BODY spalla stretta",
+    "name": "art. BO284 BODY spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130681,7 +131151,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130691,7 +131161,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130701,7 +131171,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130711,7 +131181,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130721,7 +131191,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130731,7 +131201,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130741,7 +131211,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -130751,7 +131221,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130761,7 +131231,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130771,7 +131241,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130781,7 +131251,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -130791,7 +131261,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130801,7 +131271,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130811,7 +131281,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130821,7 +131291,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130831,7 +131301,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130841,7 +131311,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130851,7 +131321,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130861,7 +131331,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO289 BODY manica lunga",
+    "name": "art. BO289 BODY manica lunga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -130871,7 +131341,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130881,7 +131351,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -130891,7 +131361,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130901,7 +131371,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130911,7 +131381,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130921,7 +131391,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -130931,7 +131401,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130941,7 +131411,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -130951,7 +131421,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130961,7 +131431,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -130971,7 +131441,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -130981,7 +131451,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO293 BODY T-SHIRT",
+    "name": "art. BO293 BODY T-SHIRT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -130991,7 +131461,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO294 BODY girocollo halter",
+    "name": "art. BO294 BODY girocollo halter",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131001,7 +131471,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO294 BODY girocollo halter",
+    "name": "art. BO294 BODY girocollo halter",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131011,7 +131481,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO294 BODY girocollo halter",
+    "name": "art. BO294 BODY girocollo halter",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131021,7 +131491,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO296 BODY MAGLIA girocollo tondo",
+    "name": "art. BO296 BODY MAGLIA girocollo tondo",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131031,7 +131501,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO296 BODY MAGLIA girocollo tondo",
+    "name": "art. BO296 BODY MAGLIA girocollo tondo",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131041,7 +131511,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131051,7 +131521,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131061,7 +131531,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131071,7 +131541,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131081,7 +131551,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131091,7 +131561,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131101,7 +131571,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131111,7 +131581,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131121,7 +131591,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131131,7 +131601,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131141,7 +131611,7 @@
   },
   {
     "brand": "MY",
-    "name": "BO341 BODY manica lunga RIB",
+    "name": "art. BO341 BODY manica lunga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131151,7 +131621,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131161,7 +131631,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131171,7 +131641,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131181,7 +131651,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131191,7 +131661,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131201,7 +131671,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131211,7 +131681,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131221,7 +131691,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131231,7 +131701,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131241,7 +131711,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131251,7 +131721,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131261,7 +131731,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131271,7 +131741,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131281,7 +131751,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131291,7 +131761,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131301,7 +131771,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131311,7 +131781,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131321,7 +131791,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131331,7 +131801,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131341,7 +131811,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131351,7 +131821,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131361,7 +131831,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -131371,7 +131841,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR201 TOP spalla stretta",
+    "name": "art. BR201 TOP spalla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131381,7 +131851,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131391,7 +131861,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131401,7 +131871,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131411,7 +131881,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131421,7 +131891,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131431,7 +131901,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131441,7 +131911,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131451,7 +131921,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131461,7 +131931,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131471,7 +131941,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131481,7 +131951,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131491,7 +131961,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131501,7 +131971,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131511,7 +131981,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131521,7 +131991,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131531,7 +132001,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131541,7 +132011,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131551,7 +132021,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131561,7 +132031,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131571,7 +132041,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131581,7 +132051,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131591,7 +132061,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131601,7 +132071,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131611,7 +132081,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131621,7 +132091,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131631,7 +132101,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131641,7 +132111,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131651,7 +132121,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131661,7 +132131,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131671,7 +132141,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR327 TOP spalla larga",
+    "name": "art. BR327 TOP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131681,7 +132151,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -131691,7 +132161,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -131701,7 +132171,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131711,7 +132181,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131721,7 +132191,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131731,7 +132201,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131741,7 +132211,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131751,7 +132221,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131761,7 +132231,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -131771,7 +132241,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131781,7 +132251,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131791,7 +132261,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131801,7 +132271,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131811,7 +132281,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -131821,7 +132291,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131831,7 +132301,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131841,7 +132311,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -131851,7 +132321,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131861,7 +132331,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131871,7 +132341,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131881,7 +132351,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131891,7 +132361,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -131901,7 +132371,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131911,7 +132381,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR328 TOP shaper alla stretta",
+    "name": "art. BR328 TOP shaper alla stretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -131921,7 +132391,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131931,7 +132401,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131941,7 +132411,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131951,7 +132421,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -131961,7 +132431,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -131971,7 +132441,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -131981,7 +132451,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -131991,7 +132461,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132001,7 +132471,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132011,7 +132481,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132021,7 +132491,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132031,7 +132501,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132041,7 +132511,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132051,7 +132521,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132061,7 +132531,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132071,7 +132541,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132081,7 +132551,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132091,7 +132561,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -132101,7 +132571,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132111,7 +132581,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga",
+    "name": "art. BR329 TOP PUSH UP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132121,7 +132591,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132131,7 +132601,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132141,7 +132611,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132151,7 +132621,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132161,7 +132631,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132171,7 +132641,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132181,7 +132651,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132191,7 +132661,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132201,7 +132671,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132211,7 +132681,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR329 TOP PUSH UP spalla larga PLUS SIZE",
+    "name": "art. BR329 TOP PUSH UP spalla larga PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132221,7 +132691,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -132231,7 +132701,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -132241,7 +132711,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132251,7 +132721,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132261,7 +132731,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -132271,7 +132741,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -132281,7 +132751,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132291,7 +132761,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -132301,7 +132771,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -132311,7 +132781,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -132321,7 +132791,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132331,7 +132801,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -132341,7 +132811,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -132351,7 +132821,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132361,7 +132831,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -132371,7 +132841,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -132381,7 +132851,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP",
+    "name": "art. BR364 TOP WITH CUP",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132391,7 +132861,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132401,7 +132871,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132411,7 +132881,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132421,7 +132891,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132431,7 +132901,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132441,7 +132911,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132451,7 +132921,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132461,7 +132931,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132471,7 +132941,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132481,7 +132951,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR364 TOP WITH CUP PLUS SIZE",
+    "name": "art. BR364 TOP WITH CUP PLUS SIZE",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXXL",
@@ -132491,7 +132961,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR378 TOP SHAPER WITH CUP spalla larga",
+    "name": "art. BR378 TOP SHAPER WITH CUP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -132501,7 +132971,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR378 TOP SHAPER WITH CUP spalla larga",
+    "name": "art. BR378 TOP SHAPER WITH CUP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -132511,7 +132981,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR378 TOP SHAPER WITH CUP spalla larga",
+    "name": "art. BR378 TOP SHAPER WITH CUP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -132521,7 +132991,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR378 TOP SHAPER WITH CUP spalla larga",
+    "name": "art. BR378 TOP SHAPER WITH CUP spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -132531,7 +133001,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132541,7 +133011,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132551,7 +133021,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132561,7 +133031,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132571,7 +133041,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132581,7 +133051,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132591,7 +133061,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132601,7 +133071,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132611,7 +133081,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132621,7 +133091,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132631,7 +133101,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132641,7 +133111,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132651,7 +133121,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132661,7 +133131,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132671,7 +133141,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132681,7 +133151,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132691,7 +133161,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132701,7 +133171,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132711,7 +133181,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132721,7 +133191,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132731,7 +133201,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132741,7 +133211,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132751,7 +133221,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132761,7 +133231,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132771,7 +133241,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132781,7 +133251,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132791,7 +133261,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR423 TOP spalla larga RIB",
+    "name": "art. BR423 TOP spalla larga RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132801,7 +133271,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132811,7 +133281,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132821,7 +133291,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132831,7 +133301,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132841,7 +133311,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132851,7 +133321,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132861,7 +133331,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132871,7 +133341,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132881,7 +133351,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR492 TOP sport",
+    "name": "art. BR492 TOP sport",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132891,7 +133361,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR495 TOP spalla larga PLAIT",
+    "name": "art. BR495 TOP spalla larga PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132901,7 +133371,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR495 TOP spalla larga PLAIT",
+    "name": "art. BR495 TOP spalla larga PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132911,7 +133381,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR495 TOP spalla larga PLAIT",
+    "name": "art. BR495 TOP spalla larga PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132921,7 +133391,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR495 TOP spalla larga PLAIT",
+    "name": "art. BR495 TOP spalla larga PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132931,7 +133401,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR495 TOP spalla larga PLAIT",
+    "name": "art. BR495 TOP spalla larga PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132941,7 +133411,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR495 TOP spalla larga PLAIT",
+    "name": "art. BR495 TOP spalla larga PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132951,7 +133421,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -132961,7 +133431,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132971,7 +133441,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -132981,7 +133451,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -132991,7 +133461,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133001,7 +133471,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133011,7 +133481,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133021,7 +133491,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133031,7 +133501,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR497 TOP spalla sretta RIB",
+    "name": "art. BR497 TOP spalla sretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133041,7 +133511,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133051,7 +133521,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133061,7 +133531,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133071,7 +133541,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133081,7 +133551,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133091,7 +133561,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133101,7 +133571,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133111,7 +133581,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133121,7 +133591,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133131,7 +133601,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133141,7 +133611,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133151,7 +133621,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133161,7 +133631,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133171,7 +133641,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133181,7 +133651,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133191,7 +133661,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133201,7 +133671,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133211,7 +133681,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR518 TOP sport spalla sretta",
+    "name": "art. BR518 TOP sport spalla sretta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133221,7 +133691,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133231,7 +133701,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133241,7 +133711,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133251,7 +133721,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133261,7 +133731,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133271,7 +133741,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133281,7 +133751,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133291,7 +133761,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133301,7 +133771,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133311,7 +133781,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133321,7 +133791,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133331,7 +133801,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133341,7 +133811,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133351,7 +133821,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133361,7 +133831,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133371,7 +133841,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133381,7 +133851,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133391,7 +133861,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133401,7 +133871,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133411,7 +133881,7 @@
   },
   {
     "brand": "MY",
-    "name": "BR542 TOP spalla stretta",
+    "name": "art. BR542 TOP spalla stretta RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133421,7 +133891,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX086 SHORTS",
+    "name": "art. BX086 SHORTS",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -133431,7 +133901,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX086 SHORTS",
+    "name": "art. BX086 SHORTS",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -133441,7 +133911,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX086 SHORTS",
+    "name": "art. BX086 SHORTS",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -133451,7 +133921,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX086 SHORTS",
+    "name": "art. BX086 SHORTS",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -133461,7 +133931,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX086 SHORTS",
+    "name": "art. BX086 SHORTS",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -133471,7 +133941,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX315 SHORTS vita alta",
+    "name": "art. BX315 SHORTS vita alta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -133481,7 +133951,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX315 SHORTS vita alta",
+    "name": "art. BX315 SHORTS vita alta",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -133491,7 +133961,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX325 SHORTS high-waist",
+    "name": "art. BX325 SHORTS high-waist",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133501,7 +133971,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX325 SHORTS high-waist",
+    "name": "art. BX325 SHORTS high-waist",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133511,7 +133981,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX325 SHORTS high-waist",
+    "name": "art. BX325 SHORTS high-waist",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133521,7 +133991,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX326 SHORTS PLAIT",
+    "name": "art. BX326 SHORTS PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133531,7 +134001,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX326 SHORTS PLAIT",
+    "name": "art. BX326 SHORTS PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133541,7 +134011,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX326 SHORTS PLAIT",
+    "name": "art. BX326 SHORTS PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133551,7 +134021,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX326 SHORTS PLAIT",
+    "name": "art. BX326 SHORTS PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133561,7 +134031,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX326 SHORTS PLAIT",
+    "name": "art. BX326 SHORTS PLAIT",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133571,7 +134041,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX327 SHORTS RIB",
+    "name": "art. BX327 SHORTS RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133581,7 +134051,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX327 SHORTS RIB",
+    "name": "art. BX327 SHORTS RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133591,7 +134061,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX327 SHORTS RIB",
+    "name": "art. BX327 SHORTS RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133601,7 +134071,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX327 SHORTS RIB",
+    "name": "art. BX327 SHORTS RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -133611,7 +134081,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX327 SHORTS RIB",
+    "name": "art. BX327 SHORTS RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -133621,7 +134091,7 @@
   },
   {
     "brand": "MY",
-    "name": "BX327 SHORTS RIB",
+    "name": "art. BX327 SHORTS RIB",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -133631,7 +134101,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -133641,7 +134111,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -133651,7 +134121,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -133661,7 +134131,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -133671,7 +134141,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -133681,7 +134151,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -133691,7 +134161,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -133701,7 +134171,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XXL",
@@ -133711,7 +134181,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
@@ -133721,7 +134191,7 @@
   },
   {
     "brand": "MY",
-    "name": "CA019 CANOTTA spalla larga",
+    "name": "art. CA019 CANOTTA spalla larga",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S/M",
@@ -157801,6 +158271,16 @@
   },
   {
     "brand": "LEILIEVE",
+    "name": "art. 7713 cup B",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "4 (80B)",
+    "color": "Melone",
+    "price": 2974.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LEILIEVE",
     "name": "art. 7713 cup C",
     "menu": "Бельё Женское",
     "density": "",
@@ -165624,16 +166104,6 @@
     "name": "EB1254 uomo boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "7-XXL",
-    "color": "Nero",
-    "price": 619.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "EB1254 uomo boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "6-XL",
     "color": "Blu/bordeaux",
     "price": 619.2,
@@ -166045,16 +166515,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
-    "color": "Nero/lime",
-    "price": 464.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "EB1718 uomo boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
     "color": "Nero/lime",
     "price": 464.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
