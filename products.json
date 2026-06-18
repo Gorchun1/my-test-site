@@ -11881,26 +11881,6 @@
   },
   {
     "brand": "MINIMI",
-    "name": "ESTIVO 15 no toe",
-    "menu": "Колготки",
-    "density": "15 DEN",
-    "size": "2-S",
-    "color": "Daino",
-    "price": 266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "ESTIVO 15 no toe",
-    "menu": "Колготки",
-    "density": "15 DEN",
-    "size": "2-S",
-    "color": "Caramello",
-    "price": 266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
     "name": "MATTE EFFECT 40",
     "menu": "Колготки",
     "density": "40 DEN",
@@ -16827,6 +16807,16 @@
     "size": "UNICA",
     "color": "Daino",
     "price": 153,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "COTONE 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
+    "color": "Caffe",
+    "price": 166,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36475,16 +36465,6 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "3-M",
-    "color": "Melon",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
-    "name": "VITA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "5-XL",
     "color": "Melon",
     "price": 166,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -76611,16 +76591,6 @@
   },
   {
     "brand": "RELAXSAN",
-    "name": "art. 950A LADY 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": 5,
-    "color": "21 Beige",
-    "price": 684,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
     "name": "art. 850 GAMBALETTO 140",
     "menu": "Гольфы",
     "density": "140 DEN",
@@ -77545,16 +77515,6 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "35-38",
-    "color": "Azzurro",
-    "price": 100,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 1201 COTONE",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "35-38",
     "color": "Lilla",
     "price": 100,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -78045,16 +78005,6 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "39-41",
-    "color": "Lemon",
-    "price": 66,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 4101 FRESH",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "35-38",
     "color": "Lemon",
     "price": 66,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -79856,16 +79806,6 @@
     "density": "летние",
     "size": "39-41",
     "color": "Grigio",
-    "price": 136,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 101 ACTIVE",
-    "menu": "Носки",
-    "density": "летние",
-    "size": "39-41",
-    "color": "Beige",
     "price": 136,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -107384,16 +107324,6 @@
     "name": "art. OmD 2211 SOFT slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S(44)",
-    "color": "Avorio",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmD 2211 SOFT slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XL(50)",
     "color": "Bianco",
     "price": 377.4,
@@ -110644,16 +110574,6 @@
     "name": "art. OmB 1234 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "6-XL",
-    "color": "Jeans",
-    "price": 528.13,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1234 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "3-S",
     "color": "Jeans",
     "price": 528.13,
@@ -111805,16 +111725,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-2XL",
-    "color": "Bianco",
-    "price": 641.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 2225 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "8-3XL",
     "color": "Bianco",
     "price": 641.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
