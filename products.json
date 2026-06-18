@@ -16811,16 +16811,6 @@
   },
   {
     "brand": "MINIMI",
-    "name": "COTONE 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": "UNICA",
-    "color": "Caffe",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
     "name": "art. 6201 GAMBALETTO cotone",
     "menu": "Гольфы",
     "density": "-",
@@ -75404,6 +75394,16 @@
     "name": "art. M2180 MEDICALE SOFT collant",
     "menu": "Колготки",
     "density": "-",
+    "size": 2,
+    "color": "Black",
+    "price": 2483,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. M2180 MEDICALE SOFT collant",
+    "menu": "Колготки",
+    "density": "-",
     "size": 4,
     "color": "Black",
     "price": 2483,
@@ -76491,6 +76491,26 @@
   },
   {
     "brand": "RELAXSAN",
+    "name": "art. 750 GAMBALETTO 70",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 5,
+    "color": "Black",
+    "price": 1002,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 750 GAMBALETTO 70",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 5,
+    "color": "21 Beige",
+    "price": 1002,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
     "name": "art. 750M GAMBALETTO 70 MICRO",
     "menu": "Гольфы",
     "density": "70 DEN",
@@ -76527,6 +76547,16 @@
     "size": 3,
     "color": "Black",
     "price": 1028,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950A LADY 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 2,
+    "color": "21 Beige",
+    "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -76586,6 +76616,16 @@
     "density": "70 DEN",
     "size": 5,
     "color": "Black",
+    "price": 684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
+    "name": "art. 950A LADY 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 5,
+    "color": "21 Beige",
     "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -100975,6 +101015,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
+    "color": "Vaniglia",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. MFR221 slip ribana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
     "color": "Vaniglia",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -167491,16 +167541,6 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1072 MAXI HOMEWEAR",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "8-3XL",
-    "color": "Denim",
-    "price": 3316.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
     "name": "EP1076 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
@@ -169707,16 +169747,6 @@
     "size": "7-XXL",
     "color": "Black",
     "price": 580.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JOLIDON",
-    "name": "T-SHIRT M12BL",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Dark Blue",
-    "price": 984,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
