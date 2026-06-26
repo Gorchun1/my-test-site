@@ -13331,6 +13331,46 @@
   },
   {
     "brand": "MINIMI",
+    "name": "MULTIFIBRA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "5-XL",
+    "color": "Carbone",
+    "price": 426,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MULTIFIBRA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "4-L",
+    "color": "Carbone",
+    "price": 426,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MULTIFIBRA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "3-M",
+    "color": "Carbone",
+    "price": 426,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MULTIFIBRA 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "2-S",
+    "color": "Carbone",
+    "price": 426,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
     "name": "MULTIFIBRA 70 MAXI",
     "menu": "Колготки",
     "density": "70 DEN",
@@ -50117,16 +50157,6 @@
     "size": "S/M",
     "color": "Daino",
     "price": 306,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "QUEEN 8 autoreggente",
-    "menu": "Чулки",
-    "density": "8 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 700,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -93105,16 +93135,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2XL(52)",
-    "color": "Bianco",
-    "price": 136,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 211 string",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Avorio",
     "price": 136,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -93706,16 +93726,6 @@
     "density": "",
     "size": "2XL(52)",
     "color": "Avorio",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 221 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
-    "color": "Blu Notte",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -94235,16 +94245,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Lilla",
-    "price": 241.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 223 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
     "color": "Lilla",
     "price": 241.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -163254,6 +163254,16 @@
     "name": "ORLANDO BOXER",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "XXL(54)",
+    "color": "Grigio",
+    "price": 576,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "X FILE",
+    "name": "ORLANDO BOXER",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "S(46)",
     "color": "Bianco",
     "price": 576,
@@ -163315,16 +163325,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "XL(52)",
-    "color": "Grigio",
-    "price": 576,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "X FILE",
-    "name": "ORLANDO BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "XXL(54)",
     "color": "Grigio",
     "price": 576,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
