@@ -36401,16 +36401,6 @@
   },
   {
     "brand": "GOLDEN LADY",
-    "name": "LEDA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 126,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
     "name": "VELY 20",
     "menu": "Колготки",
     "density": "20 DEN",
@@ -39146,16 +39136,6 @@
     "density": "15 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 266,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "SUPER 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
-    "size": "2-S",
-    "color": "Fumo",
     "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -166025,16 +166005,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
-    "color": "Blu",
-    "price": 1160.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "EC1663 uomo coord. boxer - t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
     "color": "Grigio Melange",
     "price": 1160.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -166097,6 +166067,66 @@
     "size": "4-M",
     "color": "Blu",
     "price": 4032,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EA 2066 ATHLETIC",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Denim",
+    "price": 3968.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EA 2066 ATHLETIC",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Denim",
+    "price": 3968.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EA 2066 ATHLETIC",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Denim",
+    "price": 3968.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EA 2066 ATHLETIC",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Grigio",
+    "price": 3968.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EA 2066 ATHLETIC",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Grigio",
+    "price": 3968.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EA 2066 ATHLETIC",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Grigio",
+    "price": 3968.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -167261,6 +167291,66 @@
   },
   {
     "brand": "ENRICO COVERI",
+    "name": "art. EP 2156 HOMEWEAR",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-XXL",
+    "color": "Pino",
+    "price": 3684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EP 2156 HOMEWEAR",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Cobalto",
+    "price": 3684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EP 2156 HOMEWEAR",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Pino",
+    "price": 3684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EP 2156 HOMEWEAR",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Pino",
+    "price": 3684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EP 2156 HOMEWEAR",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Pino",
+    "price": 3684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. EP 2156 HOMEWEAR",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Cobalto",
+    "price": 3684,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
     "name": "EB4056 boy boxer",
     "menu": "Бельё Мужское",
     "density": "",
@@ -167796,6 +167886,36 @@
     "density": "",
     "size": "3/4",
     "color": "Grigio Melange",
+    "price": 338.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "EB4113 junior boxer",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "15/16",
+    "color": "Grigio Melange",
+    "price": 338.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "EB4113 junior boxer",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "15/16",
+    "color": "Cobalto",
+    "price": 338.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "EB4113 junior boxer",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "15/16",
+    "color": "Blu",
     "price": 338.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -168421,7 +168541,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "ET4100 boy maglia girocollo",
+    "name": "art. ET4000 T-SHIRT boy",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5/6",
@@ -168431,12 +168551,32 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "ET4100 boy maglia girocollo",
+    "name": "art. ET4100 T-SHIRT boy",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5/6",
+    "color": "Bianco",
+    "price": 435.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET4100 T-SHIRT boy",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3/4",
     "color": "Bianco",
     "price": 435.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET4102 CANOTTA boy",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "3/4",
+    "color": "Bianco",
+    "price": 384,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
