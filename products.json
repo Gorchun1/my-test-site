@@ -16805,16 +16805,6 @@
     "menu": "Гольфы",
     "density": "8 DEN",
     "size": "UNICA",
-    "color": "Caramello",
-    "price": 246,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "ESTIVO 8 gambaletto, 2 pairs",
-    "menu": "Гольфы",
-    "density": "8 DEN",
-    "size": "UNICA",
     "color": "Daino",
     "price": 246,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -25126,16 +25116,6 @@
     "density": "150 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 455.89,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "TRIUMF 150",
-    "menu": "Колготки",
-    "density": "150 DEN",
-    "size": "2-S",
-    "color": "Mocca",
     "price": 455.89,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -38545,16 +38525,6 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "7-3XL",
-    "color": "Lola",
-    "price": 153,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "LADY 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "7-3XL",
     "color": "Nero",
     "price": 153,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -47754,16 +47724,6 @@
     "name": "MISS 20",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "3-M",
-    "color": "Grafite",
-    "price": 300,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "MISS 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "2-S",
     "color": "Daino",
     "price": 300,
@@ -53481,16 +53441,6 @@
   },
   {
     "brand": "OMERO",
-    "name": "AESTIVA 8 vita bassa",
-    "menu": "Колготки",
-    "density": "8 DEN",
-    "size": "2-S",
-    "color": "Ibic",
-    "price": 860,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMERO",
     "name": "CHIMERA 15",
     "menu": "Колготки",
     "density": "15 DEN",
@@ -55415,6 +55365,16 @@
     "menu": "Колготки",
     "density": "50 DEN",
     "size": "2-S",
+    "color": "Nero",
+    "price": 1508,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMERO",
+    "name": "FORM UP 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "4-L",
     "color": "Nero",
     "price": 1508,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -75294,16 +75254,6 @@
     "name": "art. 880P COLLANT 140 PLUS",
     "menu": "Колготки",
     "density": "140 DEN",
-    "size": 2,
-    "color": "21 Beige",
-    "price": 1831,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 880P COLLANT 140 PLUS",
-    "menu": "Колготки",
-    "density": "140 DEN",
     "size": 4,
     "color": "21 Beige",
     "price": 1831,
@@ -76177,16 +76127,6 @@
     "size": 5,
     "color": "36 Beige",
     "price": 2138,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M1170 MEDICALE SOFT stay up",
-    "menu": "Чулки",
-    "density": "-",
-    "size": 5,
-    "color": "40 Beige",
-    "price": 2040,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -76416,16 +76356,6 @@
     "density": "-",
     "size": 5,
     "color": "Black",
-    "price": 2182,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2170A MEDICALE SOFT stay up no toe",
-    "menu": "Чулки",
-    "density": "-",
-    "size": 2,
-    "color": "40 Beige",
     "price": 2182,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -76677,16 +76607,6 @@
     "size": 3,
     "color": "Black",
     "price": 1028,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 950A LADY 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": 2,
-    "color": "21 Beige",
-    "price": 684,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -79705,16 +79625,6 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "42-44",
-    "color": "Verde Foresta",
-    "price": 146,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 401 ECO colors",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "45-47",
     "color": "Verde Foresta",
     "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -83204,16 +83114,6 @@
     "name": "BD ACACIA 32296 tanga",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "2(S)",
-    "color": "Beige",
-    "price": 286.93,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD ACACIA 32296 tanga",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "4(L)",
     "color": "Beige",
     "price": 286.93,
@@ -89407,16 +89307,6 @@
     "size": "8(3XL)",
     "color": "Grafite",
     "price": 564.26,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for men",
-    "name": "IBU 36001 shorts",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6(XL)",
-    "color": "Grigio Melange",
-    "price": 670.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -93385,16 +93275,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2XL(52)",
-    "color": "Nero",
-    "price": 301.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 213 string",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Bianco",
     "price": 301.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -93644,16 +93524,6 @@
     "name": "art. BO 221 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "M(46)",
-    "color": "Blu Notte",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 221 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L(48)",
     "color": "Blu Notte",
     "price": 264.07,
@@ -93706,16 +93576,6 @@
     "density": "",
     "size": "2XL(52)",
     "color": "Celeste",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 221 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
-    "color": "Perla",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -94026,16 +93886,6 @@
     "density": "",
     "size": "S(44)",
     "color": "Rosso",
-    "price": 241.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 223 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
-    "color": "Menta",
     "price": 241.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -94304,16 +94154,6 @@
     "name": "art. BO 225 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "XL(50)",
-    "color": "Avorio",
-    "price": 414.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 225 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2XL(52)",
     "color": "Avorio",
     "price": 414.8,
@@ -94996,16 +94836,6 @@
     "density": "",
     "size": "L(48)",
     "color": "Blu Notte",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 261 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M(46)",
-    "color": "Nero",
     "price": 377.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -98404,16 +98234,6 @@
     "name": "art. BMi_F2610 brasiliana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Lilla",
-    "price": 210.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_F2610 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XL(50)",
     "color": "Rosa Antico",
     "price": 210.8,
@@ -98484,16 +98304,6 @@
     "name": "art. M2S231 panty",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Bianco",
-    "price": 226.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. M2S231 panty",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XL(50)",
     "color": "Bianco",
     "price": 226.67,
@@ -100554,16 +100364,6 @@
     "name": "art. MFR221 slip ribana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "M(46)",
-    "color": "Bacche",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR221 slip ribana",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L(48)",
     "color": "Celeste",
     "price": 264.07,
@@ -100845,16 +100645,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Bianco",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR261 brasiliana ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
     "color": "Bianco",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -108844,16 +108634,6 @@
     "name": "art. OmB 1223 SLIP",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "5-L",
-    "color": "Grigio Melange",
-    "price": 453.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1223 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "4-M",
     "color": "Blu Scuro",
     "price": 453.33,
@@ -109335,16 +109115,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
-    "color": "Bianco",
-    "price": 453.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1224 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-2XL",
     "color": "Bianco",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -118195,16 +117965,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(XS)",
-    "color": "Asfalto",
-    "price": 557.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 503 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(XS)",
     "color": "Fiordaliso",
     "price": 557.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -118256,16 +118016,6 @@
     "density": "",
     "size": "4(M)",
     "color": "Foresta",
-    "price": 557.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 503 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(XS)",
-    "color": "Silver",
     "price": 557.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -118326,16 +118076,6 @@
     "density": "",
     "size": "2(XS)",
     "color": "Mosto",
-    "price": 557.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 503 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(XS)",
-    "color": "Mogano",
     "price": 557.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -118415,16 +118155,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(XS)",
-    "color": "Uvetta",
-    "price": 557.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 503 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(XS)",
     "color": "Ciclamino",
     "price": 557.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -118435,16 +118165,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "4(M)",
-    "color": "Rosa",
-    "price": 557.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 503 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2(XS)",
     "color": "Rosa",
     "price": 557.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -128094,16 +127814,6 @@
     "name": "art. 4179 TOP",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S",
-    "color": "Bianco",
-    "price": 837.53,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4179 TOP",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L",
     "color": "Jeans",
     "price": 837.53,
@@ -128175,16 +127885,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
-    "color": "Grigio Melange",
-    "price": 837.53,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 4179 TOP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S",
     "color": "Grigio Melange",
     "price": 837.53,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -163641,7 +163341,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1001 boxer",
+    "name": "art. EB 1001 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -163651,7 +163351,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1001 boxer",
+    "name": "art. EB 1001 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -163661,7 +163361,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1001 boxer",
+    "name": "art. EB 1001 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -163671,7 +163371,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1001 boxer",
+    "name": "art. EB 1001 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -163681,7 +163381,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1001 boxer",
+    "name": "art. EB 1001 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -163691,7 +163391,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1001 boxer",
+    "name": "art. EB 1001 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -163701,7 +163401,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1001 boxer",
+    "name": "art. EB 1001 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -163711,7 +163411,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1001 boxer",
+    "name": "art. EB 1001 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -163721,7 +163421,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1500 boxer",
+    "name": "art. EB 1500 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -163731,7 +163431,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1500 boxer",
+    "name": "art. EB 1500 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -163741,7 +163441,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1500 boxer",
+    "name": "art. EB 1500 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -163751,7 +163451,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EM1200 pants",
+    "name": "art. EM 1200 pants",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -163761,7 +163461,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -163771,7 +163471,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -163781,7 +163481,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -163791,187 +163491,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Nero",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Nero",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Blu",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Bianco",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Nero",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Bianco",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Bianco",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Grigio Melange",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Blu",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Grigio Melange",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Bianco",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Grigio Melange",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1000 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Grigio Melange",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Nero",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Blu",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Bianco",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Grigio Melange",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Blu",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -163981,37 +163501,17 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
+    "size": "7-XXL",
     "color": "Nero",
     "price": 1272.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Grigio Melange",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Bianco",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164021,7 +163521,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164031,7 +163531,27 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
+    "name": "art. ET 1000 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Nero",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1000 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-XXL",
+    "color": "Bianco",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164041,17 +163561,47 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "7-XXL",
-    "color": "Nero",
+    "size": "6-XL",
+    "color": "Grigio Melange",
     "price": 1272.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
+    "name": "art. ET 1000 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Blu",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1000 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Grigio Melange",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1000 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Bianco",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164061,17 +163611,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Blu",
-    "price": 1272.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET1001 t-shirt",
+    "name": "art. ET 1000 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164081,7 +163621,167 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1002 canotta",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Nero",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Blu",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Bianco",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Grigio Melange",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Blu",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Nero",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Nero",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Grigio Melange",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-XXL",
+    "color": "Bianco",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Blu",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Bianco",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Bianco",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-XXL",
+    "color": "Nero",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-XXL",
+    "color": "Grigio Melange",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-XXL",
+    "color": "Blu",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1001 t-shirt",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Grigio Melange",
+    "price": 1272.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "ENRICO COVERI",
+    "name": "art. ET 1002 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164091,7 +163791,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1002 canotta",
+    "name": "art. ET 1002 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164101,7 +163801,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1002 canotta",
+    "name": "art. ET 1002 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164111,7 +163811,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1002 canotta",
+    "name": "art. ET 1002 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164121,7 +163821,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1002 canotta",
+    "name": "art. ET 1002 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164131,7 +163831,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1002 canotta",
+    "name": "art. ET 1002 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164141,7 +163841,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1002 canotta",
+    "name": "art. ET 1002 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164151,7 +163851,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1002 canotta",
+    "name": "art. ET 1002 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164161,7 +163861,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1004 t-shirt",
+    "name": "art. ET 1004 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164171,7 +163871,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1004 t-shirt",
+    "name": "art. ET 1004 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164181,7 +163881,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1004 t-shirt",
+    "name": "art. ET 1004 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164191,7 +163891,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1200 t-shirt",
+    "name": "art. ET 1200 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164201,7 +163901,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1201 t-shirt",
+    "name": "art. ET 1201 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164211,7 +163911,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1201 t-shirt",
+    "name": "art. ET 1201 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164221,7 +163921,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1202 canotta",
+    "name": "art. ET 1202 canotta",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164231,7 +163931,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164241,7 +163941,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164251,7 +163951,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164261,7 +163961,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164271,7 +163971,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164281,7 +163981,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164291,7 +163991,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164301,7 +164001,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164311,7 +164011,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164321,7 +164021,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164331,7 +164031,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1204 t-shirt",
+    "name": "art. ET 1204 t-shirt",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164341,7 +164041,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1205 lupetto",
+    "name": "art. ET 1205 lupetto",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164351,7 +164051,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1205 lupetto",
+    "name": "art. ET 1205 lupetto",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164361,7 +164061,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1205 lupetto",
+    "name": "art. ET 1205 lupetto",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164371,7 +164071,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1205 lupetto",
+    "name": "art. ET 1205 lupetto",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164381,7 +164081,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1205 lupetto",
+    "name": "art. ET 1205 lupetto",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164391,7 +164091,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. ET1205 lupetto",
+    "name": "art. ET 1205 lupetto",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164401,7 +164101,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1206 boxer",
+    "name": "art. EB 1206 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -164411,7 +164111,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1206 boxer",
+    "name": "art. EB 1206 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164421,7 +164121,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1216 boxer",
+    "name": "art. EB 1216 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164431,7 +164131,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1216 boxer",
+    "name": "art. EB 1216 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164441,7 +164141,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EB1216 boxer",
+    "name": "art. EB 1216 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -167404,8 +167104,8 @@
     "name": "EB4117 boy boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "5/6",
-    "color": "Blu",
+    "size": "3/4",
+    "color": "Cobalto",
     "price": 337.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -167414,7 +167114,7 @@
     "name": "EB4117 boy boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "3/4",
+    "size": "5/6",
     "color": "Cobalto",
     "price": 337.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -167921,7 +167621,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5176 HOMEWEAR",
+    "name": "art. EP 5176 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "5-XL",
@@ -167931,7 +167631,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5176 HOMEWEAR",
+    "name": "art. EP 5176 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "3-M",
@@ -167941,7 +167641,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5176 HOMEWEAR",
+    "name": "art. EP 5176 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "2-S",
@@ -167951,7 +167651,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5178 HOMEWEAR",
+    "name": "art. EP 5178 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "4-L",
@@ -167961,7 +167661,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5178 HOMEWEAR",
+    "name": "art. EP 5178 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "2-S",
@@ -167971,7 +167671,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5178 HOMEWEAR",
+    "name": "art. EP 5178 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "4-L",
@@ -167981,7 +167681,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5178 HOMEWEAR",
+    "name": "art. EP 5178 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "3-M",
@@ -167991,7 +167691,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5178 HOMEWEAR",
+    "name": "art. EP 5178 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "2-S",
@@ -168001,7 +167701,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5183 HOMEWEAR",
+    "name": "art. EP 5183 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "3-M",
@@ -168011,7 +167711,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5183 HOMEWEAR",
+    "name": "art. EP 5183 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "2-S",
@@ -168021,7 +167721,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5183 HOMEWEAR",
+    "name": "art. EP 5183 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "4-L",
@@ -168031,7 +167731,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5183 HOMEWEAR",
+    "name": "art. EP 5183 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "4-L",
@@ -168041,7 +167741,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5184 HOMEWEAR",
+    "name": "art. EP 5184 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "4-L",
@@ -168051,7 +167751,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5193 HOMEWEAR",
+    "name": "art. EP 5193 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "4-L",
@@ -168061,7 +167761,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5193 HOMEWEAR",
+    "name": "art. EP 5193 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "4-L",
@@ -168071,7 +167771,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5199 HOMEWEAR",
+    "name": "art. EP 5199 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "3-M",
@@ -168081,7 +167781,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5206 HOMEWEAR",
+    "name": "art. EP 5206 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "2-S",
@@ -168091,7 +167791,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5206 HOMEWEAR",
+    "name": "art. EP 5206 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "3-M",
@@ -168101,7 +167801,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5206 HOMEWEAR",
+    "name": "art. EP 5206 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "3-M",
@@ -168111,7 +167811,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP5206 HOMEWEAR",
+    "name": "art. EP 5206 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "4-L",
@@ -168121,7 +167821,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EP6208 HOMEWEAR",
+    "name": "art. EP 6208 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "3-M",
@@ -168131,7 +167831,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP6212 HOMEWEAR",
+    "name": "art. EP 6212 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "3-M",
@@ -168141,7 +167841,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP6212 HOMEWEAR",
+    "name": "art. EP 6212 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "2-S",
@@ -168151,7 +167851,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP6212 HOMEWEAR",
+    "name": "art. EP 6212 HOMEWEAR",
     "menu": "Бельё Женское",
     "density": "",
     "size": "2-S",
