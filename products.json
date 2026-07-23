@@ -17494,6 +17494,16 @@
     "name": "BIKINI 40",
     "menu": "Колготки",
     "density": "40 DEN",
+    "size": "3-M",
+    "color": "Daino",
+    "price": 220,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "GIULIA",
+    "name": "BIKINI 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
     "size": "2-S",
     "color": "Playa",
     "price": 220,
@@ -26001,6 +26011,106 @@
   },
   {
     "brand": "CONTE",
+    "name": "COTTON 200",
+    "menu": "Колготки",
+    "density": "200 DEN",
+    "size": "4-L",
+    "color": "Nero",
+    "price": 419,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 200",
+    "menu": "Колготки",
+    "density": "200 DEN",
+    "size": "3-M",
+    "color": "Nero",
+    "price": 419,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 200",
+    "menu": "Колготки",
+    "density": "200 DEN",
+    "size": "2-S",
+    "color": "Nero",
+    "price": 419,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 200 XL",
+    "menu": "Колготки",
+    "density": "200 DEN",
+    "size": "5-XL",
+    "color": "Nero",
+    "price": 482,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 200 XL",
+    "menu": "Колготки",
+    "density": "200 DEN",
+    "size": "6-XXL",
+    "color": "Nero",
+    "price": 482,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 300",
+    "menu": "Колготки",
+    "density": "300 DEN",
+    "size": "2-S",
+    "color": "Nero",
+    "price": 552,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 300",
+    "menu": "Колготки",
+    "density": "300 DEN",
+    "size": "3-M",
+    "color": "Nero",
+    "price": 552,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 300",
+    "menu": "Колготки",
+    "density": "300 DEN",
+    "size": "4-L",
+    "color": "Nero",
+    "price": 552,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 300 XL",
+    "menu": "Колготки",
+    "density": "300 DEN",
+    "size": "6-XXL",
+    "color": "Nero",
+    "price": 637,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "COTTON 300 XL",
+    "menu": "Колготки",
+    "density": "300 DEN",
+    "size": "5-XL",
+    "color": "Nero",
+    "price": 637,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
     "name": "COTTON 400",
     "menu": "Колготки",
     "density": "400 DEN",
@@ -31064,16 +31174,6 @@
     "name": "for girls TINA 40",
     "menu": "Колготки",
     "density": "40 DEN",
-    "size": "146-152",
-    "color": "Bianco",
-    "price": 307.79,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls TINA 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
     "size": "158-164",
     "color": "Bianco",
     "price": 307.79,
@@ -31244,6 +31344,16 @@
     "name": "for girls BALLET 60 leggings",
     "menu": "Леггинсы",
     "density": "60 DEN",
+    "size": "128-134",
+    "color": "Nero",
+    "price": 257.76,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "for girls BALLET 60 leggings",
+    "menu": "Леггинсы",
+    "density": "60 DEN",
     "size": "140-146",
     "color": "Nero",
     "price": 257.76,
@@ -32404,8 +32514,28 @@
     "name": "арт. 20С-96СП BAMBOO - 000",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "36-38",
+    "color": "Чёрный",
+    "price": 112.52,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 20С-96СП BAMBOO - 000",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "39-41",
     "color": "Белый",
+    "price": 112.52,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "арт. 20С-96СП BAMBOO - 000",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "39-41",
+    "color": "Чёрный",
     "price": 112.52,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -34826,16 +34956,6 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 379.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GLAMOUR",
-    "name": "THIN BODY 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "2-S",
-    "color": "Cappuccino",
     "price": 379.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -45191,16 +45311,6 @@
   },
   {
     "brand": "OMSA",
-    "name": "EASY DAY 20 calzino, 2 paia",
-    "menu": "Носочки",
-    "density": "20 DEN",
-    "size": "UNICA",
-    "color": "Nero",
-    "price": 233,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
     "name": "EASY DAY 40 calzino, 2 paia",
     "menu": "Носочки",
     "density": "40 DEN",
@@ -45954,16 +46064,6 @@
     "name": "kids art. 21C02 calzini",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "31-34",
-    "color": "Lilla",
-    "price": 66,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "kids art. 21C02 calzini",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "27-30",
     "color": "Lilla",
     "price": 66,
@@ -47215,16 +47315,6 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "2-S",
-    "color": "Grafite",
-    "price": 173,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "MIA 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "3-M",
     "color": "Grafite",
     "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -70661,16 +70751,6 @@
   },
   {
     "brand": "OROBLU",
-    "name": "OPAQUE 50 knee-highs",
-    "menu": "Гольфы",
-    "density": "50 DEN",
-    "size": "ONE SIZE",
-    "color": "Black",
-    "price": 493,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
     "name": "REPOS 70 knee-highs",
     "menu": "Гольфы",
     "density": "70 DEN",
@@ -75634,16 +75714,6 @@
     "name": "art. M2180A MEDICALE SOFT collant no toe",
     "menu": "Колготки",
     "density": "-",
-    "size": 2,
-    "color": "40 Beige",
-    "price": 2268,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M2180A MEDICALE SOFT collant no toe",
-    "menu": "Колготки",
-    "density": "-",
     "size": 3,
     "color": "40 Beige",
     "price": 2268,
@@ -77095,16 +77165,6 @@
     "menu": "Гольфы",
     "density": "-",
     "size": 4,
-    "color": "40 Beige",
-    "price": 1305,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. M1150A MEDICALE SOFT gambaletto open toe",
-    "menu": "Гольфы",
-    "density": "-",
-    "size": 5,
     "color": "40 Beige",
     "price": 1305,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -83715,16 +83775,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "5(XL)",
-    "color": "Nero",
-    "price": 372.27,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD CAMERINO 33312 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
     "color": "Nero",
     "price": 372.27,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -93865,16 +93915,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "5XL(58)",
-    "color": "Nudo",
-    "price": 301.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 222 slip extra size",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5XL(58)",
     "color": "Menta",
     "price": 301.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -94856,16 +94896,6 @@
     "density": "",
     "size": "XL(50)",
     "color": "Blu Notte",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 261 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
-    "color": "Nero",
     "price": 377.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -100944,28 +100974,8 @@
     "name": "art. Mi 2251 MS slip silhouette",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S/M",
-    "color": "Nero",
-    "price": 680,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. Mi 2251 MS slip silhouette",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M/L",
     "color": "Nero",
-    "price": 680,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. Mi 2251 MS slip silhouette",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
-    "color": "Beige",
     "price": 680,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -109244,16 +109254,6 @@
     "name": "art. OmB 1233 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
-    "color": "Militari",
-    "price": 566.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1233 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "6-XL",
     "color": "Militari",
     "price": 566.67,
@@ -113885,16 +113885,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Nero",
-    "price": 340,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5104 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
     "color": "Nero",
     "price": 340,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -163364,7 +163354,7 @@
     "name": "art. EB 1500 boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
+    "size": "7-XXL",
     "color": "Blu",
     "price": 651.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -164064,16 +164054,6 @@
     "name": "art. EB 1216 boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
-    "color": "Grigio/blu",
-    "price": 651.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. EB 1216 boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "5-L",
     "color": "Grigio/blu",
     "price": 651.67,
@@ -164091,7 +164071,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164101,7 +164081,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164111,7 +164091,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164121,7 +164101,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164131,7 +164111,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164141,7 +164121,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164151,7 +164131,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164161,7 +164141,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164171,7 +164151,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164181,7 +164161,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164191,7 +164171,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164201,7 +164181,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1232 uomo boxer",
+    "name": "art. EB 1232 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164211,7 +164191,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164221,7 +164201,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164231,7 +164211,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164241,7 +164221,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164251,7 +164231,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164261,7 +164241,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164271,7 +164251,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164281,7 +164261,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164291,7 +164271,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1251 uomo boxer",
+    "name": "art. EB 1251 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164301,7 +164281,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1254 uomo boxer",
+    "name": "art. EB 1254 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164311,7 +164291,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1254 uomo boxer",
+    "name": "art. EB 1254 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164321,7 +164301,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1254 uomo boxer",
+    "name": "art. EB 1254 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164331,7 +164311,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1254 uomo boxer",
+    "name": "art. EB 1254 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164341,7 +164321,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1254 uomo boxer",
+    "name": "art. EB 1254 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164351,7 +164331,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1256 uomo boxer",
+    "name": "art. EB 1256 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164361,7 +164341,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1256 uomo boxer",
+    "name": "art. EB 1256 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164371,7 +164351,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1256 uomo boxer",
+    "name": "art. EB 1256 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164381,7 +164361,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1256 uomo boxer",
+    "name": "art. EB 1256 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164391,7 +164371,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1256 uomo boxer",
+    "name": "art. EB 1256 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164401,7 +164381,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1266 uomo boxer",
+    "name": "art. EB 1266 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -164411,7 +164391,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1268 uomo boxer",
+    "name": "art. EB 1268 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164421,7 +164401,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1268 uomo boxer",
+    "name": "art. EB 1268 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164431,7 +164411,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1268 uomo boxer",
+    "name": "art. EB 1268 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164441,7 +164421,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1268 uomo boxer",
+    "name": "art. EB 1268 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -164451,7 +164431,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1270 uomo boxer",
+    "name": "art. EB 1270 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164461,7 +164441,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1270 uomo boxer",
+    "name": "art. EB 1270 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164471,7 +164451,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1270 uomo boxer",
+    "name": "art. EB 1270 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164481,7 +164461,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1270 uomo boxer",
+    "name": "art. EB 1270 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -164491,7 +164471,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB1270 uomo boxer",
+    "name": "art. EB 1270 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -164996,16 +164976,6 @@
     "density": "",
     "size": "7-XXL",
     "color": "Blu",
-    "price": 555.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "ES1270 uomo slip",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Jeans",
     "price": 555.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
