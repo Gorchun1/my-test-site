@@ -13064,6 +13064,16 @@
     "name": "DONNA MICRO 160",
     "menu": "Колготки",
     "density": "160 DEN",
+    "size": "4-L",
+    "color": "Nero",
+    "price": 666,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "DONNA MICRO 160",
+    "menu": "Колготки",
+    "density": "160 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 666,
@@ -13435,6 +13445,16 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "6-XXL",
+    "color": "Moka",
+    "price": 500,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MULTIFIBRA 70 MAXI",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "7-XXXL",
     "color": "Moka",
     "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -14834,16 +14854,6 @@
     "name": "PIUMA 260",
     "menu": "Колготки",
     "density": "260 DEN",
-    "size": "4-L",
-    "color": "Blu Scuro",
-    "price": 600,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "PIUMA 260",
-    "menu": "Колготки",
-    "density": "260 DEN",
     "size": "2-S",
     "color": "Grigio Scuro",
     "price": 600,
@@ -15055,16 +15065,6 @@
     "menu": "Леггинсы",
     "density": "260 DEN",
     "size": "2-S",
-    "color": "Nero",
-    "price": 273,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "SHORTS PIUMA 260",
-    "menu": "Леггинсы",
-    "density": "260 DEN",
-    "size": "3-M",
     "color": "Nero",
     "price": 273,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -15207,26 +15207,6 @@
     "size": "3-M",
     "color": "Nero",
     "price": 273,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "LA SFERA SLIM 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 218,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "LA SFERA SLIM 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "3-M",
-    "color": "Nero",
-    "price": 218,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16814,6 +16794,16 @@
     "name": "PARIGINA JACQUARD var. 1",
     "menu": "Чулки",
     "density": "-",
+    "size": "39-41",
+    "color": "Grigio Melange",
+    "price": 500,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "PARIGINA JACQUARD var. 1",
+    "menu": "Чулки",
+    "density": "-",
     "size": "35-38",
     "color": "Grigio Melange",
     "price": 500,
@@ -16866,6 +16856,16 @@
     "density": "-",
     "size": "UNICA",
     "color": "Avorio",
+    "price": 400,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "SCALDAMUSCOLO var. 5",
+    "menu": "Чулки",
+    "density": "-",
+    "size": "UNICA",
+    "color": "Nero",
     "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -17105,6 +17105,16 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": "UNICA",
+    "color": "Fumo",
+    "price": 220,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
     "color": "Nero",
     "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -17116,6 +17126,26 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Moka",
+    "price": 220,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
+    "color": "Bianco",
+    "price": 220,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "MICRO 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
+    "color": "Mosto",
     "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -27925,16 +27955,6 @@
     "menu": "Колготки",
     "density": "30 DEN",
     "size": "2-S",
-    "color": "Nero",
-    "price": 378.57,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "MEMORIES 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "5-XL",
     "color": "Nero",
     "price": 378.57,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -45975,6 +45995,16 @@
     "menu": "Колготки",
     "density": "-",
     "size": "152-158",
+    "color": "Bordo",
+    "price": 328,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "kids art. 11C01 collant",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "152-158",
     "color": "Nero",
     "price": 328,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -46104,6 +46134,16 @@
     "name": "kids art. 11C01 collant",
     "menu": "Колготки",
     "density": "-",
+    "size": "128-134",
+    "color": "Blu Chiaro",
+    "price": 328,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "kids art. 11C01 collant",
+    "menu": "Колготки",
+    "density": "-",
     "size": "140-146",
     "color": "Blu Chiaro",
     "price": 328,
@@ -46414,6 +46454,16 @@
     "name": "kids art. 21C02 calzini",
     "menu": "Носки",
     "density": "всесезонные",
+    "size": "23-26",
+    "color": "Erbа",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "kids art. 21C02 calzini",
+    "menu": "Носки",
+    "density": "всесезонные",
     "size": "27-30",
     "color": "Erbа",
     "price": 66,
@@ -46686,6 +46736,16 @@
     "density": "всесезонные",
     "size": "35-38",
     "color": "Blu",
+    "price": 66,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA",
+    "name": "kids art. 21C02 calzini",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "31-34",
+    "color": "Rosso",
     "price": 66,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -49461,16 +49521,6 @@
   },
   {
     "brand": "SISI",
-    "name": "FASCINO 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "4-L",
-    "color": "Daino",
-    "price": 333,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
     "name": "FASCINO 40",
     "menu": "Колготки",
     "density": "40 DEN",
@@ -50504,6 +50554,16 @@
     "name": "INVISIBLE 30 control top",
     "menu": "Колготки",
     "density": "30 DEN",
+    "size": "4-L",
+    "color": "Nero",
+    "price": 492,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI",
+    "name": "INVISIBLE 30 control top",
+    "menu": "Колготки",
+    "density": "30 DEN",
     "size": "2-S",
     "color": "Nero",
     "price": 492,
@@ -50867,6 +50927,16 @@
     "size": "5-XL",
     "color": "Miele",
     "price": 933,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI",
+    "name": "MICRO SENSE 100",
+    "menu": "Колготки",
+    "density": "100 DEN",
+    "size": "5-XL",
+    "color": "Nero",
+    "price": 251,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -53885,6 +53955,16 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "3-M",
+    "color": "Nero",
+    "price": 820,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PHILIPPE MATIGNON",
+    "name": "REVITALISE 70",
+    "menu": "Колготки",
+    "density": "70 DEN",
+    "size": "5-XL",
     "color": "Nero",
     "price": 820,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -68485,6 +68565,16 @@
     "menu": "Колготки",
     "density": "20 DEN",
     "size": "4-XL",
+    "color": "Sun",
+    "price": 1290,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "DIFFERENT 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "4-XL",
     "color": "Black",
     "price": 1290,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -68566,6 +68656,16 @@
     "density": "40 DEN",
     "size": "1-S",
     "color": "Black",
+    "price": 1353,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "DIFFERENT 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "4-XL",
+    "color": "Sun",
     "price": 1353,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -72337,6 +72437,16 @@
     "size": "ONE SIZE",
     "color": "Black",
     "price": 885,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "SOLANGE LIGHT, 2 pairs",
+    "menu": "Носочки",
+    "density": "-",
+    "size": "ONE SIZE",
+    "color": "Neutre",
+    "price": 607,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -78531,16 +78641,6 @@
   },
   {
     "brand": "RELAXSAN",
-    "name": "art. M1450S GAMBALETTO 280 OPEN TOE",
-    "menu": "Гольфы",
-    "density": "280 DEN",
-    "size": 5,
-    "color": "36 Beige",
-    "price": 1288,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
     "name": "art. M1150 MEDICALE SOFT gambaletto",
     "menu": "Гольфы",
     "density": "-",
@@ -79075,6 +79175,16 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "39-41",
+    "color": "Beige",
+    "price": 100,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "art. 1201 COTONE",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "35-38",
     "color": "Beige",
     "price": 100,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -79787,16 +79897,6 @@
     "size": "35-38",
     "color": "Giallo",
     "price": 66,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 4203 TREND",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "35-38",
-    "color": "Nero",
-    "price": 87,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -90454,16 +90554,6 @@
     "name": "IBU 35002 boxers",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "7(2XL)",
-    "color": "Turchino",
-    "price": 564.26,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for men",
-    "name": "IBU 35002 boxers",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "5(L)",
     "color": "Grigio Melange",
     "price": 564.26,
@@ -95975,16 +96065,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
-    "color": "Avorio",
-    "price": 414.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 243 slip maxi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Avorio",
     "price": 414.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -102325,16 +102405,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
-    "color": "Bacche",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR261 brasiliana ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
     "color": "Bacche",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -110184,6 +110254,16 @@
     "name": "art. OmB 1223 SLIP",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "5-L",
+    "color": "Grigio Melange",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1223 SLIP",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "4-M",
     "color": "Blu Scuro",
     "price": 453.33,
@@ -110686,16 +110766,6 @@
     "density": "",
     "size": "5-L",
     "color": "Militari",
-    "price": 566.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1233 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Nero",
     "price": 566.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -116084,16 +116154,6 @@
     "name": "art. Si5503 brasiliana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "M(46)",
-    "color": "Nero",
-    "price": 414.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5503 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XL(50)",
     "color": "Nero",
     "price": 414.8,
@@ -120775,16 +120835,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(XS)",
-    "color": "Cipria",
-    "price": 547.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 518 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(S)",
     "color": "Cipria",
     "price": 547.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -125806,16 +125856,6 @@
     "density": "",
     "size": "3(S)",
     "color": "Nero",
-    "price": 529.27,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 8003 PANTY",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(S)",
-    "color": "Cipria",
     "price": 529.27,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -133544,16 +133584,6 @@
     "name": "art. BX326 SHORTS PLAIT",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L",
-    "color": "Nero",
-    "price": 669.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "art. BX326 SHORTS PLAIT",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M",
     "color": "Cinnamon",
     "price": 669.8,
@@ -138126,16 +138156,6 @@
     "density": "",
     "size": "S/M",
     "color": "Iris",
-    "price": 539.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "art. SL617 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XXL",
-    "color": "Powder",
     "price": 539.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -166751,7 +166771,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1082 HOMEWEAR",
+    "name": "art. EP 1082 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -166761,7 +166781,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1082 HOMEWEAR",
+    "name": "art. EP 1082 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -166771,7 +166791,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1082 HOMEWEAR",
+    "name": "art. EP 1082 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -166781,7 +166801,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1086 HOMEWEAR",
+    "name": "art. EP 1086 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -166791,7 +166811,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1086 HOMEWEAR",
+    "name": "art. EP 1086 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -166801,7 +166821,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1088 MAXI HOMEWEAR",
+    "name": "art. EP 1088 MAXI HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
@@ -166811,7 +166831,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1088 MAXI HOMEWEAR",
+    "name": "art. EP 1088 MAXI HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "10-5XL",
@@ -166821,7 +166841,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1088 MAXI HOMEWEAR",
+    "name": "art. EP 1088 MAXI HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "9-4XL",
@@ -166831,7 +166851,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1088 MAXI HOMEWEAR",
+    "name": "art. EP 1088 MAXI HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "10-5XL",
@@ -166841,7 +166861,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1088 MAXI HOMEWEAR",
+    "name": "art. EP 1088 MAXI HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
@@ -166851,7 +166871,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1089 HOMEWEAR",
+    "name": "art. EP 1089 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -166861,7 +166881,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1089 HOMEWEAR",
+    "name": "art. EP 1089 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -166871,7 +166891,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1089 HOMEWEAR",
+    "name": "art. EP 1089 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
@@ -166881,7 +166901,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1089 HOMEWEAR",
+    "name": "art. EP 1089 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -166891,7 +166911,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1099 MAXI HOMEWEAR",
+    "name": "art. EP 1099 MAXI HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
@@ -166901,7 +166921,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1099 MAXI HOMEWEAR",
+    "name": "art. EP 1099 MAXI HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "9-4XL",
@@ -166911,7 +166931,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EP1099 MAXI HOMEWEAR",
+    "name": "art. EP 1099 MAXI HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "9-4XL",
@@ -166981,7 +167001,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB4056 boy boxer",
+    "name": "art. EB 4056 BOXER boy",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5/6",
@@ -166991,7 +167011,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB4056 boy boxer",
+    "name": "art. EB 4056 BOXER boy",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3/4",
@@ -167001,7 +167021,7 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "EB4056 boy boxer",
+    "name": "art. EB 4056 BOXER boy",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3/4",
@@ -169015,16 +169035,6 @@
     "menu": "Бельё Мужское",
     "density": "250 г/м",
     "size": 134,
-    "color": "Чёрный",
-    "price": 1936.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OXOUNO",
-    "name": "OXO-0098 set boy THERMAL CITY",
-    "menu": "Бельё Мужское",
-    "density": "250 г/м",
-    "size": 146,
     "color": "Чёрный",
     "price": 1936.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
