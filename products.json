@@ -110774,16 +110774,6 @@
     "name": "art. OmB 1234 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "3-S",
-    "color": "Blu Scuro",
-    "price": 528.13,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1234 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "4-M",
     "color": "Bordo",
     "price": 528.13,
@@ -163071,7 +163061,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3205 uomo boxer",
+    "name": "art. 3205 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -163081,7 +163071,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3205 uomo boxer",
+    "name": "art. 3205 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -163091,7 +163081,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3205 uomo boxer",
+    "name": "art. 3205 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -163101,7 +163091,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3205 uomo boxer",
+    "name": "art. 3205 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -163111,7 +163101,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3205 uomo boxer",
+    "name": "art. 3205 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
@@ -163121,7 +163111,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3205 uomo boxer",
+    "name": "art. 3205 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
@@ -163131,7 +163121,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3205 uomo boxer",
+    "name": "art. 3205 boxer",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
@@ -163141,7 +163131,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3211 maxi uomo boxer",
+    "name": "art. 3211 boxer extra size",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
@@ -163151,7 +163141,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3211 maxi uomo boxer",
+    "name": "art. 3211 boxer extra size",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "9-4XL",
@@ -163161,7 +163151,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3211 maxi uomo boxer",
+    "name": "art. 3211 boxer extra size",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
@@ -163171,7 +163161,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3211 maxi uomo boxer",
+    "name": "art. 3211 boxer extra size",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
@@ -163181,7 +163171,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "3211 maxi uomo boxer",
+    "name": "art. 3211 boxer extra size",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "9-4XL",
@@ -163191,7 +163181,7 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "B212 uomo boxer, 3 pezzi",
+    "name": "art. B212 boxer, set 3 pezzi",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
@@ -163381,6 +163371,46 @@
   },
   {
     "brand": "PRIMAL",
+    "name": "S212 uomo slip, 3 pezzi",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Multicolore",
+    "price": 837.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PRIMAL",
+    "name": "S212 uomo slip, 3 pezzi",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "3-S",
+    "color": "Multicolore",
+    "price": 837.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PRIMAL",
+    "name": "S287 uomo slip, 3 pezzi",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Multicolore",
+    "price": 1047.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PRIMAL",
+    "name": "S287 uomo slip, 3 pezzi",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "3-S",
+    "color": "Multicolore",
+    "price": 1047.6,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PRIMAL",
     "name": "8102 maxi uomo canotta",
     "menu": "Бельё Мужское",
     "density": "",
@@ -163467,46 +163497,6 @@
     "size": "6-XL",
     "color": "Blu",
     "price": 908.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "S212 uomo slip, 3 pezzi",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Multicolore",
-    "price": 837.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "S212 uomo slip, 3 pezzi",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Multicolore",
-    "price": 837.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "S287 uomo slip, 3 pezzi",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Multicolore",
-    "price": 1047.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "S287 uomo slip, 3 pezzi",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Multicolore",
-    "price": 1047.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -168377,16 +168367,6 @@
     "size": "5-L",
     "color": "Dark Blue",
     "price": 984,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OXOUNO",
-    "name": "OXO-0025 pants men THERMAL CITY",
-    "menu": "Бельё Мужское",
-    "density": "250 г/м",
-    "size": "M",
-    "color": "Чёрный",
-    "price": 1580.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
