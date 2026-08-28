@@ -2164,6 +2164,16 @@
     "name": "FLEUR 20",
     "menu": "Колготки",
     "density": "20 DEN",
+    "size": "2-S",
+    "color": "Miele",
+    "price": 219.9,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE",
+    "name": "FLEUR 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
     "size": "5-XL",
     "color": "Miele",
     "price": 219.9,
@@ -3096,16 +3106,6 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 239.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
-    "name": "SENSI 40 vita bassa",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "3-M",
-    "color": "Cappuccino",
     "price": 239.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -10934,16 +10934,6 @@
     "name": "kids MICRO 50",
     "menu": "Колготки",
     "density": "50 DEN",
-    "size": "152-158",
-    "color": "Melon",
-    "price": 274.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "kids MICRO 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
     "size": "116-122",
     "color": "Nero",
     "price": 274.9,
@@ -11054,16 +11044,6 @@
     "name": "kids art. BC002 collant cotone",
     "menu": "Колготки",
     "density": "-",
-    "size": "116-122",
-    "color": "Bianco",
-    "price": 354.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "kids art. BC002 collant cotone",
-    "menu": "Колготки",
-    "density": "-",
     "size": "128-134",
     "color": "Bianco",
     "price": 354.9,
@@ -11076,16 +11056,6 @@
     "density": "-",
     "size": "140-146",
     "color": "Bianco",
-    "price": 354.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "kids art. BC002 collant cotone",
-    "menu": "Колготки",
-    "density": "-",
-    "size": "128-134",
-    "color": "Blu",
     "price": 354.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -31174,16 +31144,6 @@
     "name": "for girls BALLET 60 leggings",
     "menu": "Леггинсы",
     "density": "60 DEN",
-    "size": "128-134",
-    "color": "Nero",
-    "price": 257.76,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "for girls BALLET 60 leggings",
-    "menu": "Леггинсы",
-    "density": "60 DEN",
     "size": "140-146",
     "color": "Nero",
     "price": 257.76,
@@ -38396,16 +38356,6 @@
     "density": "20 DEN",
     "size": "6-2XL",
     "color": "Nero",
-    "price": 186,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "LADY 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "7-3XL",
-    "color": "Daino",
     "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -51844,16 +51794,6 @@
     "name": "TOP COMFORT 30",
     "menu": "Колготки",
     "density": "30 DEN",
-    "size": "4-L",
-    "color": "Cappuccio",
-    "price": 400,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "TOP COMFORT 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
     "size": "2-S",
     "color": "Playa",
     "price": 400,
@@ -52356,16 +52296,6 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Cappuccio",
-    "price": 453,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "NINFA 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "3-M",
-    "color": "Abbronzante",
     "price": 453,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -81244,16 +81174,6 @@
     "name": "art. 105 ACTIVE",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "42-44",
-    "color": "Nero",
-    "price": 133,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 105 ACTIVE",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "45-47",
     "color": "Nero",
     "price": 133,
@@ -82955,6 +82875,16 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "39-41",
+    "color": "Чёрно-синий",
+    "price": 301,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SERGIO di CALZE",
+    "name": "art. 15SC3 cotton",
+    "menu": "Носки",
+    "density": "всесезонные",
+    "size": "43-45",
     "color": "Чёрно-синий",
     "price": 301,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -84746,16 +84676,6 @@
     "density": "",
     "size": "1(XS)",
     "color": "Bianco",
-    "price": 286.93,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD ACACIA 37339 brasilian slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "1(XS)",
-    "color": "Beige",
     "price": 286.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -94344,6 +94264,16 @@
     "name": "art. BO 213 string",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M(46)",
+    "color": "Nero",
+    "price": 301.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 213 string",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "XL(50)",
     "color": "Nudo",
     "price": 301.47,
@@ -94386,6 +94316,16 @@
     "density": "",
     "size": "S(44)",
     "color": "Nudo",
+    "price": 301.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 213 string",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Nero",
     "price": 301.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -94635,6 +94575,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
+    "color": "Blu Notte",
+    "price": 264.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 221 slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Blu Notte",
     "price": 264.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -95294,7 +95244,47 @@
     "name": "art. BO 242 slip maxi",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "2XL(52)",
+    "color": "Blu Notte",
+    "price": 346.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 242 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "XL(50)",
+    "color": "Nero",
+    "price": 346.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 242 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Nudo",
+    "price": 346.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 242 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Nero",
+    "price": 346.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 242 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
     "color": "Nudo",
     "price": 346.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -95514,6 +95504,16 @@
     "name": "art. BO 242 slip maxi",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "3XL(54)",
+    "color": "Blu Notte",
+    "price": 346.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BO 242 slip maxi",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L(48)",
     "color": "Blu Notte",
     "price": 346.8,
@@ -95685,16 +95685,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Nudo",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 261 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
     "color": "Nudo",
     "price": 377.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -96066,16 +96056,6 @@
     "density": "",
     "size": "2XL(52)",
     "color": "Avorio",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 261 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
-    "color": "Nudo",
     "price": 377.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -99515,6 +99495,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
+    "color": "Lemon",
+    "price": 210.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BMi_F2610 brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
     "color": "Rosa Antico",
     "price": 210.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -99624,6 +99614,16 @@
     "name": "art. M2S231 panty",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "L(48)",
+    "color": "Bianco",
+    "price": 226.67,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. M2S231 panty",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "XL(50)",
     "color": "Bianco",
     "price": 226.67,
@@ -102314,7 +102314,27 @@
     "name": "art. Mi 2251 MS slip silhouette",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M/L",
+    "color": "Nero",
+    "price": 680,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. Mi 2251 MS slip silhouette",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "S/M",
+    "color": "Beige",
+    "price": 680,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. Mi 2251 MS slip silhouette",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M/L",
     "color": "Beige",
     "price": 680,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -104601,16 +104621,6 @@
   },
   {
     "brand": "OMSA underwear for women",
-    "name": "art. OmD 2231 COTTON slip maxi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
-    "color": "Beige",
-    "price": 754.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
     "name": "art. OmD 1112 INVISIBLE top",
     "menu": "Бельё Женское",
     "density": "",
@@ -106225,16 +106235,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
-    "color": "Nudo",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmD 2231 INVISIBLE slip maxi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "2XL(52)",
     "color": "Nudo",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -108744,6 +108744,16 @@
     "name": "art. OmS 222 SEAMLESS slip midi",
     "menu": "Бельё Женское",
     "density": "",
+    "size": "M",
+    "color": "Cielo",
+    "price": 377.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmS 222 SEAMLESS slip midi",
+    "menu": "Бельё Женское",
+    "density": "",
     "size": "L",
     "color": "Cielo",
     "price": 377.4,
@@ -109215,6 +109225,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL(50)",
+    "color": "Nero",
+    "price": 830.73,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmT D1201 ACTIVE t-shirt",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2XL(52)",
     "color": "Nero",
     "price": 830.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -109794,8 +109814,28 @@
     "name": "art. OmB 1223 SLIP",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "8-3XL",
+    "color": "Grigio Melange",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1223 SLIP",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "4-M",
     "color": "Blu Scuro",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1223 SLIP",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "9-4XL",
+    "color": "Grigio Melange",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -109874,6 +109914,16 @@
     "name": "art. OmB 1223 SLIP",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "8-3XL",
+    "color": "Grigio Scuro",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1223 SLIP",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "5-L",
     "color": "Bordo",
     "price": 453.33,
@@ -109895,6 +109945,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-2XL",
+    "color": "Bordo",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1223 SLIP",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "9-4XL",
     "color": "Bordo",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -110254,16 +110314,6 @@
     "name": "art. OmB 1233 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "5-L",
-    "color": "Militari",
-    "price": 566.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1233 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "4-M",
     "color": "Blu Scuro",
     "price": 566.67,
@@ -110454,6 +110504,16 @@
     "name": "art. OmB 1233 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "9-4XL",
+    "color": "Grigio Scuro",
+    "price": 566.67,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1233 BOXER",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "7-2XL",
     "color": "Grigio Scuro",
     "price": 566.67,
@@ -110584,8 +110644,8 @@
     "name": "art. OmB 1234 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
-    "color": "Blu Scuro",
+    "size": "5-L",
+    "color": "Nero",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -110594,7 +110654,7 @@
     "name": "art. OmB 1234 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "5-L",
+    "size": "4-M",
     "color": "Blu Scuro",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -111104,6 +111164,16 @@
     "name": "art. OmB 1243-1 SHORTS",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "5-L",
+    "color": "Nero",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "8-3XL",
     "color": "Blu",
     "price": 528.13,
@@ -111115,6 +111185,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
+    "color": "Blu",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-2XL",
     "color": "Blu",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -111136,6 +111216,26 @@
     "density": "",
     "size": "6-XL",
     "color": "Blu",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
+    "color": "Blu Notte",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5-L",
+    "color": "Blu Notte",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -111175,6 +111275,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
+    "color": "Nero",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4-M",
     "color": "Blu",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -111194,7 +111304,57 @@
     "name": "art. OmB 1243-1 SHORTS",
     "menu": "Бельё Мужское",
     "density": "",
+    "size": "8-3XL",
+    "color": "Nero",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-2XL",
+    "color": "Nero",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
+    "color": "Nero",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
     "size": "9-4XL",
+    "color": "Blu Notte",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7-2XL",
+    "color": "Blu Notte",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
     "color": "Blu Notte",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -111265,6 +111425,16 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
+    "color": "Bordo",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OmB 1243-1 SHORTS",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "9-4XL",
     "color": "Bordo",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -112805,16 +112975,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
-    "color": "Bianco",
-    "price": 680,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 3234 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-2XL",
     "color": "Bianco",
     "price": 680,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -114477,6 +114637,46 @@
     "size": "8-3XL",
     "color": "Grafite",
     "price": 906.67,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMU 1611T PV thermo longsleeve",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Nero",
+    "price": 1434.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMU 1611T PV thermo longsleeve",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "L(48)",
+    "color": "Nero",
+    "price": 1434.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMU 1611T PV thermo longsleeve",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Nero",
+    "price": 1434.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for men",
+    "name": "art. OMU 1611T PV thermo longsleeve",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "2XL(52)",
+    "color": "Nero",
+    "price": 1434.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -159601,16 +159801,6 @@
   },
   {
     "brand": "LEILIEVE",
-    "name": "art. 991 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5 (85C)",
-    "color": "Blu",
-    "price": 2712,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
     "name": "art. 992 slip",
     "menu": "Бельё Женское",
     "density": "",
@@ -162844,16 +163034,6 @@
     "name": "art. 3205 boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "7-XXL",
-    "color": "Nero",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. 3205 boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "4-M",
     "color": "Blu",
     "price": 604.07,
@@ -162886,36 +163066,6 @@
     "density": "",
     "size": "6-XL",
     "color": "Grigio Melange",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. 3205 boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Nero",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. 3205 boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Grigio Melange",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. 3205 boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -162974,58 +163124,8 @@
     "name": "art. MIX boxer var. 1",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
-    "color": "Grigio",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 1",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Grigio",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 1",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "6-XL",
     "color": "Grigio",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 1",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Grigio",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 1",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Grigio",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 2",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163051,46 +163151,6 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 2",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 2",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 3",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 3",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
     "name": "art. MIX boxer var. 3",
     "menu": "Бельё Мужское",
     "density": "",
@@ -163101,70 +163161,10 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 3",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 3",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 4",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 4",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
     "name": "art. MIX boxer var. 4",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 4",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 4",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
     "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -163184,16 +163184,6 @@
     "name": "art. MIX boxer var. 5",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
-    "color": "Grigio",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 5",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "6-XL",
     "color": "Grigio",
     "price": 604.07,
@@ -163204,38 +163194,8 @@
     "name": "art. MIX boxer var. 5",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "3-S",
-    "color": "Grigio",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 5",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "7-XXL",
     "color": "Grigio",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 6",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 6",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Grigio/blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163245,46 +163205,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 6",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 6",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 7",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 7",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
     "color": "Grigio/blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -163311,90 +163231,10 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 7",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 8",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 8",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 8",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
     "name": "art. MIX boxer var. 8",
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 8",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 9",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 9",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 9",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
     "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -163411,131 +163251,31 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 9",
+    "name": "art. MIX boxer var. 10",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
+    "size": "6-XL",
+    "color": "Grigio/blu",
+    "price": 604.07,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PRIMAL",
+    "name": "art. MIX boxer var. 11",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6-XL",
     "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
     "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 10",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 10",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 10",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 10",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 10",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Grigio/blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 11",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 11",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 11",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 11",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 11",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
     "name": "art. MIX boxer var. 12",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "4-M",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 12",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Multicolore",
+    "size": "6-XL",
+    "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163545,47 +163285,7 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 12",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 12",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 13",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 13",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Multicolore",
+    "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163595,7 +163295,7 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Multicolore",
+    "color": "Nero",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163605,7 +163305,7 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
-    "color": "Multicolore",
+    "color": "Nero",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163615,27 +163315,7 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "7-XXL",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 14",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 14",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Multicolore",
+    "color": "Nero",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163645,7 +163325,7 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Multicolore",
+    "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163655,17 +163335,7 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "6-XL",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 14",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Multicolore",
+    "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163675,47 +163345,7 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 15",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "3-S",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 15",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 15",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Multicolore",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 15",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Multicolore",
+    "color": "Grigio",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
