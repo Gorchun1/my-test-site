@@ -26096,7 +26096,7 @@
     "density": "200 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 419,
+    "price": 419.69,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26106,7 +26106,7 @@
     "density": "200 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 419,
+    "price": 419.69,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26116,7 +26116,7 @@
     "density": "200 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 419,
+    "price": 419.69,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26126,7 +26126,7 @@
     "density": "200 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 482,
+    "price": 482.08,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26136,7 +26136,7 @@
     "density": "200 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 482,
+    "price": 482.08,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26146,7 +26146,7 @@
     "density": "300 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 552,
+    "price": 552.57,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26156,7 +26156,7 @@
     "density": "300 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 552,
+    "price": 552.57,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26166,7 +26166,7 @@
     "density": "300 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 552,
+    "price": 552.57,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26176,7 +26176,7 @@
     "density": "300 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 637,
+    "price": 637.56,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -26186,7 +26186,7 @@
     "density": "300 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 637,
+    "price": 637.56,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -72934,7 +72934,37 @@
     "name": "art. 1HF1 NUDE SATINE 12",
     "menu": "Колготки",
     "density": "12 DEN",
+    "size": "3-L",
+    "color": "Nude",
+    "price": 1555,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LE BOURGET",
+    "name": "art. 1HF1 NUDE SATINE 12",
+    "menu": "Колготки",
+    "density": "12 DEN",
+    "size": "2-M",
+    "color": "Nude",
+    "price": 1555,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LE BOURGET",
+    "name": "art. 1HF1 NUDE SATINE 12",
+    "menu": "Колготки",
+    "density": "12 DEN",
     "size": "1-S",
+    "color": "Nude",
+    "price": 1555,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "LE BOURGET",
+    "name": "art. 1HF1 NUDE SATINE 12",
+    "menu": "Колготки",
+    "density": "12 DEN",
+    "size": "4-XL",
     "color": "Nude",
     "price": 1555,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -73146,16 +73176,6 @@
     "density": "15 DEN",
     "size": "2-M",
     "color": "Noir",
-    "price": 1759,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LE BOURGET",
-    "name": "art. 1RJ1 TRASPARENT MAT 15 microfibre",
-    "menu": "Колготки",
-    "density": "15 DEN",
-    "size": "3-L",
-    "color": "Nearly Black",
     "price": 1759,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -74304,7 +74324,7 @@
     "name": "NUDE 15 collant",
     "menu": "Колготки",
     "density": "15 DEN",
-    "size": "3-L",
+    "size": "4-XL",
     "color": "Nudo",
     "price": 2292,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -74324,8 +74344,8 @@
     "name": "NUDE 15 collant",
     "menu": "Колготки",
     "density": "15 DEN",
-    "size": "1-S",
-    "color": "Caribe",
+    "size": "2-M",
+    "color": "Nudo",
     "price": 2292,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -74334,8 +74354,8 @@
     "name": "NUDE 15 collant",
     "menu": "Колготки",
     "density": "15 DEN",
-    "size": "2-M",
-    "color": "Nudo",
+    "size": "1-S",
+    "color": "Caribe",
     "price": 2292,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -74376,6 +74396,16 @@
     "density": "15 DEN",
     "size": "3-L",
     "color": "Caribe",
+    "price": 2292,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "PIERRE MANTOUX",
+    "name": "NUDE 15 collant",
+    "menu": "Колготки",
+    "density": "15 DEN",
+    "size": "3-L",
+    "color": "Nudo",
     "price": 2292,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -79175,16 +79205,6 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "39-41",
-    "color": "Jeans",
-    "price": 113,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "art. 1202 COTONE",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "39-41",
     "color": "Bordo",
     "price": 113,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -81204,16 +81224,6 @@
     "name": "art. 105 ACTIVE",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "42-44",
-    "color": "Nero",
-    "price": 133,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 105 ACTIVE",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "39-41",
     "color": "Bianco",
     "price": 133,
@@ -82635,16 +82645,6 @@
     "menu": "Носки",
     "density": "всесезонные",
     "size": "38-41",
-    "color": "Фиолетовый",
-    "price": 283,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GRINSTON",
-    "name": "art. 15D22 cotton mercerized",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "38-41",
     "color": "Серо-голубой",
     "price": 283,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -82915,16 +82915,6 @@
     "menu": "Носки",
     "density": "осенне-зимние",
     "size": "41-43",
-    "color": "Темно-синий",
-    "price": 409,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SERGIO di CALZE",
-    "name": "art. 15SC10 wool merino",
-    "menu": "Носки",
-    "density": "осенне-зимние",
-    "size": "43-45",
     "color": "Темно-синий",
     "price": 409,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -100426,16 +100416,6 @@
     "density": "",
     "size": "S(44)",
     "color": "Caramello",
-    "price": 301.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR222 slip midi ribana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
-    "color": "Vaniglia",
     "price": 301.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -123094,16 +123074,6 @@
     "name": "art. 8001 BRASILIANA",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "4(M)",
-    "color": "Cipria",
-    "price": 550.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 8001 BRASILIANA",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "3(S)",
     "color": "Nero",
     "price": 550.8,
@@ -129745,16 +129715,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
-    "color": "Nero",
-    "price": 1008.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "art. BR329 TOP PUSH UP spalla larga",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL",
     "color": "Nero",
     "price": 1008.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
