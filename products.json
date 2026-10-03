@@ -37235,16 +37235,6 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "2-S",
-    "color": "Visone",
-    "price": 300,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "GOLDEN LADY",
-    "name": "CIAO 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "2-S",
     "color": "Fumo",
     "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -40667,16 +40657,6 @@
     "size": "6-XXL",
     "color": "Fumo",
     "price": 533,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "ATTIVA 70 XXL PLUS SIZE",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "6-XXL",
-    "color": "Caramello",
-    "price": 486,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -82304,16 +82284,6 @@
     "name": "art. 15SC10 wool merino",
     "menu": "Носки",
     "density": "осенне-зимние",
-    "size": "43-45",
-    "color": "Чёрный",
-    "price": 409,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SERGIO di CALZE",
-    "name": "art. 15SC10 wool merino",
-    "menu": "Носки",
-    "density": "осенне-зимние",
     "size": "39-41",
     "color": "Бордовый",
     "price": 409,
@@ -95875,6 +95845,16 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
+    "color": "Militari",
+    "price": 717.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BMi_A2911 leggings",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
     "color": "Nero",
     "price": 717.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -97716,6 +97696,16 @@
     "density": "",
     "size": "L(48)",
     "color": "Erba Chiaro",
+    "price": 210.8,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI intimo",
+    "name": "art. BMi_F2610 brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Lilla",
     "price": 210.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -144301,7 +144291,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -144311,7 +144301,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -144321,7 +144311,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -144331,7 +144321,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "XL",
@@ -144341,7 +144331,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -144351,7 +144341,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -144361,7 +144351,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -144371,7 +144361,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "M",
@@ -144381,7 +144371,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "L",
@@ -144391,7 +144381,7 @@
   },
   {
     "brand": "OROBLU underwear",
-    "name": "art. VOBT01499 BRAZILIAN BRIEFS perfect fit - soft microfiber",
+    "name": "art. VOBT01499 BRASILIAN BRIEFS perfect fit - soft microfiber",
     "menu": "Бельё Женское",
     "density": "",
     "size": "S",
@@ -160781,16 +160771,6 @@
   },
   {
     "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 11",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
     "name": "art. MIX boxer var. 12",
     "menu": "Бельё Мужское",
     "density": "",
@@ -160835,16 +160815,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Blu",
-    "price": 604.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PRIMAL",
-    "name": "art. MIX boxer var. 14",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
     "color": "Blu",
     "price": 604.07,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -161445,16 +161415,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "4-M",
-    "color": "Grigio Ch. Melange",
-    "price": 579.13,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "IL GRANCHIO",
-    "name": "art. GB 1202 boxer var. GRIGIO",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
     "color": "Grigio Ch. Melange",
     "price": 579.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -162481,16 +162441,6 @@
   },
   {
     "brand": "IL GRANCHIO",
-    "name": "art. GP 343 HOMEWEAR var. GRIGIO CH.",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Grigio Ch. Melange",
-    "price": 2833.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "IL GRANCHIO",
     "name": "art. GP 343 HOMEWEAR var. JEANS",
     "menu": "Бельё Мужское",
     "density": "",
@@ -162506,16 +162456,6 @@
     "density": "",
     "size": "7-XXL",
     "color": "Jeans Melange",
-    "price": 2833.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "IL GRANCHIO",
-    "name": "art. GP 345 HOMEWEAR var. AVIO",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Avio",
     "price": 2833.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -163485,16 +163425,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5-L",
-    "color": "Grigio Melange",
-    "price": 1328.27,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. ET 1204 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
     "color": "Grigio Melange",
     "price": 1328.27,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
