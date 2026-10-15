@@ -5525,16 +5525,6 @@
     "menu": "Чулки",
     "density": "40 DEN",
     "size": "S/M",
-    "color": "Fumo",
-    "price": 464.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
-    "name": "FLIRT 40 autoreggente",
-    "menu": "Чулки",
-    "density": "40 DEN",
-    "size": "S/M",
     "color": "Bianco",
     "price": 464.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -24846,16 +24836,6 @@
     "density": "80 DEN",
     "size": "5-XL",
     "color": "Mocca",
-    "price": 480.28,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "TRIUMF 80 XL",
-    "menu": "Колготки",
-    "density": "80 DEN",
-    "size": "6-XXL",
-    "color": "Nero",
     "price": 480.28,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -51034,16 +51014,6 @@
     "name": "TOP COMFORT 30",
     "menu": "Колготки",
     "density": "30 DEN",
-    "size": "4-L",
-    "color": "Nabuk",
-    "price": 400,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "FILODORO",
-    "name": "TOP COMFORT 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 400,
@@ -68034,16 +68004,6 @@
     "name": "ALL COLORS 50",
     "menu": "Колготки",
     "density": "50 DEN",
-    "size": "S/M",
-    "color": "Sugar Paper",
-    "price": 1151,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "ALL COLORS 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
     "size": "L/XL",
     "color": "Grey 8",
     "price": 1151,
@@ -69185,6 +69145,16 @@
     "menu": "Колготки",
     "density": "-",
     "size": "2-M",
+    "color": "Military 3",
+    "price": 2124,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "NIVES fine wool",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "3-L",
     "color": "Military 3",
     "price": 2124,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -82744,16 +82714,6 @@
     "name": "BD ACACIA 32296 tanga",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3(M)",
-    "color": "Nero",
-    "price": 286.93,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD ACACIA 32296 tanga",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "1(XS)",
     "color": "Bianco",
     "price": 286.93,
@@ -94974,16 +94934,6 @@
     "name": "art. BMi_A2911 leggings",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "XL(50)",
-    "color": "Militari",
-    "price": 717.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_A2911 leggings",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "L(48)",
     "color": "Militari",
     "price": 717.4,
@@ -104985,6 +104935,26 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
+    "color": "Nero",
+    "price": 680,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmS 142 SEAMLESS top sport",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L/XL",
+    "color": "Bianco",
+    "price": 680,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmS 142 SEAMLESS top sport",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S/M",
     "color": "Bianco",
     "price": 680,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -108161,16 +108131,6 @@
   },
   {
     "brand": "OMSA underwear for men",
-    "name": "art. OmB 1243-1 SHORTS",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "9-4XL",
-    "color": "Bordo",
-    "price": 528.13,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
     "name": "art. OmB 1250 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
@@ -108316,16 +108276,6 @@
     "density": "",
     "size": "6-XL",
     "color": "Nero",
-    "price": 528.13,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1265 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Rosso",
     "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
