@@ -27434,16 +27434,6 @@
     "name": "TEMPS 20",
     "menu": "Колготки",
     "density": "20 DEN",
-    "size": "3-M",
-    "color": "Bronz",
-    "price": 561.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "TEMPS 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
     "size": "2-S",
     "color": "Bronz",
     "price": 561.2,
@@ -32221,16 +32211,6 @@
   },
   {
     "brand": "CONTE",
-    "name": "арт. 22С-27СП ACTIVE - 623",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "39-41",
-    "color": "Чёрный",
-    "price": 154.04,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
     "name": "арт. 24С-11СП ACTIVE - 599",
     "menu": "Носки",
     "density": "всесезонные",
@@ -33217,16 +33197,6 @@
     "size": "39-41",
     "color": "Чёрный",
     "price": 185.23,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "арт. 22С-129СП COMFORT - 000",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "36-38",
-    "color": "Темно-серый",
-    "price": 126.23,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -63585,6 +63555,16 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": "UNICA",
+    "color": "Flamingo",
+    "price": 576,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "TRASPARENZE",
+    "name": "CINZIA 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
     "color": "Rosso",
     "price": 576,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -63685,7 +63665,27 @@
     "menu": "Гольфы",
     "density": "70 DEN",
     "size": "UNICA",
+    "color": "Amarena",
+    "price": 576,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "TRASPARENZE",
+    "name": "CINZIA 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
     "color": "Marrone",
+    "price": 576,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "TRASPARENZE",
+    "name": "CINZIA 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": "UNICA",
+    "color": "Ciclamino",
     "price": 576,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -72337,16 +72337,6 @@
     "size": "36-38",
     "color": "Noir",
     "price": 976,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LE BOURGET",
-    "name": "art. 1GG2 MI-BAS OPAQUE SATINE 50 microfibre",
-    "menu": "Гольфы",
-    "density": "50 DEN",
-    "size": "35-41",
-    "color": "Noir",
-    "price": 855,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -92451,16 +92441,6 @@
   },
   {
     "brand": "MINIMI intimo",
-    "name": "art. BO 223 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M(46)",
-    "color": "Lilla",
-    "price": 241.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
     "name": "art. BO 224 slip",
     "menu": "Бельё Женское",
     "density": "",
@@ -94594,16 +94574,6 @@
     "name": "art. BMi_A2911 leggings",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Nero",
-    "price": 717.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_A2911 leggings",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Militari",
     "price": 717.4,
@@ -95126,16 +95096,6 @@
     "density": "",
     "size": "M(46)",
     "color": "Cioccolata",
-    "price": 680,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_F1321 tank top",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L(48)",
-    "color": "Nero",
     "price": 680,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -104134,16 +104094,6 @@
     "name": "art. OmD 2221 SOFT slip midi",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "XL(50)",
-    "color": "Jeans",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmD 2221 SOFT slip midi",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M(46)",
     "color": "Bianco",
     "price": 377.4,
@@ -105914,16 +105864,6 @@
     "name": "art. OmB 1223 SLIP",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "8-3XL",
-    "color": "Grigio Melange",
-    "price": 453.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1223 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "4-M",
     "color": "Blu Scuro",
     "price": 453.33,
@@ -106265,16 +106205,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "3-S",
-    "color": "Bordo",
-    "price": 453.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1224 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-2XL",
     "color": "Bordo",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -117194,16 +117124,6 @@
     "name": "art. 532 SLIP MIDI colorato",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "6(XL)",
-    "color": "Cobalto",
-    "price": 623.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 532 SLIP MIDI colorato",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "3(S)",
     "color": "Amarena",
     "price": 623.33,
@@ -117664,27 +117584,7 @@
     "name": "art. 532 SLIP MIDI colorato",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "6(XL)",
-    "color": "Cenere",
-    "price": 623.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 532 SLIP MIDI colorato",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "3(S)",
-    "color": "Camelia",
-    "price": 623.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 532 SLIP MIDI colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6(XL)",
     "color": "Camelia",
     "price": 623.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
