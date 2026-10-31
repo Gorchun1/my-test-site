@@ -9924,16 +9924,6 @@
     "name": "art. BU 731047",
     "menu": "Носки",
     "density": "летние (для теплого времени года)",
-    "size": "42-43",
-    "color": "Nero",
-    "price": 154.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "art. BU 731047",
-    "menu": "Носки",
-    "density": "летние (для теплого времени года)",
     "size": "40-41",
     "color": "Nero",
     "price": 154.9,
@@ -11706,7 +11696,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11716,7 +11706,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11726,7 +11716,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11736,7 +11726,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Fumo",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11746,7 +11736,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Cappuccino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11756,7 +11746,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Cappuccino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11766,7 +11756,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Cappuccino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11776,7 +11766,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Cappuccino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11786,7 +11776,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11796,7 +11786,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11806,7 +11796,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11816,7 +11806,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11826,7 +11816,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11836,7 +11826,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11846,7 +11836,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11856,7 +11846,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11866,7 +11856,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11876,7 +11866,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11886,7 +11876,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11896,7 +11886,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Caramello",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11906,7 +11896,7 @@
     "density": "40 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11916,7 +11906,7 @@
     "density": "40 DEN",
     "size": "7-XXXL",
     "color": "Nero",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11926,7 +11916,7 @@
     "density": "40 DEN",
     "size": "6-XXL",
     "color": "Caramello",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11936,7 +11926,7 @@
     "density": "40 DEN",
     "size": "7-XXXL",
     "color": "Caramello",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11946,7 +11936,7 @@
     "density": "40 DEN",
     "size": "6-XXL",
     "color": "Daino",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11956,7 +11946,7 @@
     "density": "40 DEN",
     "size": "7-XXXL",
     "color": "Daino",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12076,7 +12066,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12086,7 +12076,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12096,7 +12086,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12106,7 +12096,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12116,7 +12106,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12126,7 +12116,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12136,7 +12126,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12146,7 +12136,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12156,7 +12146,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12166,7 +12156,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12176,7 +12166,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Cappuccino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12186,7 +12176,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Cappuccino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12196,7 +12186,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Cappuccino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12206,7 +12196,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12216,7 +12206,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12226,7 +12216,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Cappuccino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12236,7 +12226,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12246,7 +12236,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12256,7 +12246,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12266,7 +12256,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12276,7 +12266,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12286,7 +12276,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12296,7 +12286,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12306,7 +12296,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12316,7 +12306,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12416,7 +12406,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12426,7 +12416,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12436,7 +12426,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Cappuccino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12446,7 +12436,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12456,7 +12446,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12466,7 +12456,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12476,7 +12466,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12486,7 +12476,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12496,7 +12486,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12506,7 +12496,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12516,7 +12506,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12526,7 +12516,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Cappuccino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12536,7 +12526,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12546,7 +12536,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Cappuccino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12556,7 +12546,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12566,7 +12556,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12576,7 +12566,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12586,7 +12576,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12596,7 +12586,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12606,7 +12596,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12616,7 +12606,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12626,7 +12616,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12636,7 +12626,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Caramello",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12646,7 +12636,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12656,7 +12646,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12666,7 +12656,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12676,7 +12666,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12686,7 +12676,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Mineral",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12696,7 +12686,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Mineral",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12706,7 +12696,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Mineral",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12716,7 +12706,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Mineral",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12846,7 +12836,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12856,7 +12846,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12866,7 +12856,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12876,7 +12866,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12886,7 +12876,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12896,7 +12886,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12906,7 +12896,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12916,7 +12906,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12926,7 +12916,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12936,7 +12926,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12946,7 +12936,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12956,7 +12946,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Caramello",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12966,7 +12956,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Caramello",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12976,7 +12966,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Mineral",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12986,7 +12976,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -12996,7 +12986,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13006,7 +12996,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Mineral",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13016,7 +13006,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Mineral",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13026,7 +13016,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Mineral",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13036,7 +13026,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Mineral",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13046,7 +13036,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13056,7 +13046,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13066,7 +13056,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13076,7 +13066,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13086,7 +13076,7 @@
     "density": "100 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13096,7 +13086,7 @@
     "density": "100 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13106,7 +13096,7 @@
     "density": "100 DEN",
     "size": "4-L",
     "color": "Carbone",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13116,7 +13106,7 @@
     "density": "100 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13126,7 +13116,7 @@
     "density": "100 DEN",
     "size": "2-S",
     "color": "Carbone",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13136,7 +13126,7 @@
     "density": "100 DEN",
     "size": "3-M",
     "color": "Carbone",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13266,7 +13256,7 @@
     "density": "100 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13276,7 +13266,7 @@
     "density": "100 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13286,7 +13276,7 @@
     "density": "100 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13296,7 +13286,7 @@
     "density": "100 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13306,7 +13296,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13316,7 +13306,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13326,7 +13316,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13336,7 +13326,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13346,7 +13336,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13356,7 +13346,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Moka",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13366,7 +13356,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13376,7 +13366,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13386,7 +13376,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13396,7 +13386,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13406,7 +13396,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13416,7 +13406,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13426,7 +13416,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13436,7 +13426,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13446,7 +13436,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13456,7 +13446,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Avorio",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13466,7 +13456,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13476,7 +13466,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Bianco",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13486,7 +13476,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Bianco",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13496,7 +13486,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13506,7 +13496,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13516,7 +13506,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13526,7 +13516,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Caramello",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13536,7 +13526,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Avorio",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13546,7 +13536,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Carbone",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13556,7 +13546,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Carbone",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13566,7 +13556,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Carbone",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13576,7 +13566,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Carbone",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13586,7 +13576,7 @@
     "density": "70 DEN",
     "size": "7-XXXL",
     "color": "Nero",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13596,7 +13586,7 @@
     "density": "70 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13606,7 +13596,7 @@
     "density": "70 DEN",
     "size": "6-XXL",
     "color": "Moka",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13616,7 +13606,7 @@
     "density": "70 DEN",
     "size": "6-XXL",
     "color": "Caramello",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13626,7 +13616,7 @@
     "density": "70 DEN",
     "size": "7-XXXL",
     "color": "Caramello",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13636,7 +13626,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Mora",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13646,7 +13636,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Blu Scuro",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13656,7 +13646,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Rosso Mosto",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13666,7 +13656,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Bacche",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13676,7 +13666,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Rosso Mosto",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13686,7 +13676,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Rosso Mosto",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13696,7 +13686,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Violet",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13706,7 +13696,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Blu Scuro",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13716,7 +13706,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Jeans",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13726,7 +13716,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Blu Scuro",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13736,7 +13726,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Mora",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13746,7 +13736,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Jeans",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13756,7 +13746,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Violet",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13766,7 +13756,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Jeans",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13776,7 +13766,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Mora",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13786,7 +13776,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Ambra",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13796,7 +13786,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Ambra",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13806,7 +13796,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Ambra",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13816,7 +13806,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Verde Foresta",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13826,7 +13816,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Verde Foresta",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13836,7 +13826,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Verde Foresta",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13846,7 +13836,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Rosso Mosto",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13856,7 +13846,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Viola",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13866,7 +13856,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Viola",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13876,17 +13866,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Military",
-    "price": 382,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MULTIFIBRA COLORS 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "4-L",
-    "color": "Military",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13896,7 +13876,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Mosto",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13906,7 +13886,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Mosto",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13916,7 +13896,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Mosto",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13926,7 +13906,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Mosto",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13936,7 +13916,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Castagna",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13946,7 +13926,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Castagna",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13956,7 +13936,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Verde Foresta",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13966,7 +13946,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Ambra",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13976,7 +13956,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Bacche",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13986,7 +13966,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Bacche",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -13996,7 +13976,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14006,7 +13986,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14016,7 +13996,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14026,7 +14006,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Carbone",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14036,7 +14016,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14046,7 +14026,7 @@
     "density": "160 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14056,7 +14036,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Carbone",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14066,7 +14046,7 @@
     "density": "160 DEN",
     "size": "5-XL",
     "color": "Moka",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14076,7 +14056,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14086,7 +14066,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14096,7 +14076,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14106,17 +14086,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 382,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MULTIFIBRA 160",
-    "menu": "Колготки",
-    "density": "160 DEN",
-    "size": "5-XL",
-    "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14126,7 +14096,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Carbone",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14136,7 +14106,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14146,7 +14116,7 @@
     "density": "160 DEN",
     "size": "5-XL",
     "color": "Carbone",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14156,7 +14126,7 @@
     "density": "160 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14166,7 +14136,7 @@
     "density": "160 DEN",
     "size": "7-XXXL",
     "color": "Nero",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14176,7 +14146,7 @@
     "density": "160 DEN",
     "size": "6-XXL",
     "color": "Moka",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14186,7 +14156,7 @@
     "density": "160 DEN",
     "size": "7-XXXL",
     "color": "Moka",
-    "price": 410,
+    "price": 500,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14196,7 +14166,7 @@
     "density": "250 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14206,7 +14176,7 @@
     "density": "250 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14216,7 +14186,7 @@
     "density": "250 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14226,7 +14196,7 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14236,7 +14206,7 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14246,7 +14216,7 @@
     "density": "250 DEN",
     "size": "5-XL",
     "color": "Moka",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14256,7 +14226,7 @@
     "density": "250 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14266,7 +14236,7 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14276,7 +14246,7 @@
     "density": "250 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14286,7 +14256,7 @@
     "density": "250 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14296,7 +14266,7 @@
     "density": "250 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14306,7 +14276,7 @@
     "density": "250 DEN",
     "size": "5-XL",
     "color": "Fumo",
-    "price": 437,
+    "price": 533,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14466,7 +14436,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14476,7 +14446,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14486,7 +14456,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14496,7 +14466,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14506,7 +14476,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14516,7 +14486,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14526,7 +14496,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Carbone",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14536,7 +14506,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Carbone",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14546,7 +14516,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Carbone",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14556,7 +14526,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Avorio",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14566,7 +14536,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Avorio",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14576,7 +14546,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Avorio",
-    "price": 464,
+    "price": 566,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14646,7 +14616,7 @@
     "density": "200 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14656,7 +14626,7 @@
     "density": "200 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14666,7 +14636,7 @@
     "density": "200 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14676,7 +14646,7 @@
     "density": "200 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14686,7 +14656,7 @@
     "density": "200 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14696,7 +14666,7 @@
     "density": "300 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 628,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14706,7 +14676,7 @@
     "density": "300 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 628,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14716,7 +14686,7 @@
     "density": "300 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 628,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14726,17 +14696,7 @@
     "density": "300 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 656,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "SIBERIA 300 MAXI",
-    "menu": "Колготки",
-    "density": "300 DEN",
-    "size": "5-XL",
-    "color": "Nero",
-    "price": 656,
+    "price": 800,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14746,7 +14706,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14756,7 +14716,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14766,7 +14726,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14776,7 +14736,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14786,7 +14746,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14796,7 +14756,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14806,7 +14766,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Ambra",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14816,7 +14776,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Ambra",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14826,7 +14786,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Ambra",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14836,17 +14796,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Blu Scuro",
-    "price": 492,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "PIUMA 260",
-    "menu": "Колготки",
-    "density": "260 DEN",
-    "size": "3-M",
-    "color": "Blu Scuro",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14856,7 +14806,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Blu Scuro",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14866,7 +14816,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Grigio Scuro",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14876,7 +14826,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Grigio Scuro",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14886,7 +14836,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Grigio Scuro",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14896,7 +14846,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14906,7 +14856,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14916,7 +14866,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14926,7 +14876,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Mosto",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14936,7 +14886,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Mosto",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14946,7 +14896,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Mosto",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14956,7 +14906,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Grigio Melange",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14966,7 +14916,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Grigio Melange",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14976,7 +14926,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Grigio Melange",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14986,7 +14936,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Bianco",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -14996,7 +14946,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Bianco",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15006,7 +14956,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Bianco",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15066,7 +15016,7 @@
     "density": "260 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15516,7 +15466,7 @@
     "density": "300 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 628,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15526,7 +15476,7 @@
     "density": "300 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 628,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15536,7 +15486,7 @@
     "density": "300 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 628,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15556,7 +15506,7 @@
     "density": "260 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15566,7 +15516,7 @@
     "density": "260 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15576,7 +15526,7 @@
     "density": "260 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15586,7 +15536,7 @@
     "density": "260 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15596,7 +15546,7 @@
     "density": "260 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15606,7 +15556,7 @@
     "density": "260 DEN",
     "size": "2XL",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15616,7 +15566,7 @@
     "density": "260 DEN",
     "size": "L/XL",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -15626,7 +15576,7 @@
     "density": "260 DEN",
     "size": "S/M",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16576,7 +16526,7 @@
     "density": "-",
     "size": "UNICA",
     "color": "Avorio",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16586,7 +16536,7 @@
     "density": "-",
     "size": "UNICA",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16596,7 +16546,7 @@
     "density": "-",
     "size": "UNICA",
     "color": "Grigio Melange",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16726,7 +16676,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16736,7 +16686,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Caramello",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16746,7 +16696,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Daino",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16806,7 +16756,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Fumo",
-    "price": 180,
+    "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16816,7 +16766,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 180,
+    "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16826,7 +16776,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Moka",
-    "price": 180,
+    "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16836,7 +16786,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Rosso Mosto",
-    "price": 180,
+    "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16846,7 +16796,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Bianco",
-    "price": 180,
+    "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16856,7 +16806,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Mosto",
-    "price": 180,
+    "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16866,7 +16816,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Caramello",
-    "price": 180,
+    "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16876,7 +16826,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Blu",
-    "price": 180,
+    "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16906,16 +16856,6 @@
     "density": "20 DEN",
     "size": "UNICA",
     "color": "Bianco",
-    "price": 166,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "DEA POIS 20 gambaletto",
-    "menu": "Гольфы",
-    "density": "20 DEN",
-    "size": "UNICA",
-    "color": "Cappuccino",
     "price": 166,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -16946,7 +16886,7 @@
     "density": "260 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 246,
+    "price": 300,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16956,7 +16896,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16966,7 +16906,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Naturale",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16976,7 +16916,7 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Caffe",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17026,7 +16966,7 @@
     "density": "260 DEN",
     "size": "35-38",
     "color": "Nero",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17036,7 +16976,7 @@
     "density": "260 DEN",
     "size": "39-41",
     "color": "Nero",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17046,7 +16986,7 @@
     "density": "260 DEN",
     "size": "39-41",
     "color": "Beige",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17056,7 +16996,7 @@
     "density": "260 DEN",
     "size": "39-41",
     "color": "Avorio",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17066,7 +17006,7 @@
     "density": "260 DEN",
     "size": "39-41",
     "color": "Grigio",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17076,7 +17016,7 @@
     "density": "260 DEN",
     "size": "35-38",
     "color": "Avorio",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17086,7 +17026,7 @@
     "density": "260 DEN",
     "size": "35-38",
     "color": "Grigio",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17096,7 +17036,7 @@
     "density": "260 DEN",
     "size": "35-38",
     "color": "Beige",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17196,7 +17136,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17206,7 +17146,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Caramello",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -17216,7 +17156,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Daino",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -20986,16 +20926,6 @@
     "density": "12 DEN",
     "size": "4-L",
     "color": "Grafit",
-    "price": 246.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "PRESTIGE 12",
-    "menu": "Колготки",
-    "density": "12 DEN",
-    "size": "2-S",
-    "color": "Mocca",
     "price": 246.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -28204,16 +28134,6 @@
     "name": "KARMEN 50",
     "menu": "Колготки",
     "density": "50 DEN",
-    "size": "5-XL",
-    "color": "Nero",
-    "price": 478.56,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "KARMEN 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
     "size": "2-S",
     "color": "Nero",
     "price": 478.56,
@@ -28804,16 +28724,6 @@
     "name": "LLG 2304 leggings (regular 164)",
     "menu": "Леггинсы",
     "density": "плотные (непрозрачные)",
-    "size": "M (98)",
-    "color": "Black",
-    "price": 2200,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "LLG 2304 leggings (regular 164)",
-    "menu": "Леггинсы",
-    "density": "плотные (непрозрачные)",
     "size": "S (94)",
     "color": "Black",
     "price": 2200,
@@ -28827,16 +28737,6 @@
     "size": "M (98)",
     "color": "Black",
     "price": 1372.5,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "SOFTI LUX MATERNITY leggings (long 170)",
-    "menu": "Леггинсы",
-    "density": "плотные (непрозрачные)",
-    "size": "S (94)",
-    "color": "Nero",
-    "price": 1200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36106,7 +36006,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Cognac",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36116,7 +36016,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Cognac",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36126,7 +36026,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36136,7 +36036,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36146,7 +36046,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36156,7 +36056,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36166,7 +36066,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36176,7 +36076,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36186,7 +36086,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36196,7 +36096,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36206,7 +36106,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Melon",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36216,7 +36116,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Melon",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36226,7 +36126,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Melon",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36236,7 +36136,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Melon",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36246,7 +36146,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Playa",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36256,7 +36156,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Playa",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36266,7 +36166,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Playa",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36276,7 +36176,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Playa",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36286,7 +36186,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Cognac",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -36296,7 +36196,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Cognac",
-    "price": 142,
+    "price": 173,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -37546,7 +37446,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -37556,7 +37456,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Daino",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -37566,7 +37466,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Melon",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -37606,7 +37506,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Daino",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -37616,7 +37516,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Melon",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -37626,7 +37526,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39486,7 +39386,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Visone",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39496,7 +39396,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Fumo",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39506,7 +39406,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39516,7 +39416,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39526,7 +39426,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39536,7 +39436,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Camoscio",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39546,7 +39446,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Camoscio",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39556,7 +39456,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Camoscio",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39566,7 +39466,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Camoscio",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39576,7 +39476,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Marrone",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39586,7 +39486,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Marrone",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39596,7 +39496,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Caramello",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39606,7 +39506,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39616,7 +39516,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39626,17 +39526,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 300,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "ATTIVA 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "5-XL",
-    "color": "Sierra",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39646,7 +39536,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Sierra",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39656,7 +39546,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Sierra",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39666,7 +39556,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Lola",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39676,7 +39566,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Lola",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39686,7 +39576,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Lola",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39696,7 +39586,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Lola",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39706,7 +39596,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39716,7 +39606,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39726,7 +39616,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39736,7 +39626,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39746,7 +39636,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Visone",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39756,7 +39646,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39766,7 +39656,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39776,7 +39666,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39786,7 +39676,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Visone",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39796,7 +39686,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Natural",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39806,7 +39696,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Natural",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39816,7 +39706,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39826,7 +39716,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Natural",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39836,7 +39726,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Natural",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39846,7 +39736,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Cioccolato",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -39856,7 +39746,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Cioccolato",
-    "price": 300,
+    "price": 366,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -40756,7 +40646,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -40766,7 +40656,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -40776,7 +40666,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41306,7 +41196,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41316,7 +41206,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41326,7 +41216,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41336,7 +41226,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41346,7 +41236,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41356,7 +41246,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41366,7 +41256,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41376,7 +41266,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41386,7 +41276,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41396,7 +41286,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41406,7 +41296,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41416,7 +41306,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Caramello",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41426,7 +41316,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41436,7 +41326,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41446,7 +41336,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41456,7 +41346,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41466,7 +41356,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41476,7 +41366,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41486,7 +41376,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41496,7 +41386,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41506,7 +41396,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41516,7 +41406,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41526,7 +41416,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41536,7 +41426,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41546,7 +41436,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41556,7 +41446,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41566,7 +41456,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41576,7 +41466,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41786,7 +41676,7 @@
     "density": "50 DEN",
     "size": "3-M",
     "color": "Cappuccinо",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41796,7 +41686,7 @@
     "density": "50 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41806,7 +41696,7 @@
     "density": "50 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41816,7 +41706,7 @@
     "density": "50 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41826,7 +41716,7 @@
     "density": "50 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41836,7 +41726,7 @@
     "density": "50 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41846,7 +41736,7 @@
     "density": "50 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41856,7 +41746,7 @@
     "density": "50 DEN",
     "size": "4-L",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41866,7 +41756,7 @@
     "density": "50 DEN",
     "size": "2-S",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41876,7 +41766,7 @@
     "density": "50 DEN",
     "size": "3-M",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41886,7 +41776,7 @@
     "density": "50 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41896,7 +41786,7 @@
     "density": "50 DEN",
     "size": "2-S",
     "color": "Cappuccinо",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41906,7 +41796,7 @@
     "density": "50 DEN",
     "size": "2-S",
     "color": "Marrone",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41916,7 +41806,7 @@
     "density": "50 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41926,7 +41816,7 @@
     "density": "50 DEN",
     "size": "5-XL",
     "color": "Marrone",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41936,7 +41826,7 @@
     "density": "50 DEN",
     "size": "4-L",
     "color": "Cappuccinо",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41946,7 +41836,7 @@
     "density": "50 DEN",
     "size": "3-M",
     "color": "Marrone",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41956,7 +41846,7 @@
     "density": "50 DEN",
     "size": "4-L",
     "color": "Marrone",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41966,7 +41856,7 @@
     "density": "50 DEN",
     "size": "5-XL",
     "color": "Fumo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -41976,7 +41866,7 @@
     "density": "50 DEN",
     "size": "5-XL",
     "color": "Cappuccinо",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42336,7 +42226,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Moro",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42346,7 +42236,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42356,7 +42246,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Moro",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42366,7 +42256,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42376,7 +42266,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42386,7 +42276,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Moro",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42396,7 +42286,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Antracite",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42406,7 +42296,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Antracite",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42416,7 +42306,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Antracite",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42426,7 +42316,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Bianco",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42436,7 +42326,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Bianco",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42446,17 +42336,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Bianco",
-    "price": 492,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "VELOUR 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "4-L",
-    "color": "Caramello",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42466,7 +42346,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Caramello",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42476,7 +42356,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Caramello",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42486,7 +42366,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42496,7 +42376,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42506,7 +42386,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42516,7 +42396,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Moro",
-    "price": 601,
+    "price": 733,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42526,7 +42406,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 601,
+    "price": 733,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42536,7 +42416,7 @@
     "density": "120 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42546,7 +42426,7 @@
     "density": "120 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42556,7 +42436,7 @@
     "density": "120 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42566,7 +42446,7 @@
     "density": "120 DEN",
     "size": "4-L",
     "color": "Antracite",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42576,7 +42456,7 @@
     "density": "120 DEN",
     "size": "2-S",
     "color": "Antracite",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42586,7 +42466,7 @@
     "density": "120 DEN",
     "size": "3-M",
     "color": "Antracite",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42726,7 +42606,7 @@
     "density": "100 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42736,7 +42616,7 @@
     "density": "100 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42746,7 +42626,7 @@
     "density": "100 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42756,7 +42636,7 @@
     "density": "100 DEN",
     "size": "4-L",
     "color": "Antracite",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42766,7 +42646,7 @@
     "density": "100 DEN",
     "size": "2-S",
     "color": "Antracite",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42776,7 +42656,7 @@
     "density": "100 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42786,17 +42666,7 @@
     "density": "100 DEN",
     "size": "3-M",
     "color": "Antracite",
-    "price": 382,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "VELOUR ACTIVE 100",
-    "menu": "Колготки",
-    "density": "100 DEN",
-    "size": "5-XL",
-    "color": "Antracite",
-    "price": 382,
+    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42806,7 +42676,7 @@
     "density": "100 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42816,7 +42686,7 @@
     "density": "100 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42826,7 +42696,7 @@
     "density": "100 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42836,7 +42706,7 @@
     "density": "100 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42846,7 +42716,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 601,
+    "price": 733,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42856,7 +42726,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 601,
+    "price": 733,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42866,7 +42736,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 601,
+    "price": 733,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42876,7 +42746,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 601,
+    "price": 733,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42916,7 +42786,7 @@
     "density": "100 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 1148,
+    "price": 1400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42926,7 +42796,7 @@
     "density": "100 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 1148,
+    "price": 1400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42936,7 +42806,7 @@
     "density": "100 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 1148,
+    "price": 1400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42946,7 +42816,7 @@
     "density": "100 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 1148,
+    "price": 1400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42956,7 +42826,7 @@
     "density": "140 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 710,
+    "price": 866,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42966,7 +42836,7 @@
     "density": "140 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 710,
+    "price": 866,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42976,7 +42846,7 @@
     "density": "140 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 710,
+    "price": 866,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42986,7 +42856,7 @@
     "density": "140 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 820,
+    "price": 1000,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42996,7 +42866,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Beige Naturel",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43006,7 +42876,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Avorio",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43016,7 +42886,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Avorio",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43026,7 +42896,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Avorio",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43036,7 +42906,7 @@
     "density": "160 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43046,7 +42916,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43056,17 +42926,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 519,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "COTTON SOFT 160",
-    "menu": "Колготки",
-    "density": "160 DEN",
-    "size": "4-L",
-    "color": "Moka",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43076,7 +42936,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43086,7 +42946,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43096,7 +42956,7 @@
     "density": "160 DEN",
     "size": "3-M",
     "color": "Beige Naturel",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43106,7 +42966,7 @@
     "density": "160 DEN",
     "size": "2-S",
     "color": "Beige Naturel",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43116,7 +42976,7 @@
     "density": "160 DEN",
     "size": "5-XL",
     "color": "Beige Naturel",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43126,7 +42986,7 @@
     "density": "160 DEN",
     "size": "6-XXL",
     "color": "Beige Naturel",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43136,7 +42996,7 @@
     "density": "160 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43146,7 +43006,7 @@
     "density": "160 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43156,7 +43016,7 @@
     "density": "160 DEN",
     "size": "5-XL",
     "color": "Moka",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43166,7 +43026,7 @@
     "density": "160 DEN",
     "size": "6-XXL",
     "color": "Moka",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43176,7 +43036,7 @@
     "density": "300 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 628,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43186,7 +43046,7 @@
     "density": "300 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 628,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43196,17 +43056,7 @@
     "density": "300 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 628,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "COTTON FLEECE 300 XL",
-    "menu": "Колготки",
-    "density": "300 DEN",
-    "size": "6-XXL",
-    "color": "Nero",
-    "price": 683,
+    "price": 766,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43216,7 +43066,7 @@
     "density": "300 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 683,
+    "price": 833,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43236,7 +43086,7 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43246,7 +43096,7 @@
     "density": "250 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43256,7 +43106,7 @@
     "density": "250 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43266,7 +43116,7 @@
     "density": "250 DEN",
     "size": "4-L",
     "color": "Beige Naturel",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43276,7 +43126,7 @@
     "density": "250 DEN",
     "size": "4-L",
     "color": "Bianco",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43286,7 +43136,7 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Antracite",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43296,7 +43146,7 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Beige Naturel",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43306,7 +43156,7 @@
     "density": "250 DEN",
     "size": "2-S",
     "color": "Bianco",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43316,7 +43166,7 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Bianco",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43326,7 +43176,7 @@
     "density": "250 DEN",
     "size": "4-L",
     "color": "Antracite",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43336,7 +43186,7 @@
     "density": "250 DEN",
     "size": "2-S",
     "color": "Beige Naturel",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43346,7 +43196,7 @@
     "density": "250 DEN",
     "size": "2-S",
     "color": "Antracite",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43356,7 +43206,7 @@
     "density": "250 DEN",
     "size": "4-L",
     "color": "Moro",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43366,7 +43216,7 @@
     "density": "250 DEN",
     "size": "2-S",
     "color": "Moro",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43376,7 +43226,7 @@
     "density": "250 DEN",
     "size": "3-M",
     "color": "Moro",
-    "price": 519,
+    "price": 633,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43386,7 +43236,7 @@
     "density": "250 DEN",
     "size": "6-XXL",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43396,7 +43246,7 @@
     "density": "250 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43406,7 +43256,7 @@
     "density": "250 DEN",
     "size": "5-XL",
     "color": "Beige Naturel",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43416,7 +43266,7 @@
     "density": "250 DEN",
     "size": "6-XXL",
     "color": "Antracite",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43426,7 +43276,7 @@
     "density": "250 DEN",
     "size": "5-XL",
     "color": "Moro",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43436,7 +43286,7 @@
     "density": "250 DEN",
     "size": "6-XXL",
     "color": "Beige Naturel",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43446,7 +43296,7 @@
     "density": "250 DEN",
     "size": "6-XXL",
     "color": "Moro",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -43456,7 +43306,7 @@
     "density": "250 DEN",
     "size": "5-XL",
     "color": "Antracite",
-    "price": 546,
+    "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44536,7 +44386,7 @@
     "density": "40 DEN",
     "size": "M/L",
     "color": "Daino",
-    "price": 218,
+    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44546,7 +44396,7 @@
     "density": "40 DEN",
     "size": "M/L",
     "color": "Nero",
-    "price": 218,
+    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44556,7 +44406,7 @@
     "density": "40 DEN",
     "size": "S/M",
     "color": "Nero",
-    "price": 218,
+    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44566,7 +44416,7 @@
     "density": "40 DEN",
     "size": "S/M",
     "color": "Daino",
-    "price": 218,
+    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44576,7 +44426,7 @@
     "density": "200 DEN",
     "size": "39-41",
     "color": "Grigio Melange",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44586,7 +44436,7 @@
     "density": "200 DEN",
     "size": "35-38",
     "color": "Nero",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44596,7 +44446,7 @@
     "density": "200 DEN",
     "size": "39-41",
     "color": "Beige",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44606,7 +44456,7 @@
     "density": "200 DEN",
     "size": "35-38",
     "color": "Beige",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44616,7 +44466,7 @@
     "density": "200 DEN",
     "size": "35-38",
     "color": "Avorio",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44626,7 +44476,7 @@
     "density": "200 DEN",
     "size": "39-41",
     "color": "Avorio",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44636,7 +44486,7 @@
     "density": "200 DEN",
     "size": "39-41",
     "color": "Nero",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44646,7 +44496,7 @@
     "density": "200 DEN",
     "size": "35-38",
     "color": "Grigio Melange",
-    "price": 273,
+    "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44686,7 +44536,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Caramello",
-    "price": 218,
+    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44696,7 +44546,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 218,
+    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44706,7 +44556,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Daino",
-    "price": 218,
+    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44716,7 +44566,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Fumo",
-    "price": 218,
+    "price": 266,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44726,7 +44576,7 @@
     "density": "40 DEN",
     "size": "6-8",
     "color": "Bianco",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44736,7 +44586,7 @@
     "density": "40 DEN",
     "size": "9-12",
     "color": "Nero",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44746,7 +44596,7 @@
     "density": "40 DEN",
     "size": "6-8",
     "color": "Caramello",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44756,7 +44606,7 @@
     "density": "40 DEN",
     "size": "9-12",
     "color": "Bianco",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44766,7 +44616,7 @@
     "density": "40 DEN",
     "size": "6-8",
     "color": "Nero",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44776,7 +44626,7 @@
     "density": "40 DEN",
     "size": "9-12",
     "color": "Caramello",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44896,7 +44746,7 @@
     "density": "-",
     "size": "152-158",
     "color": "Blu",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44906,7 +44756,7 @@
     "density": "-",
     "size": "152-158",
     "color": "Bordo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44916,7 +44766,7 @@
     "density": "-",
     "size": "152-158",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44926,7 +44776,7 @@
     "density": "-",
     "size": "152-158",
     "color": "Bianco",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44936,7 +44786,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44946,7 +44796,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44956,7 +44806,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44966,7 +44816,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Bianco",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44976,7 +44826,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Bianco",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44986,7 +44836,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Bianco",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -44996,7 +44846,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Blu",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45006,7 +44856,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Blu",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45016,7 +44866,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Blu",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45026,7 +44876,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Blu Chiaro",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45036,7 +44886,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Blu Chiaro",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45046,7 +44896,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Blu Chiaro",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45056,7 +44906,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Bordo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45066,7 +44916,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Bordo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45076,7 +44926,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Bordo",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45086,7 +44936,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Grigio",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45096,7 +44946,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Rosa",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45106,7 +44956,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Rosa",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45116,7 +44966,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Rosa",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45126,7 +44976,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45136,7 +44986,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45146,7 +44996,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45156,7 +45006,7 @@
     "density": "-",
     "size": "116-122",
     "color": "Bianco",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45166,7 +45016,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Bianco",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45176,7 +45026,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Bianco",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45186,7 +45036,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Rosa",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45196,7 +45046,7 @@
     "density": "-",
     "size": "128-134",
     "color": "Rosa",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -45206,7 +45056,7 @@
     "density": "-",
     "size": "140-146",
     "color": "Blu Chiaro",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46716,7 +46566,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Miele",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46726,7 +46576,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Miele",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46736,7 +46586,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Miele",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46746,7 +46596,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Miele",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46756,7 +46606,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46766,7 +46616,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46776,7 +46626,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46786,7 +46636,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46796,7 +46646,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46806,7 +46656,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46816,7 +46666,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46826,7 +46676,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46836,7 +46686,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Naturelle",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46846,7 +46696,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Miele",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46856,7 +46706,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Naturelle",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46866,7 +46716,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Naturelle",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46876,7 +46726,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Naturelle",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46886,7 +46736,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Naturelle",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46896,7 +46746,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Grafite",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46906,7 +46756,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Grafite",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46916,7 +46766,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Grafite",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46926,7 +46776,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Grafite",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46936,7 +46786,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Nero",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46946,7 +46796,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Daino",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -46956,7 +46806,7 @@
     "density": "40 DEN",
     "size": "6-2XL",
     "color": "Grafite",
-    "price": 153,
+    "price": 186,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47881,22 +47731,12 @@
   },
   {
     "brand": "SISI",
-    "name": "STYLE 20",
-    "menu": "Колготки",
-    "density": "20 DEN",
-    "size": "2-S",
-    "color": "Moka",
-    "price": 366,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
     "name": "STYLE 40",
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Grafite",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47906,7 +47746,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Naturelle",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47916,7 +47756,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Naturelle",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47926,7 +47766,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Naturelle",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47936,7 +47776,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47946,7 +47786,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Grafite",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47956,7 +47796,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47966,7 +47806,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47976,7 +47816,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Miele",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47986,7 +47826,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -47996,7 +47836,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48006,7 +47846,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48016,7 +47856,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Miele",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48026,7 +47866,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Miele",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48036,7 +47876,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Grafite",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48046,7 +47886,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48056,7 +47896,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48066,7 +47906,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48076,7 +47916,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Miele",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48086,7 +47926,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48096,7 +47936,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48106,7 +47946,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Grafite",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48116,7 +47956,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Moka",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48126,7 +47966,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Londra",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48136,7 +47976,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Londra",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48306,7 +48146,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48316,7 +48156,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48326,7 +48166,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48336,7 +48176,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48346,7 +48186,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Miele",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48356,7 +48196,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Miele",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48366,7 +48206,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Grafite",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48376,7 +48216,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Miele",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48386,7 +48226,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48396,7 +48236,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48406,7 +48246,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48416,7 +48256,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48426,7 +48266,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Grafite",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48436,7 +48276,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Moka",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48446,7 +48286,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Miele",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48456,7 +48296,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48466,7 +48306,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Grafite",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48476,7 +48316,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48486,7 +48326,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Naturelle",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48496,7 +48336,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Naturelle",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48506,7 +48346,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Naturelle",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48516,7 +48356,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Grafite",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48526,7 +48366,7 @@
     "density": "40 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 355,
+    "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48646,7 +48486,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48656,7 +48496,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48666,7 +48506,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Miele",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48676,7 +48516,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Miele",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48686,7 +48526,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Miele",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48696,7 +48536,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48706,7 +48546,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48716,7 +48556,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48726,7 +48566,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48736,7 +48576,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48746,7 +48586,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48756,7 +48596,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Naturelle",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48766,7 +48606,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Naturelle",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48776,7 +48616,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48786,7 +48626,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Naturelle",
-    "price": 328,
+    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -48845,36 +48685,6 @@
     "menu": "Колготки",
     "density": "50 DEN",
     "size": "5-XL",
-    "color": "Miele",
-    "price": 433,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "ACTIVITY 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
-    "size": "2-S",
-    "color": "Miele",
-    "price": 433,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "ACTIVITY 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
-    "size": "3-M",
-    "color": "Grafite",
-    "price": 433,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "ACTIVITY 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
-    "size": "4-L",
     "color": "Miele",
     "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -48885,6 +48695,36 @@
     "menu": "Колготки",
     "density": "50 DEN",
     "size": "2-S",
+    "color": "Miele",
+    "price": 433,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI",
+    "name": "ACTIVITY 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "3-M",
+    "color": "Grafite",
+    "price": 433,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI",
+    "name": "ACTIVITY 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "4-L",
+    "color": "Miele",
+    "price": 433,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "SISI",
+    "name": "ACTIVITY 50",
+    "menu": "Колготки",
+    "density": "50 DEN",
+    "size": "2-S",
     "color": "Grafite",
     "price": 433,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -49036,7 +48876,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49046,7 +48886,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Moka",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49056,7 +48896,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Grafite",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49066,7 +48906,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Grafite",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49076,7 +48916,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Daino",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49086,7 +48926,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Daino",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49096,7 +48936,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Daino",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49106,7 +48946,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49116,7 +48956,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49126,7 +48966,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49136,7 +48976,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Grafite",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49146,7 +48986,7 @@
     "density": "70 DEN",
     "size": "4-L",
     "color": "Moka",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49156,7 +48996,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Daino",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49166,7 +49006,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Grafite",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49176,7 +49016,7 @@
     "density": "70 DEN",
     "size": "2-S",
     "color": "Naturelle",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49186,7 +49026,7 @@
     "density": "70 DEN",
     "size": "3-M",
     "color": "Moka",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -49196,7 +49036,7 @@
     "density": "70 DEN",
     "size": "5-XL",
     "color": "Moka",
-    "price": 492,
+    "price": 600,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50126,7 +49966,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Daino",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50136,7 +49976,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Miele",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50146,7 +49986,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 164,
+    "price": 200,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50186,7 +50026,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Miele",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50196,7 +50036,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Daino",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50206,7 +50046,7 @@
     "density": "40 DEN",
     "size": "UNICA",
     "color": "Nero",
-    "price": 120,
+    "price": 146,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50386,7 +50226,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Playa",
-    "price": 207,
+    "price": 253,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50396,7 +50236,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Playa",
-    "price": 207,
+    "price": 253,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50406,7 +50246,7 @@
     "density": "40 DEN",
     "size": "2-S",
     "color": "Nero",
-    "price": 207,
+    "price": 253,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50416,7 +50256,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Playa",
-    "price": 207,
+    "price": 253,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50426,7 +50266,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Glace",
-    "price": 207,
+    "price": 253,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50436,7 +50276,7 @@
     "density": "40 DEN",
     "size": "3-M",
     "color": "Nero",
-    "price": 207,
+    "price": 253,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50446,7 +50286,7 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Nero",
-    "price": 207,
+    "price": 253,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -51531,16 +51371,6 @@
   },
   {
     "brand": "PHILIPPE MATIGNON",
-    "name": "CRISTAL 30",
-    "menu": "Колготки",
-    "density": "30 DEN",
-    "size": "5-XL",
-    "color": "Nero",
-    "price": 666,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
     "name": "GALERIE 40",
     "menu": "Колготки",
     "density": "40 DEN",
@@ -51785,16 +51615,6 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "3-M",
-    "color": "Nero",
-    "price": 1000,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "REVITALISE 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "2-S",
     "color": "Nero",
     "price": 1000,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -54414,16 +54234,6 @@
     "name": "IRIDE 50",
     "menu": "Колготки",
     "density": "50 DEN",
-    "size": "4-L",
-    "color": "Blu",
-    "price": 1247,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMERO",
-    "name": "IRIDE 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
     "size": "2-S",
     "color": "Coffee",
     "price": 1247,
@@ -54665,16 +54475,6 @@
     "menu": "Колготки",
     "density": "300 DEN",
     "size": "M/L",
-    "color": "Nero",
-    "price": 1791,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMERO",
-    "name": "THERMO 300",
-    "menu": "Колготки",
-    "density": "300 DEN",
-    "size": "S/M",
     "color": "Nero",
     "price": 1791,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -64204,6 +64004,16 @@
     "name": "V-SLIM ZERO 7",
     "menu": "Колготки",
     "density": "7 DEN",
+    "size": "2-M",
+    "color": "Black",
+    "price": 1416,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "V-SLIM ZERO 7",
+    "menu": "Колготки",
+    "density": "7 DEN",
     "size": "1-S",
     "color": "Black",
     "price": 1416,
@@ -64226,6 +64036,16 @@
     "density": "7 DEN",
     "size": "4-XL",
     "color": "Black",
+    "price": 1416,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "V-SLIM ZERO 7",
+    "menu": "Колготки",
+    "density": "7 DEN",
+    "size": "2-M",
+    "color": "Sun",
     "price": 1416,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -65885,6 +65705,16 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "4-XL",
+    "color": "Singapour",
+    "price": 1012,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "PLAISIR 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "1-S",
     "color": "Singapour",
     "price": 1012,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -66234,6 +66064,16 @@
     "name": "DIFFERENT 20",
     "menu": "Колготки",
     "density": "20 DEN",
+    "size": "4-XL",
+    "color": "Nude",
+    "price": 1290,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "DIFFERENT 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
     "size": "2-M",
     "color": "Sun",
     "price": 1290,
@@ -66306,6 +66146,16 @@
     "density": "20 DEN",
     "size": "4-XL",
     "color": "Sun",
+    "price": 1290,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "DIFFERENT 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
+    "size": "4-XL",
+    "color": "Black",
     "price": 1290,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -68475,6 +68325,16 @@
     "menu": "Колготки",
     "density": "-",
     "size": "1-S",
+    "color": "Brown 4",
+    "price": 2124,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "NIVES fine wool",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "1-S",
     "color": "Black",
     "price": 2124,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -68626,6 +68486,16 @@
     "density": "-",
     "size": "4-XL",
     "color": "Beige",
+    "price": 2124,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "NIVES fine wool",
+    "menu": "Колготки",
+    "density": "-",
+    "size": "2-M",
+    "color": "Military 3",
     "price": 2124,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -69604,16 +69474,6 @@
     "name": "CHIC UP 15 stay-up",
     "menu": "Чулки",
     "density": "15 DEN",
-    "size": "2-M",
-    "color": "Nude",
-    "price": 948,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
-    "name": "CHIC UP 15 stay-up",
-    "menu": "Чулки",
-    "density": "15 DEN",
     "size": "3-L",
     "color": "Sun",
     "price": 948,
@@ -70266,6 +70126,16 @@
     "density": "-",
     "size": "ONE SIZE",
     "color": "Black",
+    "price": 1138,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OROBLU",
+    "name": "CHERYL KNEE-HIGHS fine cashmere",
+    "menu": "Гольфы",
+    "density": "-",
+    "size": "ONE SIZE",
+    "color": "Grey Melange",
     "price": 1138,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -76201,6 +76071,16 @@
   },
   {
     "brand": "RELAXSAN",
+    "name": "art. 950A LADY 70 gambaletto",
+    "menu": "Гольфы",
+    "density": "70 DEN",
+    "size": 5,
+    "color": "21 Beige",
+    "price": 726,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "RELAXSAN",
     "name": "art. 850 GAMBALETTO 140",
     "menu": "Гольфы",
     "density": "140 DEN",
@@ -77491,16 +77371,6 @@
   },
   {
     "brand": "MINIMI",
-    "name": "art. 4103 FRESH",
-    "menu": "Носки",
-    "density": "всесезонные",
-    "size": "35-38",
-    "color": "Ocra",
-    "price": 200,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
     "name": "art. 4202 TREND",
     "menu": "Носки",
     "density": "всесезонные",
@@ -77794,16 +77664,6 @@
     "name": "art. 171 ACTIVE",
     "menu": "Носки",
     "density": "летние",
-    "size": "35-38",
-    "color": "Beige Melange",
-    "price": 146,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 171 ACTIVE",
-    "menu": "Носки",
-    "density": "летние",
     "size": "39-41",
     "color": "Nero Melange",
     "price": 146,
@@ -77841,22 +77701,12 @@
   },
   {
     "brand": "OMSA",
-    "name": "art. 171 ACTIVE",
-    "menu": "Носки",
-    "density": "летние",
-    "size": "35-38",
-    "color": "Nero Melange",
-    "price": 146,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
     "name": "art. 252 ECO",
     "menu": "Носки",
     "density": "всесезонные",
     "size": "35-38",
     "color": "Bianco",
-    "price": 87,
+    "price": 106,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -77866,7 +77716,7 @@
     "density": "всесезонные",
     "size": "39-41",
     "color": "Bianco",
-    "price": 87,
+    "price": 106,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -77876,7 +77726,7 @@
     "density": "всесезонные",
     "size": "35-38",
     "color": "Nero",
-    "price": 87,
+    "price": 106,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -77886,7 +77736,7 @@
     "density": "всесезонные",
     "size": "39-41",
     "color": "Nero",
-    "price": 87,
+    "price": 106,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -78764,16 +78614,6 @@
     "name": "art. 401 ECO colors",
     "menu": "Носки",
     "density": "всесезонные",
-    "size": "45-47",
-    "color": "Acquamarina",
-    "price": 146,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "art. 401 ECO colors",
-    "menu": "Носки",
-    "density": "всесезонные",
     "size": "42-44",
     "color": "Acquamarina",
     "price": 146,
@@ -78936,7 +78776,7 @@
     "density": "всесезонные",
     "size": "42-44",
     "color": "Nero",
-    "price": 103,
+    "price": 126,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -78946,7 +78786,7 @@
     "density": "всесезонные",
     "size": "45-47",
     "color": "Nero",
-    "price": 103,
+    "price": 126,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -78956,7 +78796,7 @@
     "density": "всесезонные",
     "size": "45-47",
     "color": "Bianco",
-    "price": 103,
+    "price": 126,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -78966,7 +78806,7 @@
     "density": "всесезонные",
     "size": "39-41",
     "color": "Nero",
-    "price": 103,
+    "price": 126,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -78976,7 +78816,7 @@
     "density": "всесезонные",
     "size": "39-41",
     "color": "Bianco",
-    "price": 103,
+    "price": 126,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -78986,7 +78826,7 @@
     "density": "всесезонные",
     "size": "42-44",
     "color": "Bianco",
-    "price": 103,
+    "price": 126,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -82154,16 +81994,6 @@
     "name": "BD ACACIA 22001 canotta",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "5(XL)",
-    "color": "Beige",
-    "price": 585.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD ACACIA 22001 canotta",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "4(L)",
     "color": "Beige",
     "price": 585.6,
@@ -83715,16 +83545,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "5(XL)",
-    "color": "Nero",
-    "price": 350.93,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for women",
-    "name": "BD LANCIANO 33330 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
     "color": "Nero",
     "price": 350.93,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -87055,16 +86875,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "5(L)",
-    "color": "Grigio Melange",
-    "price": 426.56,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE underwear for men",
-    "name": "IBU 33010 slip",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7(2XL)",
     "color": "Grigio Melange",
     "price": 426.56,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -90424,16 +90234,6 @@
     "name": "art. 7192 TOP",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "3(M)",
-    "color": "Rosso",
-    "price": 498.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "art. 7192 TOP",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "5(XL)",
     "color": "Rosso",
     "price": 498.67,
@@ -90476,16 +90276,6 @@
     "density": "",
     "size": "2(S)",
     "color": "Blu",
-    "price": 362.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "art. 2092 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "4(L)",
-    "color": "Rosso",
     "price": 362.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -92414,16 +92204,6 @@
     "name": "art. BO 242 slip maxi",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L(48)",
-    "color": "Bianco",
-    "price": 346.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 242 slip maxi",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "XL(50)",
     "color": "Avorio",
     "price": 346.8,
@@ -92556,16 +92336,6 @@
     "density": "",
     "size": "3XL(54)",
     "color": "Blu Notte",
-    "price": 346.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 242 slip maxi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3XL(54)",
-    "color": "Rosso",
     "price": 346.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -96125,16 +95895,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "S(44)",
-    "color": "Blu",
-    "price": 210.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_F2220 slip midi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
     "color": "Erba Chiaro",
     "price": 210.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -96595,16 +96355,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
-    "color": "Bianco",
-    "price": 754.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MA132 top",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
     "color": "Bianco",
     "price": 754.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -98224,16 +97974,6 @@
     "name": "art. MFR261 brasiliana ribana",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "S(44)",
-    "color": "Bianco",
-    "price": 264.07,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MFR261 brasiliana ribana",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "M(46)",
     "color": "Bianco",
     "price": 264.07,
@@ -104071,16 +103811,6 @@
   },
   {
     "brand": "OMSA underwear for women",
-    "name": "art. OmD 2221 SOFT slip midi",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M(46)",
-    "color": "Militari",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
     "name": "art. OmS 122 SEAMLESS top",
     "menu": "Бельё Женское",
     "density": "",
@@ -104265,16 +103995,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L/XL",
-    "color": "Latte",
-    "price": 680,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmS 142 SEAMLESS top sport",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
     "color": "Latte",
     "price": 680,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -104426,16 +104146,6 @@
     "density": "",
     "size": "M",
     "color": "Bianco",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmS 221 SEAMLESS slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L",
-    "color": "Nero",
     "price": 377.4,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -104636,16 +104346,6 @@
     "density": "",
     "size": "M(46)",
     "color": "Beige",
-    "price": 680,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmT D1001 ACTIVE tank top",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
-    "color": "Nero",
     "price": 680,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -106084,16 +105784,6 @@
     "name": "art. OmB 1224 SLIP",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "3-S",
-    "color": "Blu Scuro",
-    "price": 453.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1224 SLIP",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "4-M",
     "color": "Bordo",
     "price": 453.33,
@@ -107187,16 +106877,6 @@
     "size": "4-M",
     "color": "Oceania",
     "price": 490.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1243-1 SHORTS",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Blu",
-    "price": 528.13,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -109466,16 +109146,6 @@
     "density": "",
     "size": "5-L",
     "color": "Blu",
-    "price": 906.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OMT U1201 t-shirt",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "8-3XL",
-    "color": "Bianco",
     "price": 906.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -117105,16 +116775,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "4(M)",
-    "color": "Navy",
-    "price": 623.33,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 532 SLIP MIDI colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(L)",
     "color": "Navy",
     "price": 623.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -128937,16 +128597,6 @@
     "size": "S",
     "color": "Bianco",
     "price": 871.53,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MY",
-    "name": "art. CR001 CANOTTA spalla stretta",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S/M",
-    "color": "Nero",
-    "price": 719.67,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -154514,16 +154164,6 @@
     "name": "art. 990 cup C",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "5 (85C)",
-    "color": "Blu",
-    "price": 2733.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "LEILIEVE",
-    "name": "art. 990 cup C",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "2 (70C)",
     "color": "Geranio",
     "price": 2733.6,
@@ -162741,16 +162381,6 @@
   },
   {
     "brand": "ENRICO COVERI",
-    "name": "art. EP 1078 HOMEWEAR",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "4-M",
-    "color": "Blu",
-    "price": 3380.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
     "name": "art. EP 1082 HOMEWEAR",
     "menu": "Бельё Мужское",
     "density": "",
@@ -162887,16 +162517,6 @@
     "size": "6-XL",
     "color": "Jeans",
     "price": 3380.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ENRICO COVERI",
-    "name": "art. EP 1099 MAXI HOMEWEAR",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "8-3XL",
-    "color": "Blu",
-    "price": 3139.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -164404,16 +164024,6 @@
     "name": "art. N252MJ boxer",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "5-L",
-    "color": "Grey Melange",
-    "price": 796.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JOLIDON",
-    "name": "art. N252MJ boxer",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "6-XL",
     "color": "Grey Melange",
     "price": 796.73,
@@ -164556,16 +164166,6 @@
     "density": "",
     "size": "5-L",
     "color": "Blue Jeans",
-    "price": 724.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JOLIDON",
-    "name": "art. N253MJ slip",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "6-XL",
-    "color": "Grey Melange",
     "price": 724.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
