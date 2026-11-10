@@ -5181,16 +5181,6 @@
   },
   {
     "brand": "INNAMORE",
-    "name": "COTTON 150 leggings",
-    "menu": "Леггинсы",
-    "density": "150 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 639.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INNAMORE",
     "name": "THERMO FLEECE 300 leggings",
     "menu": "Леггинсы",
     "density": "300 DEN",
@@ -6125,16 +6115,6 @@
     "menu": "Колготки",
     "density": "15 DEN",
     "size": "5-XL",
-    "color": "Daino",
-    "price": 209.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "COSMO 15",
-    "menu": "Колготки",
-    "density": "15 DEN",
-    "size": "5-XL",
     "color": "Melon",
     "price": 209.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -8697,16 +8677,6 @@
     "size": "5-XL",
     "color": "Moka",
     "price": 404.9,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INCANTO",
-    "name": "MICRO VELVET 180",
-    "menu": "Колготки",
-    "density": "180 DEN",
-    "size": "4-L",
-    "color": "Nero",
-    "price": 439.9,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -11105,16 +11075,6 @@
     "menu": "Колготки",
     "density": "40 DEN",
     "size": "4-L",
-    "color": "Fumo",
-    "price": 142,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "PRIMA 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "5-XL",
     "color": "Fumo",
     "price": 142,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -27324,6 +27284,46 @@
     "name": "LUXURY 30",
     "menu": "Колготки",
     "density": "30 DEN",
+    "size": "5-XL",
+    "color": "Gold/chocolate",
+    "price": 511.85,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "LUXURY 30",
+    "menu": "Колготки",
+    "density": "30 DEN",
+    "size": "4-L",
+    "color": "Gold/chocolate",
+    "price": 511.85,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "LUXURY 30",
+    "menu": "Колготки",
+    "density": "30 DEN",
+    "size": "3-M",
+    "color": "Gold/chocolate",
+    "price": 511.85,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "LUXURY 30",
+    "menu": "Колготки",
+    "density": "30 DEN",
+    "size": "2-S",
+    "color": "Gold/chocolate",
+    "price": 511.85,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "LUXURY 30",
+    "menu": "Колготки",
+    "density": "30 DEN",
     "size": "2-S",
     "color": "Grafit",
     "price": 511.85,
@@ -27857,6 +27857,46 @@
     "size": "2-S",
     "color": "Nero",
     "price": 452.76,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "ROMBO MESH 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "5-XL",
+    "color": "Nero",
+    "price": 511.18,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "ROMBO MESH 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "4-L",
+    "color": "Nero",
+    "price": 511.18,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "ROMBO MESH 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "3-M",
+    "color": "Nero",
+    "price": 511.18,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "CONTE",
+    "name": "ROMBO MESH 40",
+    "menu": "Колготки",
+    "density": "40 DEN",
+    "size": "2-S",
+    "color": "Nero",
+    "price": 511.18,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -50654,6 +50694,16 @@
     "name": "NINFA 20",
     "menu": "Колготки",
     "density": "20 DEN",
+    "size": "5-XL",
+    "color": "Playa",
+    "price": 420,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "FILODORO",
+    "name": "NINFA 20",
+    "menu": "Колготки",
+    "density": "20 DEN",
     "size": "4-L",
     "color": "Playa",
     "price": 420,
@@ -68021,16 +68071,6 @@
   },
   {
     "brand": "OROBLU",
-    "name": "NIVES fine wool",
-    "menu": "Колготки",
-    "density": "-",
-    "size": "1-S",
-    "color": "Wool",
-    "price": 2124,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OROBLU",
     "name": "CHERYL fine cashmere",
     "menu": "Колготки",
     "density": "-",
@@ -80265,16 +80305,6 @@
     "menu": "Носки",
     "density": "осенне-зимние",
     "size": "41-43",
-    "color": "Чёрный",
-    "price": 409,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SERGIO di CALZE",
-    "name": "art. 15SC10 wool merino",
-    "menu": "Носки",
-    "density": "осенне-зимние",
-    "size": "43-45",
     "color": "Чёрный",
     "price": 409,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -96344,16 +96374,6 @@
     "name": "art. MA221 slip",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "L/XL",
-    "color": "Giallo",
-    "price": 377.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. MA221 slip",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S/M",
     "color": "Giallo",
     "price": 377.4,
@@ -110526,16 +110546,6 @@
     "density": "",
     "size": "XL(50)",
     "color": "Avorio",
-    "price": 414.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI intimo",
-    "name": "art. Si5503 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "M(46)",
-    "color": "Bianco",
     "price": 414.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
