@@ -15394,16 +15394,6 @@
     "name": "SIBERIA 300 pantacollant",
     "menu": "Леггинсы",
     "density": "300 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 766,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "SIBERIA 300 pantacollant",
-    "menu": "Леггинсы",
-    "density": "300 DEN",
     "size": "3-M",
     "color": "Nero",
     "price": 766,
@@ -43681,16 +43671,6 @@
   },
   {
     "brand": "OMSA",
-    "name": "MALIZIA RETE autoreggente",
-    "menu": "Чулки",
-    "density": "–",
-    "size": "S/M",
-    "color": "Nero",
-    "price": 566,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
     "name": "DELIZIA 20 autoreggente",
     "menu": "Чулки",
     "density": "20 DEN",
@@ -44126,16 +44106,6 @@
     "density": "200 DEN",
     "size": "35-38",
     "color": "Nero",
-    "price": 333,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "WOOL STYLE 200 gambaletto",
-    "menu": "Гольфы",
-    "density": "200 DEN",
-    "size": "39-41",
-    "color": "Beige",
     "price": 333,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -49144,16 +49114,6 @@
     "name": "BENESSERE 70",
     "menu": "Колготки",
     "density": "70 DEN",
-    "size": "5-XL",
-    "color": "Miele",
-    "price": 666,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "SISI",
-    "name": "BENESSERE 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
     "size": "2-S",
     "color": "Miele",
     "price": 666,
@@ -51216,16 +51176,6 @@
     "density": "40 DEN",
     "size": "4-L",
     "color": "Playa",
-    "price": 666,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "PHILIPPE MATIGNON",
-    "name": "GALERIE 40",
-    "menu": "Колготки",
-    "density": "40 DEN",
-    "size": "5-XL",
-    "color": "Cognac",
     "price": 666,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -62786,16 +62736,6 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Blu",
-    "price": 576,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "TRASPARENZE",
-    "name": "CINZIA 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": "UNICA",
-    "color": "Metal",
     "price": 576,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -75546,16 +75486,6 @@
     "density": "70 DEN",
     "size": 4,
     "color": "21 Beige",
-    "price": 726,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "RELAXSAN",
-    "name": "art. 950A LADY 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": 5,
-    "color": "Black",
     "price": 726,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -93634,16 +93564,6 @@
     "name": "art. BMi_A2911 leggings",
     "menu": "Бельё Женское",
     "density": "",
-    "size": "M(46)",
-    "color": "Blu Scuro",
-    "price": 717.4,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_A2911 leggings",
-    "menu": "Бельё Женское",
-    "density": "",
     "size": "S(44)",
     "color": "Blu Scuro",
     "price": 717.4,
@@ -95266,16 +95186,6 @@
     "density": "",
     "size": "XL(50)",
     "color": "Blu",
-    "price": 210.8,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BMi_F2610 brasiliana",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
-    "color": "Corallo",
     "price": 210.8,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -100121,6 +100031,56 @@
   },
   {
     "brand": "OMSA underwear for women",
+    "name": "art. OmD 1141 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Espresso",
+    "price": 981.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1141 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Espresso",
+    "price": 981.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1141 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
+    "color": "Espresso",
+    "price": 981.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1141 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Espresso",
+    "price": 981.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1141 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2XL(52)",
+    "color": "Espresso",
+    "price": 981.47,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
     "name": "art. OmD 1142 INVISIBLE top",
     "menu": "Бельё Женское",
     "density": "",
@@ -100221,6 +100181,56 @@
   },
   {
     "brand": "OMSA underwear for women",
+    "name": "art. OmD 1142 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Espresso",
+    "price": 1057.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1142 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Espresso",
+    "price": 1057.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1142 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
+    "color": "Espresso",
+    "price": 1057.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1142 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Espresso",
+    "price": 1057.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 1142 INVISIBLE top",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2XL(52)",
+    "color": "Espresso",
+    "price": 1057.4,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
     "name": "art. OmD 1211 INVISIBLE top",
     "menu": "Бельё Женское",
     "density": "",
@@ -100886,6 +100896,46 @@
     "density": "",
     "size": "XL(50)",
     "color": "Nudo",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2212 INVISIBLE slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Espresso",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2212 INVISIBLE slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Espresso",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2212 INVISIBLE slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
+    "color": "Espresso",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2212 INVISIBLE slip",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Espresso",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -101271,6 +101321,56 @@
   },
   {
     "brand": "OMSA underwear for women",
+    "name": "art. OmD 2221 INVISIBLE slip midi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Espresso",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2221 INVISIBLE slip midi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Espresso",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2221 INVISIBLE slip midi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
+    "color": "Espresso",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2221 INVISIBLE slip midi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Espresso",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2221 INVISIBLE slip midi",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "2XL(52)",
+    "color": "Espresso",
+    "price": 528.13,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
     "name": "art. OmD 2231 INVISIBLE slip maxi",
     "menu": "Бельё Женское",
     "density": "",
@@ -102106,6 +102206,46 @@
     "density": "",
     "size": "XL(50)",
     "color": "Nudo",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2612 INVISIBLE brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "S(44)",
+    "color": "Espresso",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2612 INVISIBLE brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "M(46)",
+    "color": "Espresso",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2612 INVISIBLE brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "L(48)",
+    "color": "Espresso",
+    "price": 453.33,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "OMSA underwear for women",
+    "name": "art. OmD 2612 INVISIBLE brasiliana",
+    "menu": "Бельё Женское",
+    "density": "",
+    "size": "XL(50)",
+    "color": "Espresso",
     "price": 453.33,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -104295,16 +104435,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "L(48)",
-    "color": "Jeans",
-    "price": 830.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for women",
-    "name": "art. OmT D1201 ACTIVE t-shirt",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "XL(50)",
     "color": "Jeans",
     "price": 830.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -114625,16 +114755,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "6(XL)",
-    "color": "Nero",
-    "price": 473.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 509 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6(XL)",
     "color": "Bianco",
     "price": 473.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -114665,16 +114785,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "5(L)",
-    "color": "Cipria",
-    "price": 473.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 509 SLIP",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "6(XL)",
     "color": "Cipria",
     "price": 473.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -139076,16 +139186,6 @@
     "density": "",
     "size": "M/L",
     "color": "Sangria",
-    "price": 1251.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "INTIMIDEA",
-    "name": "TEXAS t-shirt girocollo manica lunga",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "L/XL",
-    "color": "Fesso",
     "price": 1251.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
