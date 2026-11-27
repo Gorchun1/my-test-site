@@ -13605,16 +13605,6 @@
     "menu": "Колготки",
     "density": "70 DEN",
     "size": "3-M",
-    "color": "Violet",
-    "price": 382,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MULTIFIBRA COLORS 70",
-    "menu": "Колготки",
-    "density": "70 DEN",
-    "size": "3-M",
     "color": "Jeans",
     "price": 382,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16175,16 +16165,6 @@
     "menu": "Чулки",
     "density": "160 DEN",
     "size": "UNICA",
-    "color": "Blu Scuro",
-    "price": 246,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "PARIGINA MICRO 160",
-    "menu": "Чулки",
-    "density": "160 DEN",
-    "size": "UNICA",
     "color": "Fumo",
     "price": 246,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -16227,16 +16207,6 @@
     "size": "35-38",
     "color": "Nero",
     "price": 410,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "SCALDAMUSCOLO var. 5",
-    "menu": "Чулки",
-    "density": "-",
-    "size": "UNICA",
-    "color": "Avorio",
-    "price": 400,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16317,6 +16287,46 @@
     "size": "UNICA",
     "color": "Fumo",
     "price": 146,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "ERICA 20 gambaletto",
+    "menu": "Гольфы",
+    "density": "20 DEN",
+    "size": "UNICA",
+    "color": "Nero",
+    "price": 90,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "ERICA 20 gambaletto",
+    "menu": "Гольфы",
+    "density": "20 DEN",
+    "size": "UNICA",
+    "color": "Caramello",
+    "price": 90,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "ERICA 40 gambaletto",
+    "menu": "Гольфы",
+    "density": "40 DEN",
+    "size": "UNICA",
+    "color": "Nero",
+    "price": 100,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "MINIMI",
+    "name": "ERICA 40 gambaletto",
+    "menu": "Гольфы",
+    "density": "40 DEN",
+    "size": "UNICA",
+    "color": "Daino",
+    "price": 100,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -16456,16 +16466,6 @@
     "density": "70 DEN",
     "size": "UNICA",
     "color": "Fumo",
-    "price": 220,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI",
-    "name": "MICRO 70 gambaletto",
-    "menu": "Гольфы",
-    "density": "70 DEN",
-    "size": "UNICA",
-    "color": "Verde Foresta",
     "price": 220,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -27747,16 +27747,6 @@
     "size": "4-L",
     "color": "Nero",
     "price": 454.08,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "CONTE",
-    "name": "FABIA 50",
-    "menu": "Колготки",
-    "density": "50 DEN",
-    "size": "2-S",
-    "color": "Nero",
-    "price": 489.53,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -42147,16 +42137,6 @@
     "size": "5-XL",
     "color": "Avorio",
     "price": 355,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA",
-    "name": "VELOUR MICRO 100 XXL",
-    "menu": "Колготки",
-    "density": "100 DEN",
-    "size": "7-XXXL",
-    "color": "Nero",
-    "price": 466,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
@@ -87170,6 +87150,56 @@
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
   {
+    "brand": "INNAMORE underwear for men",
+    "name": "IBU 36001 shorts",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "5(L)",
+    "color": "Grigio Melange",
+    "price": 670.93,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for men",
+    "name": "IBU 36001 shorts",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "6(XL)",
+    "color": "Grigio Melange",
+    "price": 670.93,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for men",
+    "name": "IBU 36001 shorts",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "4(M)",
+    "color": "Grigio Melange",
+    "price": 670.93,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for men",
+    "name": "IBU 36001 shorts",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "3(S)",
+    "color": "Nero",
+    "price": 670.93,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
+    "brand": "INNAMORE underwear for men",
+    "name": "IBU 36001 shorts",
+    "menu": "Бельё Мужское",
+    "density": "",
+    "size": "7(2XL)",
+    "color": "Grigio Melange",
+    "price": 670.93,
+    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
+  },
+  {
     "brand": "ALLA BUONE",
     "name": "art. 1000 STRING",
     "menu": "Бельё Женское",
@@ -88565,16 +88595,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "2(S)",
-    "color": "Nero",
-    "price": 544,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "ALLA BUONE",
-    "name": "art. 4000 PANTALONI",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "3(M)",
     "color": "Nero",
     "price": 544,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -91145,16 +91165,6 @@
     "menu": "Бельё Женское",
     "density": "",
     "size": "M(46)",
-    "color": "Blu Notte",
-    "price": 301.47,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "MINIMI intimo",
-    "name": "art. BO 222 slip",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "S(44)",
     "color": "Blu Notte",
     "price": 301.47,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -105804,16 +105814,6 @@
     "name": "art. OmB 1233 BOXER",
     "menu": "Бельё Мужское",
     "density": "",
-    "size": "7-2XL",
-    "color": "Grigio Melange",
-    "price": 566.67,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1233 BOXER",
-    "menu": "Бельё Мужское",
-    "density": "",
     "size": "8-3XL",
     "color": "Grigio Melange",
     "price": 566.67,
@@ -106715,16 +106715,6 @@
     "menu": "Бельё Мужское",
     "density": "",
     "size": "8-3XL",
-    "color": "Oceania",
-    "price": 490.73,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "OMSA underwear for men",
-    "name": "art. OmB 1236-25 BOXER var. OCEANIA",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "5-L",
     "color": "Oceania",
     "price": 490.73,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
@@ -116556,16 +116546,6 @@
     "density": "",
     "size": "3(S)",
     "color": "Laguna",
-    "price": 574.6,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JADEA",
-    "name": "art. 518 SLIP colorato",
-    "menu": "Бельё Женское",
-    "density": "",
-    "size": "5(L)",
-    "color": "Foresta",
     "price": 574.6,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
@@ -164796,16 +164776,6 @@
     "density": "",
     "size": "5-L",
     "color": "Blue Jeans",
-    "price": 724.2,
-    "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
-  },
-  {
-    "brand": "JOLIDON",
-    "name": "art. N253MJ slip",
-    "menu": "Бельё Мужское",
-    "density": "",
-    "size": "7-XXL",
-    "color": "Grey Melange",
     "price": 724.2,
     "picture": "https://via.placeholder.com/300x400?text=Нет+фото"
   },
